@@ -1,6 +1,6 @@
 ---
 title: セグメントでの最新性と頻度の使用
-description: 最新性と頻度を使用して、特定の期間内に訪問者が特性に対して何回資格を与えたかをセグメントパラメーターに示します。 これは、コンテンツのアフィニティや頻度制限の使用例などに最適です。
+description: 「最新性」と「頻度」を使用して、特定の期間内に訪問者が特性の対象となる必要がある回数をセグメントパラメーターに指定します。 コンテンツの親和性やフリークエンシーキャップのユースケースなどに最適です。
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 用途 [!UICONTROL Recency] および [!UICONTROL Frequency] セグメント内
+# セグメントでの [!UICONTROL Recency] と [!UICONTROL Frequency] の使用
 
-用途 [!UICONTROL Recency] および [!UICONTROL Frequency] を使用すると、ある特性に対して特定の期間内に訪問者が何回資格を与えたかをセグメントパラメーターに示すことができます。 これは、コンテンツのアフィニティや頻度制限の使用例などに最適です。
+[!UICONTROL Recency] および [!UICONTROL Frequency] を使用して、特定の期間内に訪問者が特性の対象となる必要がある回数のセグメントパラメーターを指定します。 コンテンツの親和性やフリークエンシーキャップのユースケースなどに最適です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

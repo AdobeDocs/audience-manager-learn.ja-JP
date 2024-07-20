@@ -1,6 +1,6 @@
 ---
 title: 特性とセグメントに関するトレンドレポートの使用
-description: Audience Managerのトレンドレポートを使用して、特性とセグメントの経時的なパフォーマンスを確認する方法を説明します。
+description: Audience Managerでトレンドレポートを使用して、特性とセグメントのパフォーマンスを経時的に確認する方法を説明します。
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 特性とセグメントに関するトレンドレポートの使用
 
-Audience Managerのトレンドレポートを使用して、特性とセグメントの経時的なパフォーマンスを確認する方法を説明します。
+Audience Managerのトレンドレポートを使用して、特性とセグメントのパフォーマンスを経時的に確認する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)

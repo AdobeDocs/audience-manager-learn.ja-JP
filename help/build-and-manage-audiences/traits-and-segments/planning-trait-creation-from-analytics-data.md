@@ -1,6 +1,6 @@
 ---
 title: Analytics データからの特性作成の計画
-description: Audience Managerの特性でAdobe Analyticsデータを使用する計画を立てる際に役立つヒントとテクニックを紹介します。
+description: Audience Managerの特性でAdobe Analytics データを使用する予定がある場合に役立つヒントとテクニックを説明します。
 feature: Traits
 topics: null
 activity: implement
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Analytics データからの特性作成の計画
 
-Audience Managerの特性でAdobe Analyticsデータを使用する計画を立てる際に役立つヒントとテクニックを紹介します。
+Audience Managerの特性でAdobe Analytics データを使用する予定がある場合に役立つヒントとテクニックを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)

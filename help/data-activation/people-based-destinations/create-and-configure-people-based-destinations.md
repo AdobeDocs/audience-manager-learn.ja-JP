@@ -1,6 +1,6 @@
 ---
-title: People-based Destinations の作成と設定
-description: ユーザーベースの宛先を作成するための前提条件と、統合アカウント (Facebookなどのパートナーへのリンク ) を設定する方法について説明します。 宛先自体の製品内設定について説明します。
+title: 人物ベースの宛先の作成と設定
+description: People ベースの宛先を作成するための前提条件と、統合アカウント（Facebookなどのパートナーへのリンク）を設定する方法について説明します。 宛先自体の製品内設定について説明します。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 作成と設定 [!UICONTROL People-based Destinations]
+# [!UICONTROL People-based Destinations] の作成と設定
 
-このビデオでは、最初に、People ベースの宛先を作成するための前提条件に関する情報を提供し、次に、統合アカウント（次のようなパートナーにリンク）を設定する方法も示します。 [!DNL Facebook]) をクリックします。 その後、宛先自体の製品内設定に関する手順を説明します。
+このビデオでは、まず、人物ベースの宛先を作成するための前提条件に関する情報を提供し、次に、統合アカウント（[!DNL Facebook] などのパートナーへのリンク）を設定する方法についても説明します。 次に、宛先自体の製品内設定について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

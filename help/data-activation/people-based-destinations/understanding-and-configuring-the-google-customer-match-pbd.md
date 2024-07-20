@@ -1,6 +1,6 @@
 ---
-title: Google Customer Match のユーザーベースの宛先の概要と設定
-description: このビデオでは、Google Customer Match People Based Destination の詳細と使用例について説明し、セグメントの作成と宛先へのマッピングに関する手順を説明します。 また、Google Ad Console にオーディエンスのランディングが表示されます。
+title: Google Customer Match の People-Based Destination について
+description: このビデオでは、Google カスタマーマッチの人物ベースの宛先の詳細と使用例について説明し、セグメントを作成して宛先にマッピングする手順を含みます。 また、Google Ad Console にランディングするオーディエンスも示します。
 feature: People-based Destinations
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Google Customer Match のユーザーベースの宛先の概要と設定
+# Google Customer Match の People-Based Destination について
 
-このビデオでは、Google Customer Match People Based Destination の詳細と使用例について説明し、セグメントを作成して宛先にマッピングするためのウォークスルーについて説明します。 また、Google Ad Console にオーディエンスのランディングが表示されます。
+このビデオでは、Google カスタマーマッチの人物ベースの宛先の詳細とユースケースについて説明し、セグメントを作成して宛先にマッピングする手順を含みます。 また、Google Ad Console にランディングするオーディエンスも示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

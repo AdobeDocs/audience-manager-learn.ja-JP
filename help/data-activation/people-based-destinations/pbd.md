@@ -1,6 +1,6 @@
 ---
 title: People-based Destinations のビデオとチュートリアル
-description: People-based Destinations in Destinations についてAudience Manager。 オンラインとオフラインのデータにセグメント化を適用し、電子メールアドレスなどのハッシュ化された識別子に基づいてオーディエンスセグメントを作成する方法を説明します。
+description: Audience Managerでの People-based Destinations について説明します。 オンラインおよびオフラインのデータにセグメント化を適用し、メールアドレスなどのハッシュ化された識別子に基づいてオーディエンスセグメントを作成する方法を説明します。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -12,25 +12,25 @@ level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # People-based Destinations のビデオとチュートリアル
 
-People-based Destinations を使用すると、オンラインとオフラインのデータにセグメント化を適用し、電子メールアドレスなどのハッシュ化された識別子に基づいてオーディエンスセグメントを作成できます。 その後、これらのセグメントを、次のようなソーシャルプラットフォーム ( [!DNL Facebook] または [!DNL LinkedIn]を使用して、オーディエンスをターゲット設定できます。
+人物ベースの宛先を使用すると、オンラインおよびオフラインのデータにセグメント化を適用し、メールアドレスなどのハッシュ化された識別子に基づいてオーディエンスセグメントを作成できます。 次に、これらのセグメントを [!DNL Facebook] や [!DNL LinkedIn] などのソーシャルプラットフォームに送信し、オーディエンスをターゲットにすることができます。
 
-この節では、People-based Destinations に関するトピックのビデオとチュートリアルについて説明します。 ユーザーベースの宛先を設定するフローやプロセスを進める際には、次の順序に従って、目的に応じて列挙されています。
+このセクションには、People-based Destinations に関するトピックを紹介するビデオとチュートリアルが含まれています。 人物ベースの宛先を設定するフロー/プロセスを進める中で、これらの宛先は、意図的にこの順序でリストされています。
 
-* [People-based Destinations データフロー](people-based-destinations-data-flow.md)
-* [People-based Destinations 用のデータソースの作成](creating-a-data-source-for-people-based-destinations.md)
-* [People-based Destinations 用のハッシュ化された PII データ取り込みについて](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
-* [People-based Destinations 用のハッシュ化された PII の取り込み](ingesting-hashed-pii-for-people-based-destinations.md)
-* [setCustomerIDs() を使用した宣言済み ID としての PII の取り込みとハッシュ化](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
-* [People-based Destinations 用のプロファイル結合ルールの設定](configuring-profile-merge-rules-for-people-based-destinations.md)
+* [People-based Destinations のデータフロー](people-based-destinations-data-flow.md)
+* [People-based Destinations のデータソースの作成](creating-a-data-source-for-people-based-destinations.md)
+* [人物ベースの宛先のハッシュ化された PII データ取り込みについて](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
+* [People-Based Destinations のハッシュ化された PII の取り込み](ingesting-hashed-pii-for-people-based-destinations.md)
+* [setCustomerIDs （）を使用した PII の取り込みと宣言 ID としてのハッシュ](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
+* [人物ベースの宛先のプロファイル結合ルールの設定](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [People-based Destinations のセグメントの作成](creating-segments-for-people-based-destinations.md)
-* [People-based Destinations の作成と設定](create-and-configure-people-based-destinations.md)
-* [LinkedIn People-based Destination の理解と設定](understanding-and-configuring-the-linkedin-pbd.md)
+* [人物ベースの宛先の作成と設定](create-and-configure-people-based-destinations.md)
+* [linkedIn People-based Destination について理解し、設定する](understanding-and-configuring-the-linkedin-pbd.md)
 
-これらのビデオを [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+これらのビデオは、[documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) と組み合わせて使用することができます。

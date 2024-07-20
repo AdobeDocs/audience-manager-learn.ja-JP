@@ -1,6 +1,6 @@
 ---
-title: Audience Manager
-description: このビデオでは、アプリケーションでのデータフロー、データフロー、データフローについて説明し、Adobe Audience Managerについて理解するのに役立ちます。
+title: Audience Managerでのデータフローについて
+description: このビデオでは、アプリケーションへのデータフロー、アプリケーションを通過するデータフロー、アプリケーションから出るデータフローを説明することで、Adobe Audience Managerについて理解できます。
 feature: Overview
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Audience Managerでのデータフローについて
 
-このビデオでは、アプリケーションでのデータフロー、データフロー、データフローについて説明し、Adobe Audience Managerについて理解するのに役立ちます。
+このビデオでは、アプリケーションへのデータフロー、アプリケーションを通過するデータフロー、アプリケーションから出るデータフローを説明することで、Adobe Audience Managerについて理解できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)

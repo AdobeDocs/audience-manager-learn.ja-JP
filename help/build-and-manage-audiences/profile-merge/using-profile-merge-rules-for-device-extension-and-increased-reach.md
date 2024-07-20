@@ -1,6 +1,6 @@
 ---
-title: デバイス拡張機能と拡張リーチに対するプロファイル結合ルールの使用
-description: プロファイル結合ルールを使用して、ユーザーのすべてのデバイスへのリーチを拡張し、デバイスの代わりにユーザーにマーケティングできるようにします。
+title: デバイスの拡張とリーチの向上のためのプロファイル結合ルールの使用
+description: プロファイル結合ルールを使用してユーザーのすべてのデバイスにリーチを拡張することで、デバイスではなく人物に対してマーケティングを行うことができます。
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 用途 [!UICONTROL Profile Merge Rules] （デバイスの拡張とリーチの増加）
+# デバイスの拡張とリーチの向上に [!UICONTROL Profile Merge Rules] を使用
 
-用途 [!UICONTROL Profile Merge Rules] を使用すれば、ユーザーのすべてのデバイスにリーチを広げて、デバイスの代わりにユーザーにマーケティングできます。
+[!UICONTROL Profile Merge Rules] を使用してユーザーのすべてのデバイスにリーチを拡張することで、デバイスではなく人物に対してマーケティングを行えるようにします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

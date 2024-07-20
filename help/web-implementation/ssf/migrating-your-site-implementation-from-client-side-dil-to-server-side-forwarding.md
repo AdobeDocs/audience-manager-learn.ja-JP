@@ -1,6 +1,6 @@
 ---
-title: サイトのAudience Manager実装をクライアント側DILからサーバー側転送に移行する
-description: クライアント側のAudience Managerからサーバー側の転送に、サイトのDIL(AAM) 実装を移行する方法について説明します。 このチュートリアルは、AAMとAdobe Analyticsの両方を使用し、DIL(Data Integration Library) コードを使用してページからAAMにヒットを送信し、ページからAdobe Analyticsにヒットを送信する場合に適用されます。
+title: サイトのAudience Manager実装をクライアントサイド転送からサーバーサイドDILに移行する
+description: サイトのAudience Manager（AAM）の実装をクライアントサイド転送からサーバーサイドDILに移行する方法を説明します。 このチュートリアルは、AAMとAdobe Analyticsの両方があり、DIL（Data Integration Library）コードを使用してページからAAMにヒットを送り、また、ページからAdobe Analyticsにもヒットを送る場合に適用されます。
 product: audience manager
 feature: Adobe Analytics Integration
 topics: null
@@ -18,188 +18,188 @@ ht-degree: 0%
 
 ---
 
-# サイトのAudience Manager実装をクライアント側DILからサーバー側転送に移行する {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
+# サイトのAudience Manager実装をクライアントサイド転送からサーバーサイドDILに移行する {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-このチュートリアルは、Adobe Audience Manager(AAM) とAdobe Analyticsの両方を使用し、現在、DIL([!DNL Data Integration Library]) コードで始まり、また、ページからAdobe Analyticsにヒットを送信することもできます。 これらの両方のソリューションを使用しており、両方ともAdobe Experience Cloudに含まれているので、サーバー側転送を有効にするベストプラクティスに従うことができます。これにより、 [!DNL Analytics] データ収集サーバーを使用して、クライアント側のコードでページからAAMに追加のヒットを送信する代わりに、リアルタイムでサイト分析データをAudience Managerに転送することができます。 このチュートリアルでは、古いクライアント側のDIL実装から新しいサーバー側転送方法に切り替える手順について説明します。
+このチュートリアルは、Adobe Audience Manager（AAM）とAdobe Analyticsの両方があり、現在、DIL（[!DNL Data Integration Library]）コードを使用してページからAAMにヒットを送り、また、ページからAdobe Analyticsにもヒットを送っている場合に適用されます。 これらのソリューションは両方とも存在し、どちらもAdobe Experience Cloudの一部なので、サーバーサイド転送を有効にするベストプラクティスに従うことができます。これにより、クライアントサイドのコードでページからAAMにさらにヒットを送るのではなく、[!DNL Analytics] データ収集サーバーがサイト分析データをリアルタイムでAudience Managerに転送できます。 このチュートリアルでは、古いクライアントサイドDIL実装から新しいサーバーサイド転送方式に切り替える手順について説明します。
 
-## クライアント側 (DIL) とサーバー側 {#client-side-dil-vs-server-side}
+## クライアントサイド（DIL）とサーバーサイドの比較 {#client-side-dil-vs-server-side}
 
-Adobe AnalyticsのデータをAAMに取り込むこれら 2 つの方法を比較および対照する場合、まず次の画像の違いを視覚化すると役に立ちます。
+Adobe Analytics データをAAMに送信するこれら 2 つの方法を比較および対比する場合、最初に次の図の違いを視覚化すると役立つ場合があります。
 
-![クライアント側からサーバー側へ](assets/client-side_vs_server-side_aam_implementation.png)
+![ クライアントサイドからサーバーサイドへ ](assets/client-side_vs_server-side_aam_implementation.png)
 
-### クライアント側DILの実装 {#client-side-dil-implementation}
+### クライアントサイドDILの実装 {#client-side-dil-implementation}
 
-この方法を使用してAdobe AnalyticsデータをAAMに送信する場合、Web ページから 2 つのヒットが取得されます。1 つは [!DNL Analytics]（コピー後に）AAMに移動 [!DNL Analytics] データを Web ページに貼り付けます。 [!UICONTROL Segments] はAAMからページに返され、そこでパーソナライゼーションなどに使用できます。 これはレガシー実装と見なされ、お勧めしません。
+この手法を使用してAdobe Analytics データをAAMに送信した場合、web ページから 2 つのヒットが発生します。1 つは [!DNL Analytics] に送信され、もう 1 つはAAMに送信されます（web ページに [!DNL Analytics] データをコピーした後）。 [!UICONTROL Segments] はAAMからページに返され、パーソナライゼーションに使用できます。 これはレガシー実装と見なされ、推奨されません。
 
-これはベストプラクティスに従っていないという点以外に、この方法を使用するデメリットには次のものがあります。
+これはベストプラクティスに従わないという事実に加えて、この方法を使用するデメリットには次のものがあります。
 
-* 1 つではなく、ページからの 2 つのヒット
-* AAMオーディエンスをにリアルタイムで共有するには、サーバー側転送が必要です [!DNL Analytics]そのため、クライアント側の実装では、この機能（および将来他の機能になる可能性がある）は許可されません
+* ページからの 1 つではなく 2 つのヒット
+* AAM オーディエンスを [!DNL Analytics] にリアルタイムで共有するにはサーバーサイド転送が必要なので、クライアントサイド実装ではこの機能（および将来の他の機能）は許可されません
 
-AAM実装のサーバー側転送方法に移行することをお勧めします。
+AAM実装のサーバーサイド転送方式に移行することをお勧めします。
 
-### サーバー側転送の実装 {#server-side-forwarding-implementation}
+### サーバーサイド転送の実装 {#server-side-forwarding-implementation}
 
-上の画像に示すように、Web ページからAdobe Analyticsにヒットが届きます。 [!DNL Analytics] 次に、そのデータをリアルタイムでAAMに転送し、訪問者はAAMの特性と [!UICONTROL segments]：ヒットがページから直接来た場合と同様です。
+上の画像に示すように、ヒットは、web ページからAdobe Analyticsに到達します。 [!DNL Analytics] は、そのデータをリアルタイムでAAMに転送し、ヒットがページから直接来たかのように、訪問者はAAMの特性と [!UICONTROL segments] に評価されます。
 
-[!UICONTROL Segments] が [!DNL Analytics]：パーソナライゼーション用に Web ページに応答を転送します。
+[!UICONTROL Segments] は、同じリアルタイムヒットで [!DNL Analytics] に返され、パーソナライゼーションなどのために web ページに応答を転送します。
 
-サーバー側転送に移行するタイミングが下がりません。 Adobeは、Audience Managerと [!DNL Analytics] はこの実装方法を使用します。
+サーバーサイド転送に移行する際のタイミングのデメリットはありません。 Adobeでは、Audience Managerと [!DNL Analytics] の両方を持っている場合は、この実装方法を使用することを強くお勧めします。
 
-## 主なタスクは 2 つあります {#you-have-two-main-tasks}
+## これには、主に次の 2 つのタスクがあります {#you-have-two-main-tasks}
 
-このページにはかなり多くの情報があり、もちろんすべてが重要です。 しかし、 **すべては、あなたがする必要がある 2 つの主な事につながる**:
+このページにはかなり多くの情報があり、もちろん、それはすべて重要です。 ただし、**すべては、次の 2 つの主な作業に要約されます**。
 
-1. コードをクライアント側のDILコードからサーバー側転送コードに変更する
-1. スイッチを [!DNL Analytics] [!DNL Admin Console] ( [!UICONTROL report suite])
+1. コードをクライアントサイドのDILコードからサーバーサイドの転送コードに変更する
+1. [!DNL Analytics] [!DNL Admin Console] でスイッチをフリップして、データの実際の転送を開始します（[!UICONTROL report suite] あたり）
 
-これらのタスクのどちらかをスキップすると、サーバー側転送は正しく機能しません。 このドキュメントに、設定に合わせてこれら 2 つの手順を正しく実行するための手順と追加データが追加されました。
+これらのタスクのいずれかをスキップすると、サーバーサイド転送は正しく機能しません。 このドキュメントには、設定に合わせてこれらの 2 つの手順を正しく実行できるように、手順と追加データが追加されています。
 
 ## 実装オプション {#implementation-options}
 
-クライアント側からサーバー側転送に移行する際のタスクの 1 つとして、コードを新しいサーバー側転送コードに変更します。 これは、次のいずれかのオプションを使用しておこないます。
+クライアントサイド転送からサーバーサイド転送に移行する際に行うタスクの 1 つは、コードを新しいサーバーサイド転送コードに変更することです。 これは、次のいずれかのオプションを使用して行います。
 
-* Adobe Experience Platformタグ — Web プロパティに対するAdobeが推奨する実装オプションです。 Platform タグがすべての困難な作業をおこなったので、これは簡単な作業です。
-* ページ上 — 新しい SSF コードを、 `doPlugins` 関数を `appMeasurement.js` ファイル ( まだAdobeLaunch を使用していない場合 )
-* その他のタグマネージャー — SSF コードは、引き続き `doPlugins`( 他のタグマネージャーが [!DNL AppMeasurement] コード
+* Adobe Experience Platform タグ - web プロパティに対するAdobeの推奨される実装オプション。 Platform タグがすべての困難な作業を代行してくれるので、これは簡単な作業です。
+* ページ上 – （まだ）Adobeの Launch を使用していない場合は、新しい SSF コードを `appMeasurement.js` ファイル内の `doPlugins` 関数に直接配置することもできます
+* その他のタグマネージャー – これらは前の（ページ上の）オプションと同じように扱うことができます。他のタグマネージャーが [!DNL AppMeasurement] コードを保存している場所では `doPlugins` コードを配置し続けるからです
 
-以下の各項目について、 _コードの更新_ 」セクションに入力します。
+_コードの更新_ の節では、以下にそれぞれについて説明します。
 
-## 実装の手順 {#implementation-steps}
+## 実装手順 {#implementation-steps}
 
-次の手順は、の実装を説明します。
+次の手順で実装を説明します。
 
-### 手順 0:前提条件：Experience CloudID サービス (ECID) {#step-prerequisite-experience-cloud-id-service-ecid}
+### 手順 0：前提条件：Experience CloudID サービス（ECID） {#step-prerequisite-experience-cloud-id-service-ecid}
 
-サーバー側転送に移行するための主な前提条件は、Experience CloudID サービスを実装することです。 これは、Experience Platform Launchを使用している場合に最も簡単におこなえます。その場合は、ECID 拡張機能をインストールするだけで、残りの操作を実行できます。
+サーバーサイド転送に移行するための主な前提条件は、Experience CloudID サービスを実装することです。 これは、拡張機能を使用している場合に最も簡単に実行できます。この場合は、ECIDExperience Platform Launchをインストールするだけで、残りの処理が実行されます。
 
-Adobe以外の TMS を使用している場合、または TMS をまったく使用していない場合は、実行する ECID を実装してください **前** その他のAdobeソリューション 詳しくは、 [ECID ドキュメント](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja) を参照してください。 その他の前提条件は、コードバージョンに関するものです。そのため、次の手順で最新バージョンのコードを適用するだけで問題ありません。
+Adobe以外の TMS を使用している場合、または TMS をまったく使用していない場合は、ECID を実装して、他のAdobeソリューションを **事前** 実行してください。 詳しくは、[ECID ドキュメント ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja) を参照してください。 もう 1 つの前提条件はコードバージョンに関するものなので、次の手順でコードの最新バージョンを適用するだけなので、問題ありません。
 
 >[!NOTE]
 >
->実装する前に、このドキュメント全体をお読みください。 以下の「タイミング」の項では、 *when* ECID を含む各要素を実装する必要があります（まだ実装されていない場合）。
+>実装する前に、このドキュメント全体をお読みください。 以下の「タイミング」の節では、ECID を含む各要素を実装する *タイミング* に関する重要な情報を示します（まだ実装されていない場合）。
 
-### 手順 1:現在使用されているレコードのDILコード {#step-record-currently-used-options-from-dil-code}
+### 手順 1:DILコードから現在使用されているオプションを記録する {#step-record-currently-used-options-from-dil-code}
 
-クライアント側のDILコードからサーバー側の転送に移行する準備が整ったら、最初の手順は、AAMに送信されるカスタム設定やデータなど、DILコードでおこなっているすべての操作を識別することです。 注意事項と考慮事項は次のとおりです。
+クライアントサイドのDILコードからサーバーサイド転送に移行する準備が整ったら、最初の手順は、カスタム設定やAAMに送信されるデータなど、DILコードで行っているすべてを特定することです。 注意し、考慮すべき事項は次のとおりです。
 
-* 標準 [!DNL Analytics] 変数、使用 `siteCatalyst.init` DILモジュール — このモジュールは、通常の [!DNL Analytics] 変数を渡す場合と、単にサーバー側転送を有効にしている場合に発生します。
-* パートナーサブドメイン — 内 `DIL.create` 関数、 `partner` パラメーター。 これは「パートナーサブドメイン」または「パートナー ID」と呼ばれ、新しいサーバー側転送コードを配置する際に必要になります。
-* [!DNL Visitor Service Namespace] - 「[!DNL Org ID]&quot;または&quot;[!DNL IMS Org ID]」と表示された場合は、新しいサーバー側転送コードを設定する際にも必要になります。 メモを取ります。
-* containerNSID、uuidCookie およびその他の詳細設定オプション — サーバー側転送コードでも設定できるよう、使用しているその他の詳細設定オプションをメモしておきます。
-* 追加のページ変数 — 通常の変数に加えて、他の変数がページからAAMに送信される場合。 [!DNL Analytics] 変数を siteCatalyst.init で処理する場合 )、サーバー側転送 ( スポイラーアラート：経由 [!DNL contextData] 変数 ) を参照してください。
+* `siteCatalyst.init` DILモジュールを使用した、通常の [!DNL Analytics] 変数 – この変数について心配する必要はありません。これは、通常の [!DNL Analytics] 変数を送信するだけなので、サーバーサイド転送を有効にするだけです。
+* Partner Subdomain - `DIL.create` 関数で、`partner` パラメーターをメモします。 これは、「パートナーサブドメイン」、または場合によっては「パートナー ID」と呼ばれ、新しいサーバーサイド転送コードを配置する際に必要になります。
+* [!DNL Visitor Service Namespace] - 「[!DNL Org ID]」または「[!DNL IMS Org ID]」とも呼ばれ、新しいサーバーサイド転送コードを設定する際にも必要になります。 書き留めてください。
+* containerNSID、uuidCookie、その他の詳細オプション – 使用している追加の詳細オプションをメモして、サーバーサイド転送コードでも設定できるようにします。
+* 追加のページ変数 – ページからAAMに送信されている他の変数がある場合（siteCatalyst.init で処理される通常の [!DNL Analytics] 変数に加えて）、サーバーサイド転送（spoiler alert:[!DNL contextData] 変数）で送信できるようにメモする必要があります。
 
-### 手順 2:コードの更新 {#step-updating-the-code}
+### 手順 2：コードを更新する {#step-updating-the-code}
 
-In [実装オプション](#implementation-options) （上記）サーバー側転送を実装する方法と場所に関して、複数のオプションが表示されます。 このセクションを有効にするには、このセクションに分割する必要があります（そのうち 2 つを組み合わせたセクション）。 必要に応じて、この節の方法を参照してください。
+[ 実装オプション ](#implementation-options) （上記）では、サーバーサイド転送を実装する方法と場所に関して複数のオプションが示されています。 このセクションを有効にするには、次のセクションに分ける必要があります（そのうちの 2 つを組み合わせる）。 必要に応じて、このセクションの方法を参照してください。
 
-#### Adobe Experience Platformタグ {#launch-by-adobe}
+#### Adobe Experience Platform タグ {#launch-by-adobe}
 
-Experience Platform Launchでのクライアント側のDILコードからサーバー側転送に実装オプションを移行する方法については、以下のビデオをご覧ください。
+Experience Platform LaunchでクライアントサイドDILコードからサーバーサイド転送に実装オプションを移行する方法については、以下のビデオをご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26310/?quality=12)
 
-#### 「ページ上」またはAdobe以外のタグマネージャー {#on-the-page-or-non-adobe-tag-manager}
+#### &quot;ページ上&quot;またはAdobe以外のタグマネージャー {#on-the-page-or-non-adobe-tag-manager}
 
-でのクライアント側のDILコードからサーバー側転送への実装オプションの移行については、以下のビデオをご覧ください。 [!DNL AppMeasurement] ファイル内または非Adobeタグ管理システム内に存在するコード。
+次のビデオでは、クライアントサイドDILコードからサーバーサイド転送（ファイル内または非Adobeタグ管理システム内）に実装オプションを移 [!DNL AppMeasurement] する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26312/?quality=12)
 
-### 手順 3:転送の有効化 ( [!UICONTROL Report Suite]) {#step-enabling-the-forwarding-per-report-suite}
+### 手順 3：転送を有効にする（[!UICONTROL Report Suite] あたり） {#step-enabling-the-forwarding-per-report-suite}
 
-このチュートリアルでは、常に、コードをクライアント側のDILコードからサーバー側の転送に切り替えるのに時間を費やしました。 それはより難しい部分なので結構です。 この節は非常に簡単ですが、コードを更新するのと同じくらい重要です。 このビデオでは、Analytics からAudience Managerへのデータの実際の転送を可能にするスイッチの反転方法を確認します。
+このチュートリアルでは、コードをクライアントサイドのDILコードからサーバーサイド転送に切り替えるのに時間を費やしました。 それは、より難しい部分であるため、問題ありません。 この節は、非常に簡単ですが、コードを更新するのと同じくらい重要です。 このビデオでは、Analytics からAudience Managerへの実際のデータ転送を有効にするスイッチの切り替え方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
 
-**注意：** このビデオで述べたように、転送の有効化がExperience Cloudのバックエンドで完全に実装されるまでに最大 4 時間かかることに注意してください。
+**注意：** ビデオで説明しているように、転送の有効化がExperience Cloudバックエンドに完全に実装されるまでに、最大 4 時間かかることに注意してください。
 
 ## タイミング {#timing}
 
-クライアント側の転送からサーバー側の転送に移行する際の主なタスクは 2 つあります。
+クライアントサイド転送からサーバーサイドDILに移行するには、主に次の 2 つのタスクがあります。
 
 1. コードの更新
-1. スイッチを [!DNL Analytics] [!DNL Admin Console]
+1. [!DNL Analytics] [!DNL Admin Console] ード内でスイッチをフリップする
 
-でも問題はどちらが先か？ 問題なの？ 申し訳ありませんが 2 つの質問でした しかし答えは…それは依存しています *can* 問題。 どうやって曖昧なの？ 分けてみましょう。 しかし、多数のサイトを持つ大規模な組織の場合に浮上する可能性のある追加の質問が 1 つ目です。私は一度に全てを行わなければなりませんか？ それは少し簡単です。 いいえ。 これは一つ一つできます
+しかし問題は君が最初にするのは何だ？ それは重要ですか？ OK、ごめんなさい、それは 2 つの質問でした。 しかし、答えは…それは依存し、はい、それは *することができます* 重要です。 あいまいな話か？ 話を細かく分けよう。 しかし、最初に、多数のサイトを持つ大企業の場合に発生する可能性がある追加の質問：一度にすべてを行う必要がありますか？ あの方が少しやさしい。 いいえ。 あなたは少しずつそれをすることができる。
 
-### もう少し深く潜る {#a-little-deeper-dive}
+### 少し深く掘り下げる {#a-little-deeper-dive}
 
-タイミングと注文が重要なのは、転送の仕組みが原因です _本当に_ 以下の技術的事実に要約できる。
+タイミングと注文が重要な理由は、転送の _実際には_ の仕組みによります。次の技術的な事実に要約できます。
 
-* Experience CloudID サービス (ECID) が実装され、 [!DNL Analytics] [!DNL Admin Console] （「スイッチ」）がオンの場合、データは次の場所から転送されます： [!DNL Analytics] をAAMに送信します（まだコードを更新していない場合）。
-* ECID を実装していない場合、スイッチをオンにしていて、サーバー側転送コードを使用していても、データは転送されません。
-* サーバー側転送コード（Platform タグ内でもページ上でも）は、応答を実際に処理するので、移行の完了に必要です。
-* サーバー側転送スイッチは、 [!UICONTROL report suite]に設定されていますが、このコードは Platform タグのプロパティ、または [!DNL AppMeasurement] ファイルを作成します。
+* Experience CloudID サービス（ECID）を実装しており、[!DNL Analytics] [!DNL Admin Console] のスイッチ（「スイッチ」）がオンになっている場合、コードがまだ更新されていなくても、データは [!DNL Analytics] からAAMに転送されます。
+* ECID が実装されていない場合、スイッチがオンになっていて、サーバーサイド転送コードが設定されていても、データは転送されません。
+* （Platform タグ内でもページ上でも）サーバーサイド転送コードが実際に応答を処理するので、移行を完了するために必要です。
+* サーバーサイド転送スイッチは [!UICONTROL report suite] で有効になっていますが、コードは Platform タグのプロパティで処理されます。また、Platform タグを使用しない場合は [!DNL AppMeasurement] ファイルで処理されます。
 
 ### ベストプラクティス {#best-practices}
 
-技術的な詳細に基づき、実行するタイミングと実行するタイミングに関する推奨事項を次に示します。
+これらの技術的な詳細に基づいて、実行するタイミングとタイミングに関する推奨事項を次に示します。
 
-#### ECID がまだ実装されていない場合は、 {#if-you-do-not-have-ecid-yet-implemented}
+#### ECID がまだ実装されていない場合 {#if-you-do-not-have-ecid-yet-implemented}
 
-1. スイッチをに入れます。 [!DNL Analytics] 各 [!UICONTROL report suite] を有効にして、サーバー側転送を有効にします。
+1. サーバーサイド転送を有効にする [!UICONTROL report suite] ごとに、スイッチを [!DNL Analytics] に切り替えます。
 
-   1. ECID がないので、転送はまだ開始されていません。
+   1. ECID がないため、転送がまだ開始しません。
 
-1. サイトごとに、コードをクライアント側DILからサーバー側転送（Platform タグに含まれる場合もあります）またはページ上で、上記の別の節で説明したように更新します。
+1. サイトごとに、クライアントサイド転送からサーバーサイドDIL（Platform タグの場合があります）、またはページでコードを更新します（上記の別の節で説明しました）。
 
-   1. 今すぐ転送はフロー（ECID を追加したとおり）になり、 [!DNL Analytics] ビーコン（詳しくは、以下の「検証とトラブルシューティング」の節を参照してください）。
+   1. これで転送がフローし（ECID を追加した場合）、[!DNL Analytics] ビーコンに対する適切な JSON 応答も受信されます（詳しくは、以下の検証とトラブルシューティングのセクションを参照してください）。
 
 #### ECID が実装されている場合 {#if-you-do-have-ecid-implemented}
 
-1. DILからサーバー側転送へのコードの更新準備が整うよう、準備と計画をおこないます。 [!UICONTROL report suite] サーバー側転送を有効にします。
+1. サーバーサイド転送を有効にする PER [!UICONTROL report suite] で、DILからサーバーサイド転送にコードを更新する準備が整うように、準備と計画を進めます。
 
-   1. スイッチをに入れます。 [!DNL Analytics] サーバー側転送を有効にする。
+   1. スイッチを [!DNL Analytics] にフリップして、サーバーサイド転送を有効にします。
 
-      1. ECID が有効になっているので、転送が開始されます。
-   1. 可能な限り早く、クライアント側DILからシングル側転送にコードを更新します（これは、前述の別の節で説明したように、Platform タグまたはページ上にある可能性があります）。
+      1. ECID が有効になっているため、転送が開始されます。
 
-      1. 以下に示すように、 [!DNL Analytics] ビーコン ( [検証とトラブルシューティング](#validation-and-troubleshooting) 詳しくは、以下の節を参照してください )。
+   1. コードをクライアントサイド転送からシングルサイドDILにできるだけ早く更新します（Platform タグ内の転送や、ページ上の転送など、前述の別の節で説明した方法が考えられます）。
 
-
->[!NOTE]
->
->この 2 つの手順は、できるだけ近くにおこなうことが重要です。上記の手順 1 と 2 の間では、AAMへのデータの重複が発生するからです。 つまり、シングル側転送では、 [!DNL Analytics] また、AAMに移行する際に、DILコードがまだページ上にあるので、ページからAAMに直接ヒットが発生し、データが 2 倍になります。 DILからサーバー側転送にコードを更新すると、この問題は軽減されます。
+      1. [!DNL Analytics] ビーコンに対する適切な JSON 応答が返されます（詳しくは、以下の [ 検証とトラブルシューティング ](#validation-and-troubleshooting) の節を参照してください）。
 
 >[!NOTE]
 >
->データが少し重複するのではなく、データに小さな相違がある場合は、上記の手順 1 と 2 の順序を切り替えることができます。 DILからサーバー側転送にコードを移動すると、のサーバー側転送をオンにするスイッチを切り替えられるまで、AAMへのデータフローが停止します。 [!UICONTROL report suite]. 通常、お客様は、訪問者を特性や [!UICONTROL segments].
+>上記の手順 1 と 2 の間では、AAMに送信されるデータが重複するので、これら 2 つの手順をできるだけ近づけておくことが重要です。 つまり、シングルサイド転送は [!DNL Analytics] からAAMにデータを送信し始めており、DILコードがまだページに残っているので、ページからAAMに直接ヒットすることもあり、データが 2 倍になります。 DILからサーバーサイド転送にコードを更新するとすぐに、この問題が軽減されます。
 
-#### 多くのサイトが存在し、 [!UICONTROL report suites] {#migration-timing-when-you-have-many-sites-and-report-suites}
+>[!NOTE]
+>
+>データの重複を小さくするのではなく、データに小さな不一致を生じさせる場合は、上記の手順 1 と 2 の順序を切り替えることができます。 コードをDILからサーバーサイド転送に移動すると、[!UICONTROL report suite] ーバーのサーバーサイド転送をオンにするスイッチを切り替えられるまで、AAMへのデータフローが停止します。 通常、お客様は、訪問者が特性や [!UICONTROL segments] ータを見落とすのではなく、データを少し倍増させたいと考えています。
 
-このトピックでは、前の節で簡単に取り上げ、主な戦略を次のように要約できます。
+#### 多数のサイトと [!UICONTROL report suites] ージがある場合の移行タイミング {#migration-timing-when-you-have-many-sites-and-report-suites}
 
-サイトを 1 つ移行/[!UICONTROL report suite] ( またはサイトのグループ/[!UICONTROL report suites]) を一度にクリックします。
+このトピックについては、前の節で簡単に説明しました。その中で、主な戦略は次の方法で要約できます。
 
-ただし、考えられるシナリオに基づいては、これは少し難しくなる可能性があります。
+一度に 1 つのサイト/[!UICONTROL report suite] （またはサイト/[!UICONTROL report suites] のグループ）を移行します。
 
-* 複数のユニークなを含むサイトがある [!UICONTROL report suites]
-* 次の条件を満たしている： [!UICONTROL report suite] 複数のサイト ( グローバルな [!UICONTROL report suite])
-* 1 つの Platform タグプロパティを使用して、複数のサイトを対象とします。
-* サイトごとに異なる開発チームがある
+ただし、これは、いくつかの考えられるシナリオに基づいて少し難しくなる可能性があります。
 
-これらの項目のため、少し複雑になる可能性があります。 私が提案できる最善の方法は次のとおりです。
+* 複数の異なる [!UICONTROL report suites] を含むサイトがある場合
+* 複数のサイトを含む [!UICONTROL report suite] ージがある場合（グローバル [!UICONTROL report suite] など）
+* 1 つの Platform タグプロパティを使用して複数のサイトをカバーする
+* サイトごとに異なる開発チームがあります
 
-* 上記で説明した内容に基づいて、サーバー側転送への移行戦略を策定するには、しばらく時間をかけます
-* Platform タグの 1 つのプロパティ ( または単一の [!DNL AppMeasurement] （ファイル）は通常、1 または 2 個の個別にマッピングされます [!UICONTROL report suites]では、企業をサーバー側転送に更新して、これらの個別のグループで 1 つずつ機能する計画を立てることができます
-* Adobeコンサルティングと連携している場合は、移行計画について相談し、必要に応じてサポートを提供してください
+これらのアイテムのため、それは少し複雑になる可能性があります。 私が提案できる最善のことは次のとおりです。
+
+* 前述のことに基づいて、サーバーサイド転送への移行戦略を立てるため、少し時間をかけます
+* Platform タグ（または単一の [!DNL AppMeasurement] ファイル）の単一のプロパティは通常 1 つまたは 2 つの異なる [!UICONTROL report suites] にマッピングされるという事実に基づいて、エンタープライズからサーバーサイドへの転送を更新し、これらの異なるグループで 1 つずつ動作するプランを作成できる可能性があります
+* Adobe Consultingを使用している場合は、必要に応じてサポートを受けられるように、移行プランについて話し合います
 
 ## 検証とトラブルシューティング {#validation-and-troubleshooting}
 
-サーバー側転送がインストールおよび導入されていることを検証する主な方法は、アプリからのAdobe Analyticsヒットへの応答を確認することです。
+サーバーサイド転送が正常に稼働していることを検証する主な方法は、アプリからのAdobe Analyticsのヒットに対する応答を調べることです。
 
-からのデータのサーバー側転送をおこなっていない場合 [!DNL Analytics] Audience Managerの場合、 [!DNL Analytics] ビーコン（2x2 ピクセル以外）に追加します。 ただし、サーバー側転送をおこなっている場合は、 [!DNL Analytics] を知らせるリクエストと応答 [!DNL Analytics] は、Audience Managerと正しく通信し、ヒットを転送して、応答を取得しています。
+[!DNL Analytics] からAudience Managerにデータをサーバーサイドで転送しない場合、（2 x 2 ピクセルに加えて） [!DNL Analytics] ビーコンへの応答は実際にはありません。 ただし、サーバーサイド転送を行っている場合は、[!DNL Analytics] のリクエストと応答で確認できる項目があり、Audience Managerと正しく通信し、ヒットを転送し、応答を取得している [!DNL Analytics] とを知らせます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
 
 >[!WARNING]
 >
->誤った「Success」に注意してください。 応答があり、すべてが機能しているように見える場合は、 `stuff` オブジェクトを返します。 そうしないと、次のようなメッセージが表示される場合があります。 `"status":"SUCCESS"`. 変に思えますが、実際には、これは正しく機能していない証拠です。
+>偽の「成功」に注意してください。 応答があり、すべてが機能しているように見える場合は、応答に `stuff` オブジェクトがあることを確認します。 そうでない場合は、`"status":"SUCCESS"` というメッセージが表示される場合があります。 これはクレイジーに聞こえますが、これは実際にそれが正しく機能していない証拠です。
 >
->これが表示される場合は、Platform タグでコードの更新が完了しているか、 [!DNL AppMeasurement]しかし [!DNL Analytics] [!DNL Admin Console] はまだ完了していません。 この場合、 [!DNL Analytics] [!DNL Admin Console] の [!UICONTROL report suite]. まだ 4 時間が経過していない場合は、バックエンドで必要な変更をすべておこなうのにそれほど時間がかかる可能性があるので、しばらくお待ちください。
+>このメッセージが表示される場合は、Platform タグまたは [!DNL AppMeasurement] のコードの更新は完了しているが、[!DNL Analytics] [!DNL Admin Console] の転送はまだ完了していないことを意味します。 この場合、サー [!UICONTROL report suite] スの [!DNL Analytics] [!DNL Admin Console] でサーバーサイド転送が有効になっていることを確認する必要があります。 まだ 4 時間経っていない場合は、バックエンドで必要な変更をすべて行うのに時間がかかる可能性があるので、しばらくお待ちください。
 
 
-![偽成功](assets/falsesuccess.png)
+![false success](assets/falsesuccess.png)
 
-サーバー側転送について詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ja).
+サーバーサイド転送について詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ja) を参照してください。

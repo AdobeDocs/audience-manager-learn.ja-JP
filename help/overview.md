@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # Audience Managerチュートリアル
 
-Audience Managerチュートリアルサイトへようこそ。 これらのチュートリアルをと併用する [詳細を見る](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) は、Adobe Audience Managerを使用して、Adobeのクラス最高の機能を使用して、任意のチャネルやデバイスでオーディエンスを作成およびアクティブ化する方法について、より深く理解できます [!DNL data management platform].
+Audience Managerチュートリアルサイトへようこそ。 これらのチュートリアルを [ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) と併用すると、Adobe Audience Managerを使用して、Adobeのクラス最高の [!DNL data management platform] を使用して、任意のチャネルやデバイスでオーディエンスを作成およびアクティブ化する方法をより深く理解できます。
 
-* **スタッフのおすすめ** お気に入りのコンテンツの一部を紹介します
-* でのトピックおよびサブトピック別のコンテンツの検索 **左側のナビゲーション**
-* の使用 **検索** 探しているものが分かっている場合は、ページの上部にあるフィールド
+* お気に入りのコンテンツの一部を紹介する **スタッフのおすすめ**
+* **左側のナビゲーション** でトピックおよびサブトピック別にコンテンツを探索
+* 検索対象がわかっている場合は、ページ上部の **検索** フィールドを使用します。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -43,11 +43,11 @@ Audience Managerチュートリアルサイトへようこそ。 これらのチ
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
-    <strong>Web SDK を使用したAdobe Experience Cloudの実装チュートリアル</strong>
+    <strong>Web SDK を使用したAdobe Experience Cloudの実装のチュートリアル </strong>
     </a>
     </div>
     <p>
-    <em>Adobe Experience Platform Web SDK を使用してExperience Cloudアプリケーションを実装する方法について説明します。</em>
+    <em>Adobe Experience Platform Web SDK を使用してExperience Cloudアプリケーションを実装する方法を説明します。</em>
     <p>
   </td>
   <td>
@@ -56,11 +56,11 @@ Audience Managerチュートリアルサイトへようこそ。 これらのチ
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-    <strong>Audience Managerユーザー向け Real-time CDP におけるセグメントについて</strong>
+    <strong>Audience Managerユーザー向け Real-time CDP におけるセグメントについて </strong>
     </a>
     </div>
     <p>
-    <em>このビデオでは、セグメントの違いと、Audience Managerと Real-time CDP の間のセグメント作成の違いについて説明します。</em>
+    <em> このビデオでは、セグメントの違いと、Audience Managerと Real-time CDP の間のセグメント作成の違いについて説明します。</em>
     <p>
   </td>
   <td>
@@ -69,11 +69,11 @@ Audience Managerチュートリアルサイトへようこそ。 これらのチ
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-    <strong>Audience Managerでの Predictive Audiences の設定とレポート</strong>
+    <strong>Audience Managerでの Predictive Audiences の設定とレポート </strong>
     </a>
     </div>
     <p>
-    <em>このビデオでは、Audience Managerインターフェイスでの Predictive Audiences 設定について説明します。</em>
+    <em> このビデオでは、Audience Managerインターフェイスでの Predictive Audiences 設定について順を追って説明します。</em>
     <p>
   </td>
 </tr>

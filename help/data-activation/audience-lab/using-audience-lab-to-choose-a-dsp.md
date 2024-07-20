@@ -1,6 +1,6 @@
 ---
 title: Audience Lab を使用したDSPの選択
-description: このビデオでは、Audience Lab テストの作成手順を説明し、DSPやその他のAAMの宛先を A/B テストして、広告費用対効果の最も高いものを確認できます。
+description: このビデオでは、Audience Lab でのテストについて順を追って説明します。これにより、DSPやその他のAAMの宛先に対する A/B テストを実行して、広告費用対効果を最も高くする宛先を確認できます。
 feature: Audience Lab
 doc-type: feature video
 thumbnail: 24923.jpg
@@ -10,26 +10,26 @@ level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# 用途 [!UICONTROL Audience Lab] DSPを選ぶ {#using-audience-lab-to-choose-a-dsp}
+# [!UICONTROL Audience Lab] を使用してDSPを選択 {#using-audience-lab-to-choose-a-dsp}
 
-このビデオでは、 [!UICONTROL Audience Lab] をテストして、DSPやその他のAAMの宛先を A/B テストし、どの宛先が広告費用対効果を最も高く引き出しているかを確認できます。
+このビデオでは、DSPやその他のAAMの宛先に対する A/B テストを実施して、広告費用対効果を最も高く [!UICONTROL Audience Lab] 揮する宛先を確認できるように、A/B テストを作成する手順を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
 
-の作成 [!UICONTROL Audience Lab] テストは簡単で、上のビデオで示した数分で完了できます。 インターフェイスの手順を実行する際に、次の設定をおこないます。
+[!UICONTROL Audience Lab] テストの作成は簡単で、上記のビデオで示されているように、数分で行うことができます。 インターフェイスの手順を実行しながら、次の設定を行います。
 
-1. を作成し、に名前を付けます。 [!UICONTROL Audience Lab] テスト
-1. 次のいずれかを選択します。 [!UICONTROL segments] 」[!UICONTROL base segment]」と呼ばれ、DSP間で分割されるオーディエンスセグメントを表します。
-1. テスト数の選択 [!UICONTROL segments] 作成するDSPの数（テスト対象のの数）
-   * テストの 1 つを設定 [!UICONTROL segments] を対照セグメントとして使用し、DSPオーディエンスを比較できるようにします。このセグメントはDSPに送信されません。
-1. コンバージョン特性を選択します。これは、成功を測定し、勝者を選択する特性です。
-1. 選択 [!UICONTROL Destinations] ( 例： DSP) と、テストを割り当てます。 [!UICONTROL segments]
-1. テストの概要を確認し、テストを有効化します
-1. テストが完了したら、のメインホーム画面で結果にアクセスします。 [!UICONTROL Audience Lab]
+1. [!UICONTROL Audience Lab] テストを作成して名前を付ける
+1. いずれかの [!UICONTROL segments] を「[!UICONTROL base segment]」として選択します。これは、DSP間で分割されるオーディエンスセグメントです
+1. 作成するテスト [!UICONTROL segments] の数（テストするDSPの数）を選択します。
+   * テスト [!UICONTROL segments] ーディエンスの 1 つをコントロールセグメントとして設定します。これはDSPには送信されないので、DSP オーディエンスと比較できます
+1. コンバージョン特性を選択します。これは、成功を測定し、勝者を選択する特性です
+1. [!UICONTROL Destinations] （つまり、DSP）を選択して、テスト [!UICONTROL segments] を割り当てます
+1. テストの概要を確認し、テストをアクティブ化します
+1. テストが完了したら、[!UICONTROL Audience Lab] のメインのホーム画面で結果にアクセスします
 
-詳しくは、 [機能ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html).
+詳しくは、[ 機能ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html) を参照してください。

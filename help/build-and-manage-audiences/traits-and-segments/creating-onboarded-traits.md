@@ -1,6 +1,6 @@
 ---
-title: オンボードの特性の作成
-description: オンボードの特性をAudience Managerで作成する際のヒント
+title: オンボード特性の作成
+description: Audience Managerでオンボード特性を作成するためのヒントを説明します。
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# オンボードの特性の作成
+# オンボード特性の作成
 
-オンボードの特性をAudience Managerで作成する際のヒント
+Audience Managerでオンボード特性を作成するためのヒントを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

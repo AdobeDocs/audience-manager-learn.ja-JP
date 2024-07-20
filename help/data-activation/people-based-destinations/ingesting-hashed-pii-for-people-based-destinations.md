@@ -1,6 +1,6 @@
 ---
-title: People-based Destinations 用のハッシュ化された PII の取り込み
-description: このビデオでは、ファイルベースの ID 同期をフォーマットして、顧客 ID(CRM ID) とハッシュ化された電子メールアドレスを結び付ける方法を説明します。
+title: People-Based Destinations のハッシュ化された PII の取り込み
+description: このビデオでは、顧客 ID （CRM ID）をハッシュ化されたメールアドレスと結び付けるために、ファイルベースの ID 同期をフォーマットする方法を説明します。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# People-based Destinations 用のハッシュ化された PII の取り込み
+# People-Based Destinations のハッシュ化された PII の取り込み
 
-このビデオでは、ファイルベースの ID 同期をフォーマットして、顧客 ID(CRM ID) とハッシュ化された電子メールアドレスを結び付ける方法を説明します。 これにより、次のようなハッシュ化された電子メールアドレスを、People-based Destinations に送信できます。 [!DNL Facebook].
+このビデオでは、顧客 ID （CRM ID）をハッシュ化されたメールアドレスと結び付けるために、ファイルベースの ID 同期をフォーマットする方法を説明します。 これにより、ハッシュ化されたメールアドレスを、[!DNL Facebook] などの人物ベースの宛先に送信できます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

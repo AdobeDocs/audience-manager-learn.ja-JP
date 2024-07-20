@@ -1,6 +1,6 @@
 ---
-title: Audience Managerユーザー向けのリアルタイム CDP での宛先について
-description: Audience ManagerからReal-time Customer Data Platform（リアルタイム CDP）に移行する際は、オーディエンスセグメントを宛先パートナーに対してアクティブ化する方法を理解できるように、宛先について知っておく必要があります。 このビデオでは、様々な宛先タイプと、それらが Real-time CDP 内のどこにあるかについて説明します。
+title: Audience Managerユーザー向け Real-time CDP における宛先について
+description: Audience ManagerからReal-time Customer Data Platform（Real-time CDP）に移行する際は、宛先について理解している必要があります。これにより、宛先のパートナーに対してオーディエンスセグメントをアクティブ化する方法がわかります。 このビデオでは、様々な宛先タイプと、それらが Real-time CDP のどこにあるかを説明します。
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Audience Managerユーザー向けのリアルタイム CDP での宛先について
+# Audience Managerユーザー向け Real-time CDP における宛先について
 
-Audience ManagerからReal-time Customer Data Platform（リアルタイム CDP）に移行する際は、オーディエンスセグメントを宛先パートナーに対してアクティブ化する方法を理解できるように、宛先について知っておく必要があります。 このビデオでは、様々な宛先タイプと、それらが Real-time CDP 内のどこにあるかについて説明します。
+Audience ManagerからReal-time Customer Data Platform（Real-time CDP）に移行する際は、宛先について理解している必要があります。これにより、宛先のパートナーに対してオーディエンスセグメントをアクティブ化する方法がわかります。 このビデオでは、様々な宛先タイプと、それらが Real-time CDP のどこにあるかを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)

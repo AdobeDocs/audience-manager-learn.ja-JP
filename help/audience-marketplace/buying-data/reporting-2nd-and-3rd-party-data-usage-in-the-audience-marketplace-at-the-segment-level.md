@@ -1,6 +1,6 @@
 ---
-title: セグメントレベルでのAudience Marketplaceでのセカンドパーティおよびサードパーティのデータ使用のレポート
-description: このビデオでは、Audience MarketplaceUI の「Payables」セクション内でのデータの使用状況をレポートする新しい方法を示します。 フィードレベルのレポートの既存のプロセスに加えて、月別のインプレッション数をセグメントレベルで送信できるようになったので、コスト配分に対してオフラインで計算をおこなう必要がなくなりました。
+title: セグメントレベルでのAudience Marketplaceにおけるセカンドパーティおよびサードパーティのデータ使用のレポート
+description: このビデオでは、Audience MarketplaceUI の「買掛/未払金」セクション内でのデータ使用をレポートする新しい方法を説明します。 フィードレベルのレポートの既存のプロセスに加えて、セグメントレベルで月次インプレッションを送信できるようになり、コスト属性についてオフラインで計算する必要がなくなりました。
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -13,19 +13,19 @@ level: Intermediate
 exl-id: 4d7f4e67-095a-4708-9df3-8216df815810
 source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
-# でのセカンドパーティおよびサードパーティのデータ使用のレポート [!UICONTROL Audience Marketplace] セグメントレベルで {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
+# セグメントレベルでの [!UICONTROL Audience Marketplace] でのセカンドパーティおよびサードパーティのデータ使用のレポート {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
 
-このビデオでは、 [!UICONTROL Payables] セクション [!UICONTROL Audience Marketplace] UI フィードレベルのレポートの既存のプロセスに加えて、月別のインプレッション数をセグメントレベルで送信できるようになったので、コスト配分に対してオフラインで計算をおこなう必要がなくなりました。
+このビデオでは、[!UICONTROL Audience Marketplace] UI の [!UICONTROL Payables] セクション内でのデータ使用をレポートする新しい方法を説明します。 フィードレベルのレポートの既存のプロセスに加えて、セグメントレベルで月次インプレッションを送信できるようになり、コスト属性についてオフラインで計算する必要がなくなりました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25522/?quality=12)
 
-このリリースでは、セカンドパーティおよびサードパーティのデータ使用の柔軟性とワークフローが向上し、UI を使用してセグメントレベルでインプレッション数をレポートしたり、一括アップロード機能を使用したりできます。
+このリリースでは、セカンドパーティおよびサードパーティのデータ使用がより柔軟に、またワークフローが改善されたので、お客様は UI や一括アップロード機能を使用して、セグメントレベルでインプレッションに関するレポートを作成できるようになりました。
 
-さらに、からセカンドパーティまたはサードパーティのデータを購入するお客様 [!UICONTROL Audience Marketplace] のメリットは、コスト配分ポリシーの改善です。 この新しいポリシーは、ルールベースのセグメントでの特性のユニークユーザー数に基づいてデータプロバイダーにコストをかけるので、より透明性が高く、公平な使用量の請求が可能になります。 請求アルゴリズムの詳細については、 [CPM データフィードのコスト配分](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) 製品ドキュメント内。
+さらに、セカンドパーティまたはサードパーティのデータを [!UICONTROL Audience Marketplace] から購入するお客様は、コスト属性ポリシーの改善のメリットを受けられます。 この新しいポリシーは、ルールベースのセグメントにおける特性の一意のユーザー数に基づいて、データプロバイダーに対するコストを関連付け、その結果、より透明性が高く、公平な使用料の請求につながります。 請求アルゴリズムについて詳しくは、製品ドキュメントの [CPM データフィードのコスト属性 ](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) を参照してください。
 
-CPM の使用状況のレポートについて詳しくは、 [CPM の使用状況の報告方法](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) 製品ドキュメント内。
+CPM 使用状況のレポートについて詳しくは、製品ドキュメントの [CPM 使用状況のレポート方法 ](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) を参照してください。

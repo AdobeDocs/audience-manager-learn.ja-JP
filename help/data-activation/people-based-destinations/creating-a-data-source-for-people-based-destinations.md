@@ -1,6 +1,6 @@
 ---
-title: People-based Destinations 用のデータソースの作成
-description: People-based Destinations に使用するデータソースをAudience Managerで作成する方法について説明します。
+title: People-based Destinations のデータソースの作成
+description: People-based Destinations に使用するデータソースをAudience Managerで作成する方法を説明します。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# の作成 [!UICONTROL Data Source] （People-based Destinations 用）
+# People-based Destinations の [!UICONTROL Data Source] の作成
 
-このビデオでは、 [!UICONTROL Data Source] People-based Destinations で使用するAudience Manager。
+このビデオでは、People-based Destinations で使用するAudience Managerの [!UICONTROL Data Source] ークフローを作成する手順について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

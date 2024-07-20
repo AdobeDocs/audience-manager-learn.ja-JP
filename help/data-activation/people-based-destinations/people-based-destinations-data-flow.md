@@ -1,6 +1,6 @@
 ---
-title: People-based Destinations データフロー
-description: このビデオでは、People-based Destinations の概要と、プロセスを通じたデータフローを示します。
+title: People-based Destinations のデータフロー
+description: このビデオでは、人物ベースの宛先の概要と、プロセスを通じたデータフローを示します。
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# People-based Destinations データフロー
+# People-based Destinations のデータフロー
 
-このビデオでは、People-based Destinations の概要と、プロセスを通じたデータフローを示します。
+このビデオでは、人物ベースの宛先の概要と、プロセスを通じたデータフローを示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: Marketplace で所有するオーディエンスを商業化する
-description: このビデオでは、データをAudience Marketplace上で非公開または公開データフィードとして設定し、セカンドパーティまたはサードパーティのデータのデータプロバイダーにする方法を説明します。
+title: 所有オーディエンスを Marketplace で商業化
+description: このビデオでは、Audience Marketplace上でデータを非公開または公開データフィードとして設定し、セカンドパーティまたはサードパーティのデータのデータプロバイダーにする方法について説明します。
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Marketplace で所有するオーディエンスを商業化する
+# 所有オーディエンスを Marketplace で商業化
 
-このビデオでは、データをAudience Marketplace上で非公開または公開データフィードとして設定し、セカンドパーティまたはサードパーティデータのデータプロバイダーにする方法を説明します。
+このビデオでは、Audience Marketplace上でデータを非公開または公開データフィードとして設定し、セカンドデータまたはサードパーティのデータのデータプロバイダーにする方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

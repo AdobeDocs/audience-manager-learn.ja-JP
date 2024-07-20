@@ -1,6 +1,6 @@
 ---
 title: データ書き出しラベルを使用したデータフローの制御
-description: データの書き出しラベルのAudience Manager これにより、様々なデータタイプやソースのフローを制御し、プライバシー要件を満たすためのAudience Managerなメカニズムが提供されます。 データ書き出しコントロールとデータ書き出しラベルを設定し、この目的と連携させる方法と場所について説明します。
+description: Audience Managerのデータ書き出しラベルについて説明します。 これらを使用すると、様々なデータタイプやソースのフローをAudience Managerして制御し、プライバシー要件を満たすことができます。 データ書き出しのコントロールとデータ書き出しラベルを設定し、この目的に合わせて連携する方法と場所について説明します。
 feature: Data Export Controls
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 用途 [!UICONTROL Data Export Labels] データフローを制御する
+# [!UICONTROL Data Export Labels] を使用したデータフローの制御
 
-[!UICONTROL Data Export Labels] では、プライバシー要件を満たすために、様々なデータタイプやソースのフローを制御するメカニズムをAudience Manager的に提供します。 設定方法と設定場所を学ぶ [!UICONTROL Data Export Controls] および [!UICONTROL Data Export Labels]この目的と連携して機能する
+様々なデータタイプやソースのフローを制御するメカニズムをAudience Managerで提供で [!UICONTROL Data Export Labels] るので、プライバシー要件を満たすことができます。 この目的のために並行して作業するために、[!UICONTROL Data Export Controls] と [!UICONTROL Data Export Labels] を設定する方法と場所を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

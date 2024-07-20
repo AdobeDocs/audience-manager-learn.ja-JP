@@ -1,6 +1,6 @@
 ---
-title: Adobe開発者での API 資格情報の取得
-description: REST API を使用するための資格情報については、Adobeコンサルティングまたはカスタマーケアに問い合わせる代わりに、ブラウザーで developer.adobe.com にアクセスし、独自の資格情報を取得または登録するだけで済みます。
+title: Adobe Developerでの API 資格情報の取得
+description: REST API を使用するための資格情報をAdobe Consultingまたはカスタマーケアに問い合わせる代わりに、ブラウザーでdeveloper.adobe.comにアクセスして、独自の資格情報を取得または登録するだけです。
 feature: API
 topics: null
 activity: develop
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# での API 資格情報の取得 [!DNL Adobe Developer]
+# [!DNL Adobe Developer] での API 資格情報の取得
 
-REST API を使用するための資格情報については、Adobeコンサルティングまたはカスタマーケアに問い合わせる代わりに、ブラウザーで developer.adobe.com にアクセスし、独自の資格情報を取得または登録するだけで済みます。
+REST API を使用するための資格情報をAdobe Consultingまたはカスタマーケアに問い合わせる代わりに、ブラウザーでdeveloper.adobe.comにアクセスして、独自の資格情報を取得または登録するだけです。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

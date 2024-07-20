@@ -1,6 +1,6 @@
 ---
 title: People-based Destinations のセグメントの作成
-description: このビデオでは、People-based Destinations で使用するAudience Managerでのセグメントの作成手順を説明します。
+description: このビデオでは、People-Based Destinations で使用するAudience Managerでのセグメントの作成について説明します。
 feature: People-based Destinations
 activity: setup
 doc-type: feature video
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # People-based Destinations のセグメントの作成
 
-このビデオでは、People-based Destinations で使用するAudience Managerでのセグメントの作成手順を説明します。
+このビデオでは、People-Based Destinations で使用するAudience Managerでのセグメントの作成について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)

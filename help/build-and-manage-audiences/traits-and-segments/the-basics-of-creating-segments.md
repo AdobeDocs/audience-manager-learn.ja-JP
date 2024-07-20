@@ -1,6 +1,6 @@
 ---
-title: セグメント作成の基本事項
-description: UI のフィールドに従って、セグメントを作成します。Audience Manager
+title: セグメント作成の基本
+description: UI のフィールドを確認し、Audience Managerでセグメントを作成します。
 feature: Segments
 topics: null
 activity: use
@@ -13,15 +13,15 @@ level: Beginner
 exl-id: 594b1caf-2752-4710-8272-2df669eb8dbe
 source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# セグメント作成の基本事項
+# セグメント作成の基本
 
-UI のフィールドに従って、セグメントを作成します。Audience Manager
+UI のフィールドを確認し、Audience Managerでセグメントを作成します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-セグメントについて詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html).
+セグメントについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html) を参照してください。

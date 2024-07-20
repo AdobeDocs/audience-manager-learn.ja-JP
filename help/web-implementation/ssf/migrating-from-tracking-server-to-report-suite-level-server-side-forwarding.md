@@ -1,6 +1,6 @@
 ---
-title: トラッキングサーバーからレポートスイートレベルのサーバー側転送への移行
-description: Adobe AnalyticsデータのAudience Managerへのサーバー側転送を、トラッキングサーバーレベルではなく、レポートスイートレベルで有効にする方法を説明します。
+title: トラッキングサーバーからレポートスイートレベルのサーバーサイド転送への移行
+description: トラッキングサーバーレベルではなくレポートスイートレベルでAudience ManagerへのAdobe Analytics データのサーバーサイド転送を有効にする方法を説明します。
 product: audience manager
 feature: Adobe Analytics Integration
 topics: null
@@ -13,39 +13,39 @@ level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 source-git-commit: 4adaade180545bcf5f911b7453a7e9939e2ed178
 workflow-type: tm+mt
-source-wordcount: '586'
-ht-degree: 1%
+source-wordcount: '582'
+ht-degree: 0%
 
 ---
 
-# トラッキングサーバーからレポートスイートレベルのサーバー側転送への移行 {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
+# トラッキングサーバーからレポートスイートレベルのサーバーサイド転送への移行 {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
-この記事とビデオでは、 [!DNL Analytics] データからAudience Managerへ [!UICONTROL report suite] ではなくレベル [!UICONTROL tracking server] レベル。
+この記事とビデオでは、[!DNL Analytics] Data のサーバーサイド転送を [!UICONTROL tracking server] レベルではなく [!UICONTROL report suite] レベルでAudience Managerに有効にする方法を説明します。
 
-## はじめに {#introduction}
+## 概要 {#introduction}
 
-Adobe Audience Manager AND Adobe Analyticsを使用している場合、 [!DNL Analytics] データをAudience Managerに送信します。 つまり、ページが 2 つのヒット (1 つは [!DNL Analytics] (1 つはAudience Manager)、 [!DNL Analytics]、および [!DNL Analytics] がそのデータをAudience Managerに転送します。
+Adobe Audience ManagerとAdobe Analyticsがある場合は、[!DNL Analytics] データのサーバーサイド転送をAudience Managerに実装できます。 つまり、ページは 2 つのヒット（1 つは [!DNL Analytics] に、1 つはAudience Managerに）を送信する代わりに、[!DNL Analytics] にヒットを送信でき、[!DNL Analytics] はそのデータをAudience Managerに転送します。
 
-既にこれを実行していて、2017 年 10 月より前に有効にして実装している場合、サーバー側転送は [!UICONTROL Tracking Server]:AdobeカスタマーケアまたはAdobeコンサルティングによって有効にされる必要がありました。 2017 年 10 月以降、サーバー側転送を自分で設定できるようになり、レポートスイートレベル（レポートスイートごとの転送）でおこなえるようになりました。 これには大きな利点がありますが、次に説明します。
+既に稼働しており、2017 年 10 月より前に有効または実装している場合、サーバーサイド転送は、[!UICONTROL Tracking Server] に基づいている可能性があります。これは、AdobeカスタマーケアまたはAdobe Consultingによって有効にする必要がありました。 2017 年 10 月から、サーバーサイド転送を自分で設定して、レポートスイートレベル（レポートスイートごとの転送）で実行できるようになりました。 これには大きなメリットがあります。これについては、以下で説明します。
 
 ## [!UICONTROL Tracking server] 転送 {#tracking-server-forwarding}
 
-お使いの [!UICONTROL tracking server] は、 [!DNL Analytics] データ、およびイメージリクエストと cookie が書き込まれるドメインも含まれます。 DTM またはで設定する必要があります。 [!DNL Experience Platform Launch]または [!DNL AppMeasurement.js] ファイルで、通常は次のようになります。サイトまたはビジネス名は「mysite」に置き換えられます。
+[!UICONTROL tracking server] は、[!DNL Analytics] データを送信する場所であり、イメージリクエストと cookie が書き込まれているドメインでもあります。 DTM または [!DNL Experience Platform Launch]、または [!DNL AppMeasurement.js] ファイルで設定する必要があります。通常は次のように表示され、サイト名またはビジネス名が「mysite」に置き換えられます。
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
-サーバー側転送が [!UICONTROL tracking server] レベル、このに送信されるヒット [!UICONTROL tracking server] (Experience CloudID サービスも有効な場合 ) は、Audience Managerに転送されます。 これは、AdobeカスタマーケアまたはAdobeコンサルティングが有効にする必要がありました。 また、 [!UICONTROL report suite] 転送（以下で説明）
+サーバーサイド転送が [!UICONTROL tracking server] レベルで転送するように設定されている場合、この [!UICONTROL tracking server] に送信されているヒット（Experience CloudID サービスも有効になっている場合）は、Audience Managerに転送されます。 これは、AdobeカスタマーケアまたはAdobe Consultingで有効にする必要がありました。 また、以下に説明するように、[!UICONTROL report suite] 転送に切り替えた後で無効にすることもできます。
 
-不明な場合は [!DNL tracking server forwarding] が有効になっている場合は、AdobeカスタマーケアまたはAdobeコンサルティングにお問い合わせください。お問い合わせいただければ、お知らせいたします。
+[!DNL tracking server forwarding] が有効になっているかどうかわからない場合は、AdobeカスタマーケアまたはAdobe Consultingにお問い合わせください。お知らせいたします。
 
-## [!UICONTROL Report-suite] — レベルのサーバー側転送 {#report-suite-level-server-side-forwarding}
+## [!UICONTROL Report-suite] レベルのサーバーサイド転送 {#report-suite-level-server-side-forwarding}
 
-に移行する最大のメリットの 1 つ [!UICONTROL report suite] 転送 [!UICONTROL tracking server] 転送は、Audience Managerを転送する機能である「Audience Analytics」を使用できるようになります [!UICONTROL segments] Adobe Analyticsに戻ると、詳細なセグメント分析が可能です。 この優れた機能は、 [!UICONTROL tracking server] 転送と未転送 [!UICONTROL report suite] 転送中。 詳しくは、 [ドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja).
+[!UICONTROL tracking server] 転送から [!UICONTROL report suite] 転送に移行する最大の利点の 1 つは、「Audience Analytics」を使用できるようになったことです。これは、Audience Manager[!UICONTROL segments] ータをAdobe Analyticsに転送して詳細なセグメント分析に戻す機能です。 この優れた機能は、まだ [!UICONTROL tracking server] 転送中で [!UICONTROL report suite] 転送でない場合はサポートされません。 Audience Analyticsについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
-## 重要なヒント {#additional-resources}
+## 重要ヒント {#additional-resources}
 
-上のビデオで述べたように、次の [!UICONTROL report suites] をAudience Managerに転送するには、AdobeカスタマーケアまたはAdobeコンサルティングに連絡し、 [!UICONTROL tracking server] 転送中。 これを行うのは緊急ではありません。 [!UICONTROL tracking server] 転送と [!UICONTROL report suite] 転送では、ヒットが重複しません。 ただし、 [!UICONTROL report suite] 転送中
+上記のビデオで説明しているように、Audience Managerに転送する [!UICONTROL report suites] ールをすべて転送に設定したら、AdobeカスタマーケアまたはAdobe Consultingに連絡して、[!UICONTROL tracking server] 転送を無効にしてもらう必要があります。 [!UICONTROL tracking server] 転送と [!UICONTROL report suite] 転送の両方を持っているとヒットが重複することはないので、これを行うことは緊急ではありません。 ただし、ベストプラクティスとして、[!UICONTROL report suite] 転送のみを行うことをお勧めします。
 
-もしあなたが出て行くなら [!UICONTROL tracking server] 転送は、次のデータを転送するだけでなく、 [!UICONTROL report suites] 転送は望まないが、将来、あなた（およびあなたの会社のすべての人）が [!UICONTROL tracking server] 転送がオンの場合、特定の [!UICONTROL report suite]. これは、レポートスイートレベルでこの機能がオンになっていないのに、 [!UICONTROL tracking server]. その後、転送の理由を見つけ出し、予期しなかったAAMサーバーコールに対する支払いもお金と時間を無駄にします。 だから、無効にするのが良い考えです [!UICONTROL tracking server] すべての [!UICONTROL report suites] は、お客様のビジネスニーズに合わせて適切な方法で進めるように設定します。
+[!UICONTROL tracking server] 転送をオンのままにすると、転送したくない [!UICONTROL report suites] ーザーからデータが転送されるだけでなく、今後、[!UICONTROL tracking server] 転送がオンになっていることを（および会社の全員が）忘れた後で、特定の [!UICONTROL report suite] ーザーに対してデータが転送されていないと思うかもしれません。 これは、レポートスイートレベルでオンになっていませんが、[!UICONTROL tracking server] ラーが原因でデータがまだ転送されているからです。 その後、転送する理由を把握し、予期していなかったAAM サーバーコールの料金を支払うことで、時間とコストを無駄にします。 したがって、ビジネスニーズに合った転送 [!UICONTROL report suites] ールをすべて設定したら、すぐに [!UICONTROL tracking server] 転送を無効にすることをお勧めします。

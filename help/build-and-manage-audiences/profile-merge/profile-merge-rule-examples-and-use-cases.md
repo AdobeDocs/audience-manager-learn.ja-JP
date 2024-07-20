@@ -1,6 +1,6 @@
 ---
-title: プロファイル結合ルールの例と使用例
-description: プロファイル結合ルールの例とその意味、およびプロファイル結合ルールが解決するユースケースについて説明します。
+title: プロファイル結合ルールの例とユースケース
+description: プロファイル結合ルールの例とその意味、およびプロファイル結合ルールで解決されるユースケースについて説明します。
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] 例と使用例
+# [!UICONTROL Profile Merge Rule] の例とユースケース
 
-このビデオでは、 [!UICONTROL Profile Merge Rules] その意味と使用例 [!UICONTROL Profile Merge Rules] 解決する。
+このビデオでは、[!UICONTROL Profile Merge Rules] の例とその意味、および解決するユースケースを説明 [!UICONTROL Profile Merge Rules] ます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)

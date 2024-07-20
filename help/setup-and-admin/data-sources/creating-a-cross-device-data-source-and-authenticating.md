@@ -1,6 +1,6 @@
 ---
 title: 認証用のクロスデバイス対応データソースの作成
-description: 認証用にクロスデバイス対応データソースを作成する方法を説明します。 ファーストパーティ CRM データをAudience Managerに取り込んで顧客のターゲットを絞り込む方法や、ログインに関する Platform タグで setCustomerIDs() メソッドを設定する方法を参照してください。
+description: 認証用にクロスデバイス対応データソースを作成する方法を説明します。 顧客のターゲティングを向上させるためにファーストパーティ CRM データをAudience Managerに取り込む方法と、ログイン用に Platform タグで setCustomerIDs （） メソッドを設定する方法を参照してください。
 feature: Data Sources
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # クロスデバイス対応データソースの作成と認証
 
-ファーストパーティの CRM データをAudience Managerに取り込んで顧客のターゲットを絞り込む場合は、まず、クロスデバイス対応データソースを作成して、CRM の ID とデータを保存する必要があります。 これは、その方法と、 `setCustomerIDs()` メソッドを使用して、Experience Platformタグにログインします。
+顧客をターゲットしやすくするためにファーストパーティの CRM データをAudience Managerに取り込む場合、まずクロスデバイス対応データソースを作成して、CRM ID とデータを保存する必要があります。 これはその方法と、ログイン用にExperience Platformタグで `setCustomerIDs()` メソッドを設定する方法を示しています。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: シンプルなプロファイル結合ルールの作成と使用
-description: プロファイル結合ルールと、それらをセグメントに割り当てる方法について説明します。 デフォルトの「現在のデバイス」プロファイルと、そのプロファイルをいつ使用できるか/使用する必要があるかについて説明します。
+description: プロファイル結合ルールと、それらをセグメントに割り当てる方法について説明します。 デフォルトの「現在のデバイス」プロファイルと、そのプロファイルを使用できるタイミング/使用する必要があるタイミングについて説明します。
 feature: Profile Merge
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# シンプルなを作成して使用 [!UICONTROL Profile Merge Rules]
+# シンプルな [!UICONTROL Profile Merge Rules] の作成と使用
 
-詳細 [!UICONTROL Profile Merge Rules] セグメントに割り当てる方法も説明します。 デフォルトの [!UICONTROL Current Device] プロファイルと、使用できるタイミングと使用する必要があるタイミング。
+[!UICONTROL Profile Merge Rules] と、セグメントに割り当てる方法について説明します。 デフォルトの [!UICONTROL Current Device] プロファイルと、それが使用できる場合と使用する必要がある場合について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

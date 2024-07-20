@@ -1,6 +1,6 @@
 ---
-title: Audience Managerユーザー向けのリアルタイム CDP におけるデータガバナンスについて
-description: このビデオでは、Audience Managerユーザーに対してReal-time Customer Data Platformのデータガバナンス機能を紹介し、Audience Managerで使用可能なものと比較します。 データ使用とラベル付けの実施 (DULE) フレームワークと、Platform 内で適用できる場所について説明します。
+title: Audience Managerユーザー向けの Real-time CDP におけるデータガバナンスについて
+description: このビデオでは、Audience Managerユーザーを対象に、Real-time Customer Data Platformのデータガバナンス機能について、Audience Managerの従来の機能と比較しながら説明します。 ここでは、データ使用およびラベル付けの適用（DULE）フレームワークと、Platform のどこで適用できるかについて説明します。
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -11,22 +11,22 @@ kt: 7337
 exl-id: 1d99c786-8d64-4877-a4e7-7026a5966d8c
 source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 1%
 
 ---
 
-# Audience Managerユーザー向けのリアルタイム CDP におけるデータガバナンスについて
+# Audience Managerユーザー向けの Real-time CDP におけるデータガバナンスについて
 
-このビデオでは、Audience Managerユーザーに対してReal-time Customer Data Platformのデータガバナンス機能を紹介し、Audience Managerで使用可能なものと比較します。 データ使用とラベル付けの実施 (DULE) フレームワークと、Platform 内で適用できる場所について説明します。
+このビデオでは、Audience Managerユーザーを対象に、Real-time Customer Data Platformのデータガバナンス機能について、Audience Managerの従来の機能と比較しながら説明します。 ここでは、データ使用およびラベル付けの適用（DULE）フレームワークと、Platform のどこで適用できるかについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
 
 ## その他のリソース
 
-Real-time Customer Data Platformの学習に役立つ既存のビデオとチュートリアルを以下に示します。 Platform の詳細については、これらに関する他のビデオやチュートリアルを自由に参照できます。
+以下は、Real-time Customer Data Platformの学習に役立つ既存のビデオとチュートリアルです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
 
-* [データガバナンスの概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
-* [ガバナンスラベルを使用したデータの分類](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
-* [データ使用ポリシーの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [Real-time Customer Data Platformでのデータ使用ポリシーの実施](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [ データガバナンスの概要 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
+* [ ガバナンスラベルを使用したデータの分類 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
+* [ データ使用ポリシーの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
+* [Real-time Customer Data Platformでのデータ使用ポリシーの適用 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)

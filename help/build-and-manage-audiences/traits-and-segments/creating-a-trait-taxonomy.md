@@ -1,6 +1,6 @@
 ---
 title: 特性分類の作成
-description: 特性をフォルダーに格納するフォルダー構造の作成に関するヒントをAudience Managerします。
+description: 特性をAudience Managerに保持するフォルダー構造を作成する際のヒントを説明します。
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 特性分類の作成
 
-特性をフォルダーに格納するフォルダー構造の作成に関するヒントをAudience Managerします。
+特性をAudience Managerに保持するフォルダー構造を作成する際のヒントを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)

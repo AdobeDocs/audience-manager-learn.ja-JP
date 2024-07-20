@@ -1,6 +1,6 @@
 ---
-title: Data Explorerを使用して、使用済みおよび未使用のキーと値のペアを検索します。
-description: Audience Managerでの日々の作業では、特定のキーと値のペアから特性が作成されたかどうかをすばやく確認する必要が生じる場合があります。 このビデオでは、Data Explorerを使用してを見つける方法を説明します。
+title: Data Explorerを使用して、使用されているキーと値のペアと未使用のキーと値のペアを検索する
+description: Audience Managerの日常業務では、特定のキーと値のペアから特性が作成されたかどうかを素早く調べる必要がある場合があります。 このビデオでは、Data Explorerで調べる方法を説明します。
 feature: Data Explorer
 topics: null
 activity: use
@@ -13,17 +13,17 @@ level: Beginner
 exl-id: 3a9b135f-033f-4beb-a4f8-65df1b34e9f9
 source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# 用途 [!UICONTROL Data Explorer] AAMで使用済みおよび未使用のキーと値のペアを検索するには、以下を実行します。 {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# [!UICONTROL Data Explorer] を使用して、AAMで使用中および未使用のキーと値のペアを検索する {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-Audience Managerでの日々の作業では、特定のキーと値のペアから特性が作成されたかどうかをすばやく確認する必要が生じる場合があります。 このビデオでは、 [!UICONTROL Data Explorer].
+Audience Managerの日常業務では、特定のキーと値のペアから特性が作成されたかどうかを素早く調べる必要がある場合があります。 このビデオでは、[!UICONTROL Data Explorer] を使用して調べる方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-シグナルが特性内に作成されたかどうかを確認するために、BAAAM ファイルと [!UICONTROL Unused Signals] レポート。 これで、でそのキーと値のペアを単に検索できます。 [!DNL Data Explorer]、 [!UICONTROL Signals] App、AAMで、特性内のキーと値のペア（特性内のペアとそうでないペア）をすべて同じリストで検索します。 素晴らしい時間節約！
+シグナルが特性に作成されたかどうかを確認するために、BAAAM ファイルと [!UICONTROL Unused Signals] レポートをダウンロードする必要がなくなりました。 これで、AAMの [!DNL Data Explorer] （[!UICONTROL Signals] アプリ）でそのキーと値のペアを検索し、特性に含まれるキーと値のペアと含まれないキーと値のペアをすべて同じリストで見つけることができます。 時間の節約に最適。
 
-詳しくは、 [!UICONTROL Data Explorer]，訪問 [Data Explorer — 概要、メリットおよび使用例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)) をクリックします。
+[!UICONTROL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)）を参照してください。

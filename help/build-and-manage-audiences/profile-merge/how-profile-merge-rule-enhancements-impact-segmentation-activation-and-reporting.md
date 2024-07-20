@@ -1,6 +1,6 @@
 ---
-title: プロファイル結合ルールの強化がセグメント化、アクティブ化、レポートに及ぼす影響
-description: プロファイル結合ルールの強化が特性 UI での合計特性とセグメント母集団に与える影響について理解する
+title: プロファイル結合ルールの機能強化によるセグメント化、アクティブ化およびレポートへの影響
+description: プロファイル結合ルールの機能強化がAudience ManagerUI の合計特性とセグメント母集団に与える影響について
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 方法 [!UICONTROL Profile Merge Rule] セグメント化、アクティブ化、レポート作成に与える影響の強化
+# 機能強化 [!UICONTROL Profile Merge Rule] セグメント化、アクティブ化、レポートに与える影響
 
-方法について [!UICONTROL Profile Merge Rule] 機能強化は次に影響を与えます： [!UICONTROL Total Trait] および [!UICONTROL Segment Populations] Audience Manager
+[!UICONTROL Profile Merge Rule] の機能強化がAudience Managerの [!UICONTROL Total Trait] と [!UICONTROL Segment Populations] にどのような影響を与えるかを理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

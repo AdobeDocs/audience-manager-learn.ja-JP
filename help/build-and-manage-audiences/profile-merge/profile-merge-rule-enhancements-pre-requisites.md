@@ -1,6 +1,6 @@
 ---
-title: プロファイル結合ルールの強化 — 前提条件
-description: プロファイル結合ルールの強化のリリースに最適な準備方法の概要です。
+title: プロファイル結合ルールの強化 – 前提条件
+description: プロファイル結合ルール機能強化のリリースに最適な準備方法の概要です。
 feature: Profile Merge
 topics: null
 activity: understand
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rule] 機能強化 — 前提条件
+# [!UICONTROL Profile Merge Rule] の機能強化 – 前提条件
 
-のリリースに最適な準備方法の概要 [!UICONTROL Profile Merge Rule] 機能強化。
+[!UICONTROL Profile Merge Rule] 拡張機能のリリースに最適な準備方法の概要です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)

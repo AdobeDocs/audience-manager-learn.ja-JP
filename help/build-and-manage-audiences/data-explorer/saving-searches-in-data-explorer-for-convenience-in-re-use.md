@@ -1,6 +1,6 @@
 ---
-title: 検索結果をData Explorerに保存して再利用
-description: このビデオでは、Data Explorerで検索を設定し、実行して、後で再利用できるように保存する方法を説明します。 また、保存済みの検索結果をダッシュボードに配置して、シグナルアプリケーションに移動したときにすぐに使用できるようにすることもできます。
+title: 検索をData Explorerに保存して、便利に再利用
+description: このビデオでは、Data Explorerで検索を設定して実行し、後で再利用するために保存する方法について説明します。 また、保存した検索条件をダッシュボードに配置して、Signals アプリに入ったときにすぐに使用できるようにします。
 feature: Data Explorer
 topics: null
 activity: use
@@ -14,15 +14,15 @@ level: Beginner
 exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
 source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
-# 検索結果をに保存 [!UICONTROL Data Explorer] 便利に再利用するために {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# 検索を [!UICONTROL Data Explorer] に保存して、便利な再利用を実現 {#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-このビデオでは、 [!DNL Data Explorer]を実行し、後で再利用するために保存します。 また、保存した検索結果をダッシュボードに配置して、 [!UICONTROL Signals] アプリを使用します。
+このビデオでは、[!DNL Data Explorer] で検索を設定して実行し、後で再利用するために保存する方法について説明します。 また、保存済みの検索をダッシュボードに配置して、[!UICONTROL Signals] アプリに移動するとすぐに使用できるようにします。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-詳しくは、 [!UICONTROL Data Explorer]，訪問 [Data Explorer — 概要、メリットおよび使用例](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+[!UICONTROL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース ](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html) を参照してください。

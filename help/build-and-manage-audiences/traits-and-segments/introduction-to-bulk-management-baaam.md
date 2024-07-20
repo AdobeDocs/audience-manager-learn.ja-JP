@@ -1,6 +1,6 @@
 ---
-title: 一括管理(BAAAM)の概要
-description: Audience Manager一括管理ツール（一般に「BAAAM」と呼ばれる）について説明します。 BAAAMシートを使用して特性およびセグメントを作成、編集および削除するためにREST APIを使用できる認証方法を参照してください。
+title: 一括管理（BAAM）の概要
+description: 一般的に「BAAAM」と呼ばれるAudience Manager一括管理ツールについて説明します。 REST API で BAAM シートを使用して、特性やセグメントを作成、編集、削除できるように、認証方法を参照してください。
 feature: BAAAM
 topics: null
 activity: use
@@ -13,13 +13,13 @@ level: Beginner
 exl-id: bd1694b4-8c10-43ab-bb09-26f9de518326
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 1%
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
-# 一括管理(BAAAM)の概要
+# 一括管理（BAAM）の概要
 
-Audience Manager[!UICONTROL Bulk Management]ツール（一般に「BAAAM」と呼ばれる）について説明します。 BAAAMシートを使用して特性およびセグメントを作成、編集および削除するためにREST APIを使用できる認証方法を参照してください。
+一般的に「BAAAM」と呼ばれるAudience Manager[!UICONTROL Bulk Management] 定ツールについて説明します。 REST API で BAAM シートを使用して、特性やセグメントを作成、編集、削除できるように、認証方法を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
