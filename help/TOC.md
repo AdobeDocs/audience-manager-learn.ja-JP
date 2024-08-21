@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 向けのビデオとチュートリア�
 breadcrumb-title: Audience Manager チュートリアル
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
-source-wordcount: '895'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 3%
 
 + [Audience Managerチュートリアル](overview.md)
 + Audience Manager{#intro-to-audience-manager} の概要
-   + [DMP がビジネスを変える方法](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
-   + [Audience Manager- DMP の概要](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
+   + [DMPでビジネスがどう変わるか](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
+   + [Audience Manager - DMPの概要](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Managerのユースケース](intro-to-audience-manager/audience-manager-use-cases.md)
    + [基本用語と概念について](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Audience Managerでのデータフローについて](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
@@ -38,7 +38,7 @@ ht-degree: 3%
       + [役割ベースのアクセス制御を使用した権限の設定](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + データガバナンスとプライバシー {#data-governance-and-privacy}
       + [グローバルデバイス ID の検証](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [IAB TCF 2.0 のサポート](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [IAB TCF 2.2 のサポート](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [国別の IP の不明化](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + 使用状況と請求 {#usage-and-billing}
       + [アクティビティ使用状況の監視とレポート](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)

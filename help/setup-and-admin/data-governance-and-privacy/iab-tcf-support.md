@@ -1,25 +1,22 @@
 ---
-title: IAB TCF 2.0 のサポート
+title: IAB TCF 2.2 のサポート
 description: IAB TCF へのAudience Managerプラグインと、Adobeのオプトインオブジェクトおよび Consent Management Provider （CMP）との連携方法について説明します。
 feature: Data Governance & Privacy
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 thumbnail: 26434.jpg
 kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
-source-wordcount: '1059'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Audience Managerでの IAB TCF 2.0 のサポート {#iab-tcf-support-in-audience-manager}
+# Audience Managerでの IAB TCF 2.2 のサポート {#iab-tcf-support-in-audience-manager}
 
-Adobeでは、オプトイン機能と、IAB Transparency and Consent Framework 2.0 （TCF 2.0）サポートへのAudience Managerプラグインを通じて、ユーザーのプライバシーの選択を管理および伝達する手段を提供します。 この記事は IAB TCF へのAudience Managerプラグインと、Adobeのオプトインオブジェクトおよび Consent Management Provider （CMP）との連携方法を理解するのに役立つドキュメントと連携します。 IAB について詳しくは、Web サイト （[https://www.iabeurope.eu/](https://www.iabeurope.eu/)）を参照してください。
+Adobeでは、オプトイン機能と、IAB Transparency and Consent Framework 2.2 （TCF 2.2）サポートへのAudience Managerプラグインを通じて、ユーザーのプライバシーの選択を管理および伝達する手段を提供します。 この記事は IAB TCF へのAudience Managerプラグインと、Adobeのオプトインオブジェクトおよび Consent Management Provider （CMP）との連携方法を理解するのに役立つドキュメントと連携します。 IAB について詳しくは、Web サイト （[https://www.iabeurope.eu/](https://www.iabeurope.eu/)）を参照してください。
 
 ## 最初の手順：Experience CloudID オプトインについて {#first-step-understand-ecid-s-opt-in}
 
@@ -48,7 +45,7 @@ IAB が提供する標準の 1 つは「同意文字列」（「DaisyBit」と�
 
 ### 目的 {#purposes}
 
-IAB TCF 2.0 では、同意を収集する 10 の「目的」（ベンダーが訪問者のデータで実行できること）があります。 Adobe Audience Managerでは、10 人全員の同意は必要なく、ベンダーの同意に加えて、次の目的でのみ同意が必要です。
+IAB TCF 2.2 では、同意を収集する 10 の「目的」（ベンダーが訪問者のデータで実行できること）があります。 Adobe Audience Managerでは、10 人全員の同意は必要なく、ベンダーの同意に加えて、次の目的でのみ同意が必要です。
 
 * **目的 1:** デバイス上の情報の保存またはアクセス；
 * **目的 10:** 製品の開発と改善；
@@ -89,4 +86,4 @@ IAB TCF 用Audience Managerプラグインを使用すると、ユーザーの�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-実装およびテスト方法、ユースケース、ワークフローなど、IAB TCF 2.0 用Audience Managerプラグインについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html) を参照してください。
+実装およびテスト方法、ユースケース、ワークフローなど、IAB TCF 2.2 用Audience Managerプラグインについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html) を参照してください。
