@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、People-based Destinations で使用するAudience Managerの [!UICONTROL Data Source] ークフローを作成する手順について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32577/?quality=12&captions=jpn)

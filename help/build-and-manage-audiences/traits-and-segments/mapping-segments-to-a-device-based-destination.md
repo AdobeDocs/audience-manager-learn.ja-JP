@@ -22,4 +22,4 @@ ht-degree: 0%
 
 オーディエンスセグメントをDSPまたは他のパートナーに送信するには、Audience Managerでセグメントを宛先にマッピングする必要があります。 このビデオでは、セグメントをデバイスベースの宛先（_サーバー間_ 宛先とも呼ばれる）にマッピングする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41306/?quality=12&learn=on&captions=jpn)

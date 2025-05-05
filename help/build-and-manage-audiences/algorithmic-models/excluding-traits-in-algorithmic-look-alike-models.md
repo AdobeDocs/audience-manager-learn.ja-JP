@@ -22,7 +22,7 @@ ht-degree: 0%
 
 このビデオでは、アルゴリズム（類似）モデルから特定の（または複数の）特性を除外する方法と理由を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38134/?quality=12&captions=jpn)
 
 この機能の使用例を次に示します。
 

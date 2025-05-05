@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Audience Managerは UI でセルフサービス機能を提供し、お客様がグローバルまたは国別に IP の不明化を有効にできるようにします。 このビデオでは、設定に関する手順を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/35075/?quality=9&captions=jpn)
 
 この機能について詳しくは、[ ドキュメント ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/ip-obfuscation.html) を参照してください。

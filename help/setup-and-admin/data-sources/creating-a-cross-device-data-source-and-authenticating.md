@@ -22,4 +22,4 @@ ht-degree: 0%
 
 顧客をターゲットしやすくするためにファーストパーティの CRM データをAudience Managerに取り込む場合、まずクロスデバイス対応データソースを作成して、CRM ID とデータを保存する必要があります。 これはその方法と、ログイン用にExperience Platformタグで `setCustomerIDs()` メソッドを設定する方法を示しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346213/?quality=12&learn=on&captions=jpn)

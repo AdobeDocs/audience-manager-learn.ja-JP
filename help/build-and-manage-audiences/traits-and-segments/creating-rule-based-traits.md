@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience ManagerUI の [!UICONTROL Trait Builder] を使用して、ルールベースの特性を作成し、Audience Managerプロファイルにリアルタイムアクティビティを取り込める方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38122/?quality=12&learn=on&captions=jpn)

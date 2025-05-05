@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Managerでセグメントを作成する際に、様々なデータソースから特性を追加できます。 このビデオでは、その方法と、考慮する必要があるその他の設定について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37713/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327060/?quality=12&learn=on&captions=jpn)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 このビデオでは、People-Based Destinations で使用するAudience Managerでのセグメントの作成について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31653/?quality=12&captions=jpn)

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 このビデオでは、[!UICONTROL Data Explorer] でAdobe Analytics データを検出して使用する方法を説明します。これには、使用中および未使用の [!UICONTROL signals] ータの検索、[!DNL Analytics] 特性の作成、データの理解が含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330353/?quality=12&captions=jpn)
 
 Audience Managerに取り込まれる主なデータソースの 1 つが分析ソリューションである可能性が高いですが、もちろん、それがAdobe Analyticsであることを願っています。
 

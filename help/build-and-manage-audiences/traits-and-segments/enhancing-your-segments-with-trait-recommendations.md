@@ -22,7 +22,7 @@ ht-degree: 0%
 
 [!UICONTROL Trait Recommendations] を使用すると、[!UICONTROL Segments] でセグメントを作成または編集するときに、セグメントルールの特性に類似した、追加の特性に関するレコメンデーションが表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40841/?quality=12&captions=jpn)
 
 [!UICONTROL Trait Recommendations] は、ファーストパーティデータとサードパーティデータの両方を扱うので、追加の推奨 [!UICONTROL Traits] ータを含めて、ターゲットオーディエンスを増やすことができます。
 

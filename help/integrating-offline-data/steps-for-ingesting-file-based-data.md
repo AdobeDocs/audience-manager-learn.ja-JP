@@ -22,7 +22,7 @@ ht-degree: 0%
 
 このビデオでは、データファイルのファイル名要件を含め、オフラインデータをAudience Managerにオンボーディングする際に実行する手順について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346199/?quality=12&learn=on&captions=jpn)
 
 受信ファイルのデータ形式に関するビデオについては、[ こちら ](formatting-and-ingesting-file-based-data.md) をクリックしてください。
 
