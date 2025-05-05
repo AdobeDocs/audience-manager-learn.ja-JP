@@ -26,8 +26,8 @@ Audience ManagerからReal-time Customer Data Platformに移行する際には�
 
 以下は、Real-time Customer Data Platformの学習に役立つ既存のビデオとチュートリアルです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
 
-* [ スキーマエディターを使用したスキーマの作成 ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [ データセットの作成 ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [ セグメントの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
-* [ 動的セグメントの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
-* [ 複数エンティティセグメントの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)
+* [ スキーマエディターを使用したスキーマの作成 ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja#getting-started)
+* [ データセットの作成 ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=ja#permissions-required)
+* [ セグメントの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ja#segments)
+* [ 動的セグメントの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=ja#segments)
+* [ 複数エンティティセグメントの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=ja#segments)

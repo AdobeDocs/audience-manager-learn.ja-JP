@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-詳しくは、製品ドキュメントの [ アドレッシブルオーディエンス ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) を参照してください。
+詳しくは、製品ドキュメントの [ アドレッシブルオーディエンス ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=ja) を参照してください。

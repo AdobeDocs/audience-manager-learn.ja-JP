@@ -24,4 +24,4 @@ UI のフィールドを確認し、Audience Managerでセグメントを作成�
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-セグメントについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html) を参照してください。
+セグメントについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=ja) を参照してください。

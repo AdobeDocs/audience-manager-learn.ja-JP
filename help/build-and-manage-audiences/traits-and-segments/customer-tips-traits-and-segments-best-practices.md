@@ -28,4 +28,4 @@ Matt Vittorioso は、Ally Financial のデジタルマーケティングチー�
 * 標準搭載の機能の利用
 * 特性とセグメントを定期的にレビューする
 
-[Experience Leagueコミュニティで Matt のヒントを参照してください。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Experience Leagueコミュニティで Matt のヒントを参照してください。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=ja)

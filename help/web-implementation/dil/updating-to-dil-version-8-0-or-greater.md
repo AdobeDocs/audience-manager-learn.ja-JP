@@ -23,7 +23,7 @@ ht-degree: 1%
 
 ## 概要 {#overview}
 
-Audience Managerの [!DNL Data Integration Library] （DIL）コードを使用すると、web サイトにAAMを実装できます*。 以前のバージョンのDILを実装する場合、AdobeのExperience CloudID サービス（ECID）も実装する必要はありませんでした（ただし、非常に良い考えでした）。 DILバージョン 8.0 以降、ECID バージョン 3.3 以降には強い依存関係があります。 ECID 3.3 を使用せずに、または以前のDILでバージョン 8.0 以降を実装する場合、エラーが発生し、機能しません。 AAMを実装する方法は複数あるので、このページを作成して、いくつかの手順と推奨事項を説明しました。 以下に、これらの手順と推奨事項をプラットフォーム/実装方法別に示します。 DILについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=en) を参照してください。
+Audience Managerの [!DNL Data Integration Library] （DIL）コードを使用すると、web サイトにAAMを実装できます*。 以前のバージョンのDILを実装する場合、AdobeのExperience CloudID サービス（ECID）も実装する必要はありませんでした（ただし、非常に良い考えでした）。 DILバージョン 8.0 以降、ECID バージョン 3.3 以降には強い依存関係があります。 ECID 3.3 を使用せずに、または以前のDILでバージョン 8.0 以降を実装する場合、エラーが発生し、機能しません。 AAMを実装する方法は複数あるので、このページを作成して、いくつかの手順と推奨事項を説明しました。 以下に、これらの手順と推奨事項をプラットフォーム/実装方法別に示します。 DILについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=ja) を参照してください。
 
 * このページの説明に記載されているように、ここでは、Adobe Analyticsを持たないAAMのお客様が使用する「クライアントサイド」のDIL実装についてのみ説明します。 Adobe Analyticsがある場合は、AAMのサーバーサイド転送方式を使用する必要があります。 このメソッドについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ja) を参照してください。
 
@@ -33,8 +33,8 @@ Audience Managerの [!DNL Data Integration Library] （DIL）コードを使用�
 
 例：
 
-* [!DNL DIL.create] を使用する場合、いくつかの要素は非推奨となっており、代わりに ECID 要素を使用する必要があります。 これらの要素は、[[!DNL DIL.create]  ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html) で呼び出されます。
-* [!DNL idSync] インスタンスレベルのメソッドも非推奨（廃止予定）となり、メソッドの [ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html) で呼び出されています。
+* [!DNL DIL.create] を使用する場合、いくつかの要素は非推奨となっており、代わりに ECID 要素を使用する必要があります。 これらの要素は、[[!DNL DIL.create]  ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=ja) で呼び出されます。
+* [!DNL idSync] インスタンスレベルのメソッドも非推奨（廃止予定）となり、メソッドの [ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html?lang=ja) で呼び出されています。
 
 ## 顧客 ID との ID 同期 {#id-syncing-with-a-customer-id}
 
@@ -98,7 +98,7 @@ Adobe以外のタグマネージャーについても同じことが言えます
 
    1. （DIL） `iframeAkamaiHTTPS` -> （ECID） `idSyncSSLUseAkamai`
 
-      [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html)
+      [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=ja)
 
    1. （DIL） `declaredId` -> （ECID） `setCustomerIDs`
 

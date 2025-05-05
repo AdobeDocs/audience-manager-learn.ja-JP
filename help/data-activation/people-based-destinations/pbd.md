@@ -33,4 +33,4 @@ ht-degree: 0%
 * [人物ベースの宛先の作成と設定](create-and-configure-people-based-destinations.md)
 * [linkedIn People-based Destination について理解し、設定する](understanding-and-configuring-the-linkedin-pbd.md)
 
-これらのビデオは、[documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) と組み合わせて使用することができます。
+これらのビデオは、[documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja) と組み合わせて使用することができます。

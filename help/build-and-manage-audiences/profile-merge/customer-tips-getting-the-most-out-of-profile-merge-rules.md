@@ -28,4 +28,4 @@ Varun Kalra は、シドニーを拠点とするAdobeソリューションパー
 * ターゲティングのユースケースの詳細
 * 各種 PMR 設定のユースケース
 
-[Experience Leagueに関する Varun のヒントを参照してください。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Experience Leagueに関する Varun のヒントを参照してください。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=ja)
