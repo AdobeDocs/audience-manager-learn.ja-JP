@@ -15,7 +15,7 @@ ht-degree: 0%
 # Audience Manager チュートリアル {#tutorials}
 
 + [Audience Managerチュートリアル](overview.md)
-+ Audience Manager{#intro-to-audience-manager} の概要
++ Audience Manager の概要{#intro-to-audience-manager}
    + [DMPでビジネスがどう変わるか](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - DMPの概要](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Managerのユースケース](intro-to-audience-manager/audience-manager-use-cases.md)
@@ -52,7 +52,7 @@ ht-degree: 0%
    + [タグマネージャーを使用したAudience Managerの実装](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [パートナー ID またはサブドメインの識別方法](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [SPA ページでのベストプラクティスの使用](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
-+ オフラインデータ {#integrating-offline-data} ースの統合
++ オフラインデータ ースの統合 {#integrating-offline-data}
    + [ファイルベースのデータのフォーマットと取り込み](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [ファイルベースのデータを取り込む手順](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + モバイル実装 {#mobile-implementation}
@@ -60,11 +60,11 @@ ht-degree: 0%
    + [iOS Objective-C アプリケーションへの実装 ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Android アプリケーションへの実装 ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + データ {#buying-data} ースの購入
+   + データ ースの購入 {#buying-data}
       + [セグメントレベルでのAudience Marketplaceにおけるセカンドパーティおよびサードパーティのデータ使用のレポート](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [データ使用をAudience Marketplaceに一括アップロード](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [フィルターと Recommendations を使用してAudience Marketplace内のサードパーティデータを選択する](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-   + データ {#selling-data} ースの販売
+   + データ ースの販売 {#selling-data}
       + [所有オーディエンスを Marketplace で商業化](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + オーディエンスの作成と管理 {#build-and-manage-audiences}
    + Data explorer {#data-explorer}
@@ -149,7 +149,7 @@ ht-degree: 0%
    + [重複レポートを使用した関連オーディエンスについて](reports/understand-related-audiences-with-overlap-reports.md)
    + [Audience Optimizationレポートを使用したメディアパフォーマンスの把握](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + その他の統合 {#other-integrations}
-   + Real-time Customer Data Platform {#integrating-with-rtcdp} との統合
+   + Real-time Customer Data Platform との統合 {#integrating-with-rtcdp}
       + [Adobe Audience Manager コネクタを使用したデータの取り込み ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Real-time CDP でのファーストパーティデータ取り込みについて](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Real-time CDP での web データ取り込みについて](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
@@ -160,7 +160,7 @@ ht-degree: 0%
       + [Real-time CDP の宛先について](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
       + [Real-time CDP のアクセス制御について](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
       + [Real-time CDP のデータガバナンスについて](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
-   + Ad Cloud {#integrating-with-ad-cloud} との統合
+   + Ad Cloud との統合 {#integrating-with-ad-cloud}
       + [Adobe Advertising CloudとAdobe Audience Managerの統合](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
    + [Adobe Developerでの API 資格情報の取得](api/retrieve-api-credentials-in-adobe-io.md)
