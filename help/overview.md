@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ---
 
-# Audience Managerチュートリアル
+# Audience Manager チュートリアル
 
-Audience Managerチュートリアルサイトへようこそ。 これらのチュートリアルを [ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) と併用すると、Adobe Audience Managerを使用して、Adobeのクラス最高の [!DNL data management platform] を使用して、任意のチャネルやデバイスでオーディエンスを作成およびアクティブ化する方法をより深く理解できます。
+Audience Manager チュートリアルサイトへようこそ。 これらのチュートリアルを [ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) と併用すると、Adobeのクラス最高の [!DNL data management platform] を使用して、Adobe Audience Managerを使用して任意のチャネルやデバイスでオーディエンスを作成し、アクティブ化する方法をより深く理解できます。
 
 * お気に入りのコンテンツの一部を紹介する **スタッフのおすすめ**
 * **左側のナビゲーション** でトピックおよびサブトピック別にコンテンツを探索
@@ -38,42 +38,42 @@ Audience Managerチュートリアルサイトへようこそ。 これらのチ
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ja">
-      <img alt="「Web SDK を使用してAdobe Experience Cloudを実装するチュートリアル」のサムネール画像" src="assets/implement-web-sdk.jpg" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <img alt="「Web SDKを使用してAdobe Experience Cloudを実装する」チュートリアルのサムネール画像" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ja">
-    <strong>Web SDK を使用したAdobe Experience Cloudの実装のチュートリアル </strong>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <strong>Web SDKを使用したAdobe Experience Cloudの実装のチュートリアル </strong>
     </a>
     </div>
     <p>
-    <em>Adobe Experience Platform Web SDK を使用してExperience Cloudアプリケーションを実装する方法を説明します。</em>
+    <em>Adobe Experience Platform Web SDKを使用してExperience Cloud アプリケーションを実装する方法について説明します </em>。
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=ja">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
       <img alt="「リアルタイム CDP におけるセグメントについて」チュートリアルのサムネール画像" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=ja">
-    <strong>Audience Managerユーザー向け Real-time CDP におけるセグメントについて </strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>Audience Manager ユーザー向け Real-time CDP におけるセグメントについて </strong>
     </a>
     </div>
     <p>
-    <em> このビデオでは、セグメントの違いと、Audience Managerと Real-time CDP の間のセグメント作成の違いについて説明します。</em>
+    <em> このビデオでは、Audience Managerと Real-time CDP のセグメントおよびセグメント作成の違いについて説明します。</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=ja">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
       <img alt="「Audience Managerでの Predictive Audiences の設定とレポート」チュートリアルのサムネール画像" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=ja">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
     <strong>Audience Managerでの Predictive Audiences の設定とレポート </strong>
     </a>
     </div>
     <p>
-    <em> このビデオでは、Audience Managerインターフェイスでの Predictive Audiences 設定について順を追って説明します。</em>
+    <em> このビデオでは、Audience Manager インターフェイスでの Predictive Audiences 設定について順を追って説明します。</em>
     <p>
   </td>
 </tr>

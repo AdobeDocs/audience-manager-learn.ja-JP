@@ -1,6 +1,6 @@
 ---
-title: Audience Managerユーザー向けの Real-time CDP におけるアクセス制御について
-description: Audience ManagerからReal-time Customer Data Platformに移行する際には、ユーザー権限とグループ権限が設定されている場所を把握する必要があります。 このビデオでは、Adobe Admin Consoleでアクセス制御がどのように使用できるようになるかを説明します。
+title: Audience Manager ユーザー向け Real-time CDP におけるアクセス制御について
+description: Audience Managerから Real-time Customer Data Platform に移行する際には、ユーザー権限とグループ権限が設定されている場所を知る必要があります。 このビデオでは、Adobe Admin Consoleでアクセス制御がどのように使用できるようになるかを説明します。
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,15 +16,15 @@ ht-degree: 1%
 
 ---
 
-# Audience Managerユーザー向けの Real-time CDP におけるアクセス制御について
+# Audience Manager ユーザー向け Real-time CDP におけるアクセス制御について
 
-Audience ManagerからReal-time Customer Data Platformに移行する際には、ユーザー権限とグループ権限が設定されている場所を把握する必要があります。 このビデオでは、Adobe Admin Consoleでアクセス制御がどのように使用できるようになるかを説明します。
+Audience Managerから Real-time Customer Data Platform に移行する際には、ユーザー権限とグループ権限が設定されている場所を知る必要があります。 このビデオでは、Adobe Admin Consoleでアクセス制御がどのように使用できるようになるかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410906/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
 
 ## その他のリソース
 
-Real-time Customer Data Platformの学習に役立つ既存のリソースを以下に示します。
+Real-time Customer Data Platform の学習に役立つ既存のリソースを以下に示します。
 
-* [ アクセス制御の概要 ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ja#access-control-hierarchy-and-workflow)
-* [ 権限の設定 ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=ja)
+* [ アクセス制御の概要 ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
+* [ 権限の設定 ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)

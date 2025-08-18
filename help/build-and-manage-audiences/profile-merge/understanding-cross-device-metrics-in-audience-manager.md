@@ -1,5 +1,5 @@
 ---
-title: Audience Managerでのクロスデバイス指標について
+title: Audience Managerのクロスデバイス指標について
 description: デバイスプロファイルとクロスデバイスプロファイルの違い、およびインターフェイスの数値がこれらの様々なプロファイルタイプと一致する場合について説明します。
 feature: Profile Merge
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Audience Managerでのクロスデバイス指標について
+# Audience Managerのクロスデバイス指標について
 
 このビデオでは、デバイスプロファイルとクロスデバイスプロファイルの違い、およびインターフェイスの数値がこれらの様々なプロファイルタイプと一致する場合について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36810/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

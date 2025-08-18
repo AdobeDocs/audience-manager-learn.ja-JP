@@ -1,6 +1,6 @@
 ---
 title: Data Explorerを使用して、Adobe Analyticsから送信されるシグナルを操作します
-description: このビデオでは、Data Explorerを使用してAdobe Analytics データを検出および使用する方法を説明します。これには、使用中および未使用のシグナルの検索、Analytics 特性の作成、データの理解が含まれます。
+description: このビデオでは、Data ExplorerでAdobe Analytics データを検出して使用する方法（使用中および未使用のシグナルの検索、Analytics 特性の作成、データの理解など）を説明します。
 feature: Data Explorer
 topics: null
 activity: use
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 このビデオでは、[!UICONTROL Data Explorer] でAdobe Analytics データを検出して使用する方法を説明します。これには、使用中および未使用の [!UICONTROL signals] ータの検索、[!DNL Analytics] 特性の作成、データの理解が含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/330353/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
 Audience Managerに取り込まれる主なデータソースの 1 つが分析ソリューションである可能性が高いですが、もちろん、それがAdobe Analyticsであることを願っています。
 
 様々なレポートスイートから何が入 [!UICONTROL Data Explorer] てくるかを確認できる状態になっています。まだ特性で使用されていない [!DNL Analytics] シグナルを見つけたら、[!DNL Trait Builder] に直接クリックして特性を作成し、この強力な行動データをセグメント化に活用します。
 
-[!DNL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ja) を参照してください。
+[!DNL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en) を参照してください。

@@ -1,6 +1,6 @@
 ---
-title: Adobe AnalyticsからAudience Managerにセグメントをインポートする方法
-description: Adobe AnalyticsからAudience Managerにリアルタイムデータを転送するほかに、Experience Cloudを使用して、Analytics からAudience Managerに後処理データを含むセグメントをインポートすることもできます。 これは、他の DMP が自慢できない強力な機能です。
+title: Adobe AnalyticsからAudience Managerにセグメントを読み込む方法
+description: Adobe AnalyticsからExperience Cloudへのリアルタイムデータの転送に加えて、Audience Managerを介して Analytics からAudience Managerに後処理データを含むセグメントをインポートすることもできます。 これは、他のDMPでは自慢できない強力な機能です。
 feature: Segments
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe AnalyticsからのAudience Managerへのセグメントの読み込み
+# Adobe AnalyticsからAudience Managerへのセグメントの読み込み
 
-Adobe AnalyticsからAudience Managerにリアルタイムデータを転送するほかに、Experience Cloudを使用して、Analytics からAudience Managerに後処理データを含むセグメントをインポートすることもできます。 これは、他の DMP が自慢できない強力な機能です。
+Adobe AnalyticsからExperience Cloudへのリアルタイムデータの転送に加えて、Audience Managerを介して Analytics からAudience Managerに後処理データを含むセグメントをインポートすることもできます。 これは、他のDMPでは自慢できない強力な機能です。
 
->[!VIDEO](https://video.tv.adobe.com/v/344725/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)

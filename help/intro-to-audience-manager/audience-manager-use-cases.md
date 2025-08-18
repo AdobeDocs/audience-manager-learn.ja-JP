@@ -1,6 +1,6 @@
 ---
-title: Audience Managerのユースケース
-description: このビデオでは、4 つの一般的なAudience Managerユースケースを特定し、それらに関連するベストプラクティスについて説明します。
+title: Audience Managerの使用例
+description: このビデオでは、Audience Managerの 4 つの一般的なユースケースを特定し、それらに関連するベストプラクティスについて説明します。
 feature: Overview
 topics: null
 activity: understand
@@ -18,10 +18,10 @@ ht-degree: 1%
 
 ---
 
-# Audience Managerのユースケース
+# Audience Managerの使用例
 
-このビデオでは、4 つの一般的なAudience Managerユースケースを特定し、それらに関連するベストプラクティスについて説明します。
+このビデオでは、Audience Managerの 4 つの一般的なユースケースを特定し、それらに関連するベストプラクティスについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37271/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
 詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) を参照してください。

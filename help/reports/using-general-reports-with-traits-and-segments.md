@@ -1,6 +1,6 @@
 ---
 title: 特性とセグメントに関する一般レポートの使用
-description: このビデオでは、Audience Managerの一般レポートを使用して特性とセグメントの数値を取得する方法を参照してください。
+description: このビデオでは、Audience Managerの一般レポートを使用して特性とセグメントの数値を取得する方法を説明します。
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、Audience Managerの一般レポートを使用して特性とセグメントの数値を取得する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341015/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

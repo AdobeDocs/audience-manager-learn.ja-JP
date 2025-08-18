@@ -1,6 +1,6 @@
 ---
 title: セグメント作成時のデータソースの選択
-description: Audience Managerで新しいセグメントを作成する際に適切なデータソースを選択するためのヒントを説明します。
+description: Audience Managerで新しいセグメントを作成する際の適切なデータソースの選択に関するヒントを説明します。
 feature: Segments
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # セグメント作成時のデータソースの選択
 
-Audience Managerで新しいセグメントを作成する際に適切なデータソースを選択するためのヒントを説明します。
+Audience Managerで新しいセグメントを作成する際の適切なデータソースの選択に関するヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327398/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

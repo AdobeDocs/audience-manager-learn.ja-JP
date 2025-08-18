@@ -1,5 +1,5 @@
 ---
-title: フィルターと Recommendations を使用してAudience Marketplace内のサードパーティデータを選択する
+title: フィルターと Recommendations を使用して、Audience Marketplaceのサードパーティデータを選択します
 description: このビデオでは、Audience Marketplaceのフィルターとレコメンデーションのオプションを順を追って説明し、ニーズに合った適切なサードパーティデータプロバイダーを選ぶのに役立ちます。
 feature: Audience Marketplace
 topics: null
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=ja) を参照してください。
+詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html) を参照してください。

@@ -1,5 +1,5 @@
 ---
-title: Audience Managerセグメントの宛先へのマッピング
+title: Audience Manager セグメントの宛先へのマッピング
 description: Audience Managerの様々なタイプの宛先と、各宛先タイプへのセグメントのマッピングの詳細について説明します。
 feature: Segments
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Audience Managerセグメントの宛先へのマッピング
+# Audience Manager セグメントの宛先へのマッピング
 
 Audience Managerの様々なタイプの宛先と、各宛先タイプへのセグメントのマッピングの詳細について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327389/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)

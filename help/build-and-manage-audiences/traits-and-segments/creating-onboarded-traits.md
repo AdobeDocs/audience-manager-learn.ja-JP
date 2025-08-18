@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Managerでオンボード特性を作成するためのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328520/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

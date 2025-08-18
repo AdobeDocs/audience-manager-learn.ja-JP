@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、顧客 ID （CRM ID）をハッシュ化されたメールアドレスと結び付けるために、ファイルベースの ID 同期をフォーマットする方法を説明します。 これにより、ハッシュ化されたメールアドレスを、[!DNL Facebook] などの人物ベースの宛先に送信できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/31655/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# Audience Manager内の国別の IP の不明化 {#ip-obfuscation-by-country-in-audience-manager}
+# Audience Managerでの国別の IP の不明化 {#ip-obfuscation-by-country-in-audience-manager}
 
-Audience Managerは UI でセルフサービス機能を提供し、お客様がグローバルまたは国別に IP の不明化を有効にできるようにします。 このビデオでは、設定に関する手順を説明します。
+Audience Managerの UI にはセルフサービス機能が備わっており、お客様がグローバルまたは国別に IP の不明化を有効にすることができます。 このビデオでは、設定に関する手順を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/35075/?quality=9&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-この機能について詳しくは、[ ドキュメント ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/ip-obfuscation.html) を参照してください。
+この機能について詳しくは、[ ドキュメント ](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html) を参照してください。

@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # People-based Destinations の [!UICONTROL Data Source] の作成
 
-このビデオでは、People-based Destinations で使用するAudience Managerの [!UICONTROL Data Source] ークフローを作成する手順について説明します。
+このビデオでは、People-based Destinations で使用する [!UICONTROL Data Source] をAudience Managerで作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32577/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

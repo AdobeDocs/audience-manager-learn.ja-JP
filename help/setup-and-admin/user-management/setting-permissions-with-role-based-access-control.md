@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Audience Managerのロールベースのアクセス制御を使用すると、権限をグループレベルで管理し、誰にアセット（特性、セグメント、宛先、モデルなど）を表示および操作させるかを制御できます。 権限グループを設定し、ユーザーを追加する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449388/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/329120/?quality=12&learn=on)

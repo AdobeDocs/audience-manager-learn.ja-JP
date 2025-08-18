@@ -1,6 +1,6 @@
 ---
 title: ファイルベースのデータの取り込み方法
-description: このビデオでは、データファイルのファイル名要件を含め、オフラインデータをAudience Managerにオンボーディングする際に実行する手順について説明します。
+description: このビデオでは、データファイルのファイル名要件など、オフラインデータをAudience Managerにオンボーディングする際に実行する手順を説明します。
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # ファイルベースのデータを取り込む手順
 
-このビデオでは、データファイルのファイル名要件を含め、オフラインデータをAudience Managerにオンボーディングする際に実行する手順について説明します。
+このビデオでは、データファイルのファイル名要件など、オフラインデータをAudience Managerにオンボーディングする際に実行する手順を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346199/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
 受信ファイルのデータ形式に関するビデオについては、[ こちら ](formatting-and-ingesting-file-based-data.md) をクリックしてください。
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=ja) を参照してください。
+詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html) を参照してください。

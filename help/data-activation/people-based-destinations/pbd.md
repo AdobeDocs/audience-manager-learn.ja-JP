@@ -1,6 +1,6 @@
 ---
 title: People-based Destinations のビデオとチュートリアル
-description: Audience Managerでの People-based Destinations について説明します。 オンラインおよびオフラインのデータにセグメント化を適用し、メールアドレスなどのハッシュ化された識別子に基づいてオーディエンスセグメントを作成する方法を説明します。
+description: Audience Managerの People-based Destinations について説明します。 オンラインおよびオフラインのデータにセグメント化を適用し、メールアドレスなどのハッシュ化された識別子に基づいてオーディエンスセグメントを作成する方法を説明します。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -31,6 +31,6 @@ ht-degree: 0%
 * [人物ベースの宛先のプロファイル結合ルールの設定](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [People-based Destinations のセグメントの作成](creating-segments-for-people-based-destinations.md)
 * [人物ベースの宛先の作成と設定](create-and-configure-people-based-destinations.md)
-* [linkedIn People-based Destination について理解し、設定する](understanding-and-configuring-the-linkedin-pbd.md)
+* [LinkedIn の人物ベースの宛先について](understanding-and-configuring-the-linkedin-pbd.md)
 
-これらのビデオは、[documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja) と組み合わせて使用することができます。
+これらのビデオは、[documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html) と組み合わせて使用することができます。

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rules] と、セグメントに割り当てる方法について説明します。 デフォルトの [!UICONTROL Current Device] プロファイルと、それが使用できる場合と使用する必要がある場合について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40016/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

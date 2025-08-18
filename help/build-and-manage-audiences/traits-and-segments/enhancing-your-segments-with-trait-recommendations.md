@@ -1,6 +1,6 @@
 ---
-title: 特性Recommendationsによるセグメントの強化
-description: 特性Recommendationsを使用すると、セグメントを作成または編集する際に、セグメントルールに類似した、追加の特性に関するレコメンデーションが表示されます。
+title: 特性レコメンデーションを使用したセグメントの強化
+description: 特性レコメンデーションを使用すると、セグメントを作成または編集する際に、セグメントルールに類似した、追加の特性に関するレコメンデーションが表示されます。
 feature: Segments
 topics: null
 activity: use
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 [!UICONTROL Trait Recommendations] を使用すると、[!UICONTROL Segments] でセグメントを作成または編集するときに、セグメントルールの特性に類似した、追加の特性に関するレコメンデーションが表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/40841/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
 [!UICONTROL Trait Recommendations] は、ファーストパーティデータとサードパーティデータの両方を扱うので、追加の推奨 [!UICONTROL Traits] ータを含めて、ターゲットオーディエンスを増やすことができます。
 
-この機能について詳しくは、[ ドキュメント ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/trait-recommendations.html) を参照してください。
+この機能について詳しくは、[ ドキュメント ](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html) を参照してください。

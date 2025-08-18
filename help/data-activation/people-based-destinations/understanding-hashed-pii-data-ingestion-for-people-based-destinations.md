@@ -1,6 +1,6 @@
 ---
 title: 人物ベースの宛先のハッシュ化された PII データ取り込みについて
-description: このビデオでは、People-based Destinations のAudience Managerに PII を取り込む準備をする際に考慮する必要がある事項について説明します。
+description: このビデオでは、People-based Destinations 用にAudience Managerに PII を取り込む準備をする際に考慮する必要がある事項を説明します。
 feature: People-based Destinations
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 人物ベースの宛先のハッシュ化された PII データ取り込みについて
 
-このビデオでは、People-based Destinations のAudience Managerに PII を取り込む準備をする際に考慮する必要がある事項について説明します。
+このビデオでは、People-based Destinations 用にAudience Managerに PII を取り込む準備をする際に考慮する必要がある事項を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)

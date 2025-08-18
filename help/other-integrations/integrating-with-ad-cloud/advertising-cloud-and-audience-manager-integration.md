@@ -1,6 +1,6 @@
 ---
 title: Adobe AdvertisingとAdobe Audience Managerの統合
-description: Adobe Audience ManagerとAdobe Advertisingの統合の仕組みを説明します。 また、一致率とサードパーティ cookie の同期に関する回答も得られます。
+description: Adobe Audience ManagerとAdobe Advertising間の統合の仕組みを説明します。 また、一致率とサードパーティ cookie の同期に関する回答も得られます。
 feature: Advertising Integration
 topics: null
 activity: understand
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 Adobe Audience Managerと [!DNL Adobe Advertising] の統合の仕組みを説明します。 また、一致率とサードパーティ cookie の同期に関する回答も得られます。
 
->[!VIDEO](https://video.tv.adobe.com/v/35775/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)

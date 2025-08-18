@@ -1,6 +1,6 @@
 ---
-title: データ使用をAudience Marketplaceに一括アップロード
-description: Audience Marketplaceでのセカンドパーティおよびサードパーティのデータ使用をレポートする際に、手動ではしたくない場合に備えて、十分なエントリがある可能性があります。 このビデオでは、更新する項目が多い場合でもデータ使用状況を簡単にレポートできるように、データ使用状況レポートのバルクアップロードツールを使用する方法を説明します。
+title: Audience Marketplaceへのデータ使用の一括アップロード
+description: Audience Marketplaceでのセカンドパーティおよびサードパーティのデータ使用をレポートすると、手動ではしたくない場合に備えて十分なエントリがある可能性があります。 このビデオでは、更新する項目が多い場合でもデータ使用状況を簡単にレポートできるように、データ使用状況レポートのバルクアップロードツールを使用する方法を説明します。
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 [!UICONTROL Audience Marketplace] での 2 番目およびサードパーティのデータ使用をレポートする際に、手動ではしたくない場合に備えて、十分なエントリがある可能性があります。 このビデオでは、データ使用レポートのバルクアップロードツールの使用方法を説明します。 このツールを使用すると、更新する項目が多数ある場合でも、データの使用状況を簡単にレポートできます。
 
->[!VIDEO](https://video.tv.adobe.com/v/34027/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
 このバルクアップロードツールを使用すると、データ使用のレポートを簡素化して時間を節約できるだけでなく、セカンドパーティまたはサードパーティのデータを購入するお客様 [!UICONTROL Audience Marketplace]、コスト属性ポリシーを改善できるというメリットがあります。 この新しいポリシーは、ルールベースのセグメントにおける特性の一意のユーザー数に基づいて、データプロバイダーに対するコストを関連付け、その結果、より透明性が高く、公平な使用料の請求につながります。
-請求アルゴリズムについて詳しくは、製品ドキュメントの [CPM データフィードのコスト属性 ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/marketplace_cpm_billing.html) を参照してください。
+請求アルゴリズムについて詳しくは、製品ドキュメントの [CPM データフィードのコスト属性 ](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) を参照してください。
 
-CPM 使用状況のレポートについて詳しくは、製品ドキュメントの [CPM 使用状況のレポート方法 ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/t_marketplace_report_cpm_usage.html) を参照してください。
+CPMの使用状況のレポートについて詳しくは、製品ドキュメント [CPMの使用状況をレポートする方法 ](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) を参照してください。

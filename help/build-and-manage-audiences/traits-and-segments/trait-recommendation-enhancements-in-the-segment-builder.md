@@ -1,6 +1,6 @@
 ---
 title: セグメント化での特性レコメンデーションの機能強化
-description: このビデオでは、Audience Marketplaceのお勧めである、更新された特性レコメンデーションをセグメントで使用する方法を説明します。 セグメントのリーチを拡大できるサードパーティデータに関する追加のインサイトを得ます。
+description: このビデオでは、Audience Marketplaceのレコメンデーションである、更新された特性レコメンデーションをセグメントで使用する方法を説明します。 セグメントのリーチを拡大できるサードパーティデータに対するinsightを追加できます。
 feature: Segments
 activity: setup
 doc-type: feature video
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 # セグメント化の [!DNL Trait Recommendation] 機能の強化
 
-このビデオでは、更新された特性レコメンデーション（[!UICONTROL Audience Marketplace] のレコメンデーション）の使用方法を [!UICONTROL Segments] で説明します。 これにより、セグメントのリーチを拡大できるサードパーティデータに関する追加のインサイトが得られます。
+このビデオでは、更新された特性レコメンデーション（[!UICONTROL Segments] のレコメンデーション）の使用方法を [!UICONTROL Audience Marketplace] で説明します。 これにより、サードパーティデータにinsightが追加され、セグメントのリーチを拡大できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/34100/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=ja) を参照してください。
+詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html) を参照してください。

@@ -1,6 +1,6 @@
 ---
-title: Audience Manager- DMP の概要
-description: クロスチャネルパーソナライゼーションに関する主な課題と、Adobe Audience Managerがカスタマージャーニーをどのように強化するかについて説明します。 また、Audience Managerでオンボーディングできるデータタイプを学び、Audience Managerと統合されたアドテックエコシステムパートナーを特定します。
+title: Audience Manager - DMPの概要
+description: クロスチャネルパーソナライゼーションに関する主な課題と、Adobe Audience Managerがカスタマージャーニーをどのように強化するかについて説明します。 また、Audience Managerでオンボーディングできるデータタイプと、Audience Managerと統合されたアドテックエコシステムパートナーを特定する方法についても説明します。
 feature: Overview
 topics: null
 activity: understand
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 ---
 
-# Audience Manager- DMP の概要
+# Audience Manager - DMPの概要
 
-クロスチャネルパーソナライゼーションに関する主な課題と、Adobe Audience Managerがカスタマージャーニーをどのように強化するかについて説明します。 また、Audience Managerでオンボーディングできるデータタイプを学び、Audience Managerと統合されたアドテックエコシステムパートナーを特定します。
+クロスチャネルパーソナライゼーションに関する主な課題と、Adobe Audience Managerがカスタマージャーニーをどのように強化するかについて説明します。 また、Audience Managerでオンボーディングできるデータタイプと、Audience Managerと統合されたアドテックエコシステムパートナーを特定する方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37109/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=ja) を参照してください。
+詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html) を参照してください。

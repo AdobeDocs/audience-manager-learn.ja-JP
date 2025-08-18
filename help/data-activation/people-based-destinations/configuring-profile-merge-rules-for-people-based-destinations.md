@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、新しいクロスデバイスオプションを使用するタイミングなど、People-based Destinations に使用する [!UICONTROL Profile Merge Rule] ールの設定方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/31654/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

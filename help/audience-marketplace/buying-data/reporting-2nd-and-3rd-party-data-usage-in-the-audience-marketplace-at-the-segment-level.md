@@ -1,6 +1,6 @@
 ---
-title: セグメントレベルでのAudience Marketplaceにおけるセカンドパーティおよびサードパーティのデータ使用のレポート
-description: このビデオでは、Audience MarketplaceUI の「買掛/未払金」セクション内でのデータ使用をレポートする新しい方法を説明します。 フィードレベルのレポートの既存のプロセスに加えて、セグメントレベルで月次インプレッションを送信できるようになり、コスト属性についてオフラインで計算する必要がなくなりました。
+title: Audience Marketplaceでのセカンドパーティおよびサードパーティのデータ使用をセグメントレベルでレポートする
+description: このビデオでは、Audience Marketplace UI の Payables セクション内でのデータ使用をレポートする新しい方法を説明します。 フィードレベルのレポートの既存のプロセスに加えて、セグメントレベルで月次インプレッションを送信できるようになり、コスト属性についてオフラインで計算する必要がなくなりました。
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # セグメントレベルでの [!UICONTROL Audience Marketplace] でのセカンドパーティおよびサードパーティのデータ使用のレポート {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
 
-このビデオでは、[!UICONTROL Audience Marketplace] UI の [!UICONTROL Payables] セクション内でのデータ使用をレポートする新しい方法を説明します。 フィードレベルのレポートの既存のプロセスに加えて、セグメントレベルで月次インプレッションを送信できるようになり、コスト属性についてオフラインで計算する必要がなくなりました。
+このビデオでは、[!UICONTROL Payables] UI の [!UICONTROL Audience Marketplace] セクション内でのデータ使用をレポートする新しい方法を説明します。 フィードレベルのレポートの既存のプロセスに加えて、セグメントレベルで月次インプレッションを送信できるようになり、コスト属性についてオフラインで計算する必要がなくなりました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25522/?quality=12)
 
 このリリースでは、セカンドパーティおよびサードパーティのデータ使用がより柔軟に、またワークフローが改善されたので、お客様は UI や一括アップロード機能を使用して、セグメントレベルでインプレッションに関するレポートを作成できるようになりました。
 
-さらに、セカンドパーティまたはサードパーティのデータを [!UICONTROL Audience Marketplace] から購入するお客様は、コスト属性ポリシーの改善のメリットを受けられます。 この新しいポリシーは、ルールベースのセグメントにおける特性の一意のユーザー数に基づいて、データプロバイダーに対するコストを関連付け、その結果、より透明性が高く、公平な使用料の請求につながります。 請求アルゴリズムについて詳しくは、製品ドキュメントの [CPM データフィードのコスト属性 ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/marketplace_cpm_billing.html) を参照してください。
+さらに、セカンドパーティまたはサードパーティのデータを [!UICONTROL Audience Marketplace] から購入するお客様は、コスト属性ポリシーの改善のメリットを受けられます。 この新しいポリシーは、ルールベースのセグメントにおける特性の一意のユーザー数に基づいて、データプロバイダーに対するコストを関連付け、その結果、より透明性が高く、公平な使用料の請求につながります。 請求アルゴリズムについて詳しくは、製品ドキュメントの [CPM データフィードのコスト属性 ](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) を参照してください。
 
-CPM 使用状況のレポートについて詳しくは、製品ドキュメントの [CPM 使用状況のレポート方法 ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/t_marketplace_report_cpm_usage.html) を参照してください。
+CPMの使用状況のレポートについて詳しくは、製品ドキュメント [CPMの使用状況をレポートする方法 ](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) を参照してください。

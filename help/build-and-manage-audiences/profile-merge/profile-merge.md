@@ -32,4 +32,4 @@ ht-degree: 0%
 * [オーディエンス ID レポートの解釈](interpret-audience-identity-reporting.md)
 * [Audience Managerのクロスデバイス指標について](understanding-cross-device-metrics-in-audience-manager.md)
 
-これらのビデオは、[ プロファイル結合ルールのドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=ja) と組み合わせて使用できます。
+これらのビデオは、[ プロファイル結合ルールのドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) と組み合わせて使用できます。

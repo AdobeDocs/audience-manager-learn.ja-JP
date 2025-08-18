@@ -16,8 +16,8 @@ ht-degree: 68%
 
 ---
 
-# [!DNL Analytics] データ用の [!UICONTROL Data Source] の作成 {#create-a-data-source-for-analytics-data}
+# [!UICONTROL Data Source] データ用の [!DNL Analytics] の作成 {#create-a-data-source-for-analytics-data}
 
-このビデオでは、Adobe Analyticsなどの分析ソリューションから実稼動中のデータに使用できるAudience Managerの [!UICONTROL Data Source] ールを作成する手順（ヒントとテクニックを含む）を説明します。 これは、分析データの特性を作成する前に実行する必要があります。
+このビデオでは、Adobe Analyticsのような分析ソリューションから実稼動中のデータに使用できるAudience Managerの [!UICONTROL Data Source] ールを作成する手順（ヒントやテクニックを含む）を説明します。 これは、分析データの特性を作成する前に実行する必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/34504/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)

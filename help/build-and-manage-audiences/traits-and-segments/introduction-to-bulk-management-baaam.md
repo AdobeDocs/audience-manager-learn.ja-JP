@@ -20,7 +20,7 @@ ht-degree: 0%
 
 一般的に「BAAAM」と呼ばれるAudience Manager [!UICONTROL Bulk Management] ツールについて説明します。 REST API で BAAM シートを使用して、特性やセグメントを作成、編集、削除できるように、認証方法を参照してください。
 
->[!VIDEO](https://video.tv.adobe.com/v/340486/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >

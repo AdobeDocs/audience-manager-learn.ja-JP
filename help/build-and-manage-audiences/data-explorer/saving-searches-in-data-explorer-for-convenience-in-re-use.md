@@ -1,5 +1,5 @@
 ---
-title: 検索をData Explorerに保存して、便利に再利用
+title: 検索をData Explorerに保存して、簡単に再利用できるようにする
 description: このビデオでは、Data Explorerで検索を設定して実行し、後で再利用するために保存する方法について説明します。 また、保存した検索条件をダッシュボードに配置して、Signals アプリに入ったときにすぐに使用できるようにします。
 feature: Data Explorer
 topics: null
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-[!UICONTROL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/data-explorer.html) を参照してください。
+[!UICONTROL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース ](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html) を参照してください。

@@ -1,6 +1,6 @@
 ---
 title: オーディエンス ID レポートの解釈
-description: オーディエンス ID レポートを使用すると、顧客は、ID の個人/世帯の定義ごとに、特性やセグメントの総母集団についてレポートできます。 Audience Managerレポートでの表示については、このビデオをご覧ください。
+description: オーディエンス ID レポートを使用すると、顧客は、ID の個人/世帯の定義ごとに、特性やセグメントの総母集団についてレポートできます。 このビデオでは、Audience Manager レポートでどのように表示されるかについて説明します。
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # オーディエンス ID レポートの解釈
 
-オーディエンス ID レポートを使用すると、顧客は、ID の個人/世帯の定義ごとに、特性やセグメントの総母集団についてレポートできます。 Audience Managerレポートでの表示については、このビデオをご覧ください。
+オーディエンス ID レポートを使用すると、顧客は、ID の個人/世帯の定義ごとに、特性やセグメントの総母集団についてレポートできます。 このビデオでは、Audience Manager レポートでどのように表示されるかについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32579/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

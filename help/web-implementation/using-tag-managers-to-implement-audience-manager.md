@@ -26,6 +26,6 @@ ht-degree: 0%
 * Adobe Analyticsも使用する場合は、Adobe Experience Platform タグ（以前の Launch）を介して実装
 * Adobe Analyticsを使用しない場合のAdobe Experience Platform タグを介した実装
 * Adobe Analyticsを使用する場合は、Adobe以外のタグマネージャーを介してを実装する
-* Adobe Analyticsを使用しない場合に、Adobe以外のタグマネージャーを使用してを実装する
+* Adobe Analyticsを使用していない場合に、Adobe以外のタグマネージャーを使用してを実装する
 
->[!VIDEO](https://video.tv.adobe.com/v/35086/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)

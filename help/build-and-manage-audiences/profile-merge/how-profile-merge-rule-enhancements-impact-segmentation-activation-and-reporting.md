@@ -1,6 +1,6 @@
 ---
 title: プロファイル結合ルールの機能強化によるセグメント化、アクティブ化およびレポートへの影響
-description: プロファイル結合ルールの機能強化がAudience ManagerUI の合計特性とセグメント母集団に与える影響について
+description: Audience Manager UI で、プロファイル結合ルールの機能強化が合計特性とセグメント母集団に与える影響について
 feature: Profile Merge
 topics: null
 activity: understand

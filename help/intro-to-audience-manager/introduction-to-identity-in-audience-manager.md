@@ -1,5 +1,5 @@
 ---
-title: Audience Managerにおける ID の概要
+title: Audience Managerの ID の概要
 description: Audience Manager が ID（内部プロファイルやプロファイル結合、パートナーとの ID 同期など）を管理する仕組みについて学びます。
 landing-page-description: Audience Manager が ID（内部プロファイルやプロファイル結合、パートナーとの ID 同期など）を管理する仕組みについて学びます。
 short-description: Audience Manager が ID（内部プロファイルやプロファイル結合、パートナーとの ID 同期など）を管理する仕組みについて学びます。
@@ -20,8 +20,8 @@ ht-degree: 86%
 
 ---
 
-# Audience Managerにおける ID の概要
+# Audience Managerの ID の概要
 
 このビデオでは、Adobe Audience Manager が内部プロファイルやプロファイル結合、パートナーとの ID 同期などの ID 管理の仕組みについて学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/38398/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/34172/?quality=12)

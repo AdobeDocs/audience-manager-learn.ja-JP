@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Recency] および [!UICONTROL Frequency] を使用して、特定の期間内に訪問者が特性の対象となる必要がある回数のセグメントパラメーターを指定します。 コンテンツの親和性やフリークエンシーキャップのユースケースなどに最適です。
 
->[!VIDEO](https://video.tv.adobe.com/v/327065/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/37698/?quality=12&learn=on)

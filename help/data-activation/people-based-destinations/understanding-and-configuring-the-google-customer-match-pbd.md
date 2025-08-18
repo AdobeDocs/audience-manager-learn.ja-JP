@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、Google カスタマーマッチの人物ベースの宛先の詳細とユースケースについて説明し、セグメントを作成して宛先にマッピングする手順を含みます。 また、Google Ad Console にランディングするオーディエンスも示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326463/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

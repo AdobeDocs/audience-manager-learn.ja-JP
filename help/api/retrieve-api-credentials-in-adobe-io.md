@@ -22,4 +22,4 @@ ht-degree: 0%
 
 REST API を使用するための資格情報をAdobe Consultingまたはカスタマーケアに問い合わせる代わりに、ブラウザーでdeveloper.adobe.comにアクセスして、独自の資格情報を取得または登録するだけです。
 
->[!VIDEO](https://video.tv.adobe.com/v/326844/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

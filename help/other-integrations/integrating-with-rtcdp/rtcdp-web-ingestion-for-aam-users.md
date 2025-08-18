@@ -1,6 +1,6 @@
 ---
-title: Audience Managerユーザー向けの Real-time CDP における Web データ取得について
-description: このビデオでは、Audience Managerユーザーに対して、Real-time Customer Data Platform（Real-time CDP）への web サイトデータの取り込みに関する概念を示し、Audience Managerデータコネクタに適した領域に関する概要と、Web SDK を介して web サイトからリアルタイム CDP にデータを直接移動する方法について説明します。
+title: Audience Manager ユーザー向けの Real-time CDP における Web データ取得について
+description: このビデオでは、Audience Manager ユーザーに対して、Real-time Customer Data Platform （Real-time CDP）への Web サイトデータの取り込みに関する概念を示し、Audience Manager コネクタに適した領域に関する概要と、Web SDKを介して Web サイトから Real-time CDP にデータを直接移動する方法について説明します。
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,16 +16,16 @@ ht-degree: 1%
 
 ---
 
-# Audience Managerユーザー向けの Real-time CDP における Web データ取得について
+# Audience Manager ユーザー向けの Real-time CDP における Web データ取得について
 
-このビデオでは、Audience Managerユーザーに対して、Real-time Customer Data Platform（Real-time CDP）への web サイトデータの取り込みに関する概念を示し、Audience Managerデータコネクタに適した領域に関する概要と、Web SDK を介して web サイトからリアルタイム CDP にデータを直接移動する方法について説明します。
+このビデオでは、Audience Manager ユーザーに対して、Real-time Customer Data Platform （Real-time CDP）への Web サイトデータの取り込みに関する概念を示し、Audience Manager コネクタに適した領域に関する概要と、Web SDKを介して Web サイトから Real-time CDP にデータを直接移動する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346980/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
 ## その他のリソース
 
-以下は、Real-time Customer Data Platformの学習に役立つ既存のビデオとチュートリアルです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
+以下は、Real-time Customer Data Platform の学習に役立つ既存のビデオとチュートリアルです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
 
-* [Adobe Audience Manager コネクタを使用したデータの取り込み ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ja#sources)
-* [Adobe Experience Platform Web SDK Tutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=ja)
-* [ スキーマエディターを使用したスキーマの作成 ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja#getting-started)
+* [Adobe Audience Manager コネクタを使用したデータの取り込み ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [Adobe Experience Platform Web SDK チュートリアル ](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
+* [ スキーマエディターを使用したスキーマの作成 ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

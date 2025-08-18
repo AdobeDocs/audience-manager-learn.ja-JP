@@ -1,6 +1,6 @@
 ---
 title: パートナー ID またはサブドメインの識別方法
-description: 一部のExperience Cloud機能を実装する際にパートナー ID またはサブドメインを特定する方法と、Audience ManagerUI でこの ID を取得できる場所について説明します。
+description: 一部のExperience Cloud機能を実装する際にパートナー ID またはサブドメインを特定する方法と、Audience Manager UI でこの ID を取得できる場所について説明します。
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Audience Managerサブドメインの識別方法 {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
+# Audience Manager サブドメインの識別方法 {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-一部のExperience Cloud機能を実装する場合は、Audience Manager`Subdomain` ードが何であるかを知る必要があります（`client ID` または `Partner ID` とも呼ばれます）。 このビデオでは、Audience ManagerUI でこの情報を取得できる 2 つの場所を説明します。
+一部のExperience Cloud機能を実装する場合は、Audience Managerの `Subdomain` が何であるかを知る必要があります（`client ID` または `Partner ID` とも呼ばれます）。 このビデオでは、Audience Manager UI でこの情報を取得できる 2 つの場所を説明します。
 
 ## 結末を捨てて… {#giving-away-the-ending}
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 これらのクイックリファレンスですばやく見つからない場合、このビデオは短時間のコミットメントです。 :）
 
->[!VIDEO](https://video.tv.adobe.com/v/40889/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
 
 >[!IMPORTANT]
 >
