@@ -22,6 +22,6 @@ ht-degree: 1%
 
 このビデオでは、Audience Managerの 4 つの一般的なユースケースを特定し、それらに関連するベストプラクティスについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37271/?quality=12&captions=jpn)
 
 詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) を参照してください。

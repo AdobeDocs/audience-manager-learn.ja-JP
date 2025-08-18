@@ -20,7 +20,7 @@ ht-degree: 1%
 
 このビデオは、Real-time Customer Data Platform （Real-time CDP）に移行するAudience Manager ユーザーを対象としており、特性を構築するためにAudience Managerで使用するシグナル（キーと値のペア）が Platform でどのように使用されるかを説明しています。
 
->[!VIDEO](https://video.tv.adobe.com/v/332092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410880/?quality=12&learn=on&captions=jpn)
 
 ## その他のリソース
 

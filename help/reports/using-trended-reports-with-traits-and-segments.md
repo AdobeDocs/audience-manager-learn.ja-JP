@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Managerのトレンドレポートを使用して、特性とセグメントのパフォーマンスを経時的に確認する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341014/?quality=12&learn=on&captions=jpn)

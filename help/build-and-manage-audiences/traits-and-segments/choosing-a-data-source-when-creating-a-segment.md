@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Managerで新しいセグメントを作成する際の適切なデータソースの選択に関するヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327398/?quality=12&learn=on&captions=jpn)

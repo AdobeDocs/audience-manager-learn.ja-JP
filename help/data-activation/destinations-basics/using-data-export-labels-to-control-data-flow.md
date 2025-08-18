@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Managerには、プライバシー要件を満たすように、様々なデータタイプやソースのフローを制御するメカニズムが [!UICONTROL Data Export Labels] 意されています。 この目的のために並行して作業するために、[!UICONTROL Data Export Controls] と [!UICONTROL Data Export Labels] を設定する方法と場所を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345096/?quality=12&learn=on&captions=jpn)

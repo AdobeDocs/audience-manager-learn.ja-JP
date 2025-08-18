@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rule] 拡張機能のリリースに最適な準備方法の概要です。
 
->[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32583/?quality=12&captions=jpn)

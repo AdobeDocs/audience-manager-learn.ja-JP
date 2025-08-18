@@ -22,4 +22,4 @@ ht-degree: 0%
 
 特性情報画面で特性について報告されている数値を理解するためのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340524/?quality=12&learn=on&captions=jpn)

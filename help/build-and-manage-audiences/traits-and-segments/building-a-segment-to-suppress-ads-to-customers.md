@@ -22,4 +22,4 @@ ht-degree: 0%
 
 マーケティングキャンペーン、特に拡張/オーディエンス拡張キャンペーンを作成する場合は、現在の顧客を除外して、別の方法でマーケティングできるようにすることができます。 このビデオでは、既に顧客ステータスに変換したユーザーを除外するセグメントを作成するためのオプションについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41313/?quality=12&learn=on&captions=jpn)

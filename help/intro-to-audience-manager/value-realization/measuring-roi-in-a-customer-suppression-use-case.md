@@ -22,4 +22,4 @@ ht-degree: 0%
 
 1 ペニーの節約は 1 ペニーの稼ぎだろ？ いくつかの数式を使用して、既存の顧客への広告を抑制することでキャンペーンのコスト削減を判断する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41299/?quality=12&learn=on&captions=jpn)

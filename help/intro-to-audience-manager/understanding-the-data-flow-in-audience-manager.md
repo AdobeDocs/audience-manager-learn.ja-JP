@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、アプリケーションへのデータフロー、アプリケーションを通過するデータフロー、アプリケーションから出るデータフローを説明することで、Adobe Audience Managerについて理解できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37111/?quality=12&captions=jpn)

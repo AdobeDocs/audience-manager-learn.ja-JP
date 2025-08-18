@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Audience Optimization レポートを使用してキャンペーンを改善する方法、マーケティング費用を投資する場所と投資を停止する場所を理解する方法について説明します。 また、最適なフリークエンシーキャップを決定する方法や、他の Gem を見つける方法についても、これらのレポートで説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345090/?quality=12&learn=on&captions=jpn)
 
 詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html?lang=ja#reporting) を参照してください。

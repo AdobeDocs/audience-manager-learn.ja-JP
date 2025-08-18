@@ -22,4 +22,4 @@ ht-degree: 0%
 
 セグメント情報画面のグラフに表示される数値について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326852/?quality=12&learn=on&captions=jpn)

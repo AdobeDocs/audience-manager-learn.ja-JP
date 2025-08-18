@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rules] を使用してユーザーのすべてのデバイスにリーチを拡張することで、デバイスではなく人物に対してマーケティングを行えるようにします。
 
->[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40024/?quality=12&learn=on&captions=jpn)

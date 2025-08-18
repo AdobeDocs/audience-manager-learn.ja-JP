@@ -22,4 +22,4 @@ ht-degree: 0%
 
 新しい特性を作成する場合や、既存の特性を編集する場合にコードビューを使用する方法について説明します。 特性式を設定する場合、コードビューは式ビルダーの代わりに使用できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330139/?quality=12&learn=on&captions=jpn)

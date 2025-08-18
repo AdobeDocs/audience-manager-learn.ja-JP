@@ -19,7 +19,7 @@ ht-degree: 0%
 
 このビデオでは、[!UICONTROL Audience Lab] テストの作成について順を追って説明します。これにより、DSP やその他のAAMの宛先に A/B テストを実施して、広告費用対効果を最も高める広告の種類を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328258/?quality=12&captions=jpn)
 
 [!UICONTROL Audience Lab] テストの作成は簡単で、上記のビデオで示されているように、数分で行うことができます。 インターフェイスの手順を実行しながら、次の設定を行います。
 

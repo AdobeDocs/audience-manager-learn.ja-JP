@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Audience Managerから Real-time Customer Data Platform （Real-time CDP）に移行する際には、いくつかの新しいコンセプトとプラクティスに出会います。 スキーマと XDM はこのカテゴリに分類されます。 このビデオでは、これらの概念について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410356/?quality=12&learn=on&captions=jpn)
 
 ## その他のリソース
 
