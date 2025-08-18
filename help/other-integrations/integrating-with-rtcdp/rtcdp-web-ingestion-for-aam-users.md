@@ -26,6 +26,6 @@ ht-degree: 1%
 
 以下は、Real-time Customer Data Platform の学習に役立つ既存のビデオとチュートリアルです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
 
-* [Adobe Audience Manager コネクタを使用したデータの取り込み ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Adobe Experience Platform Web SDK チュートリアル ](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [ スキーマエディターを使用したスキーマの作成 ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Adobe Audience Manager コネクタを使用したデータの取り込み ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ja#sources)
+* [Adobe Experience Platform Web SDK チュートリアル ](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=ja)
+* [ スキーマエディターを使用したスキーマの作成 ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja#getting-started)

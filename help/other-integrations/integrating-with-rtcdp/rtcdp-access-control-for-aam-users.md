@@ -26,5 +26,5 @@ Audience Managerから Real-time Customer Data Platform に移行する際には
 
 Real-time Customer Data Platform の学習に役立つ既存のリソースを以下に示します。
 
-* [ アクセス制御の概要 ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en#access-control-hierarchy-and-workflow)
-* [ 権限の設定 ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=en)
+* [ アクセス制御の概要 ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ja#access-control-hierarchy-and-workflow)
+* [ 権限の設定 ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/configure-permissions.html?lang=ja)

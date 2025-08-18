@@ -25,11 +25,11 @@ ht-degree: 4%
    + 価値の実現 {#value-realization}
       + [顧客抑制のユースケースでの ROI の測定](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 業界のニュースとトレンド {#industry}
-   + [ これからのデータ管理と環境変化 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [ 顧客データ管理の責任に関する 10 の考慮事項 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [ ブランドと消費者の 2 つの認識の物語 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [ オーディエンスのセンターオブエクセレンスの進化 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [ 顧客プロファイルを使用した、より優れたエクスペリエンスの構築 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [ これからのデータ管理と環境変化 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=ja)
+   + [ 顧客データ管理の責任に関する 10 の考慮事項 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=ja)
+   + [ ブランドと消費者の 2 つの認識の物語 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=ja)
+   + [ オーディエンスのセンターオブエクセレンスの進化 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=ja)
+   + [ 顧客プロファイルを使用した、より優れたエクスペリエンスの構築 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=ja)
 + 設定と管理 {#setup-and-admin}
    + データソース {#data-sources}
       + [Analytics データ用のデータソースの作成](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +46,7 @@ ht-degree: 4%
    + DIL（Data Integration Library） {#dil}
       + [DIL バージョン 8.0 （またはそれ以降）への更新](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF （サーバーサイド転送） {#ssf}
-      + [Experience Platform タグを使用して web サイトに実装する ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [Experience Platform タグを使用して web サイトに実装する ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ja)
       + [サイトのAAMの実装をクライアントサイドのDILからサーバーサイド転送に移行する](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [トラッキングサーバーからレポートスイートレベルのサーバーサイド転送への移行](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [タグマネージャーを使用したAudience Managerの実装](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -56,9 +56,9 @@ ht-degree: 4%
    + [ファイルベースのデータのフォーマットと取り込み](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [ファイルベースのデータを取り込む手順](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + モバイル実装 {#mobile-implementation}
-   + [iOS Swift アプリケーションへの実装 ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [iOS Objective-C アプリケーションへの実装 ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [Android アプリケーションへの実装 ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+   + [iOS Swift アプリケーションへの実装 ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=ja)
+   + [iOS Objective-C アプリケーションへの実装 ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=ja)
+   + [Android アプリケーションへの実装 ](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=ja)
 + Audience Marketplace {#audience-marketplace}
    + データの購入 {#buying-data}
       + [セグメントレベルでのAudience Marketplaceのセカンドパーティおよびサードパーティのデータ使用に関するレポート](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -150,7 +150,7 @@ ht-degree: 4%
    + [Audience Optimization レポートを使用したメディアパフォーマンスの把握](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + その他の統合 {#other-integrations}
    + Real-time Customer Data Platform との統合 {#integrating-with-rtcdp}
-      + [Adobe Audience Manager コネクタを使用したデータの取り込み ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Adobe Audience Manager コネクタを使用したデータの取り込み ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ja#sources)
       + [Real-time CDP でのファーストパーティデータ取り込みについて](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Real-time CDP での web データ取り込みについて](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [リアルタイム CDP のスキーマと XDM について](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
