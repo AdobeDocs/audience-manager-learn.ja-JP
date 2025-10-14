@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/346199/?quality=12&learn=on&captions=jpn)
 
-受信ファイルのデータ形式に関するビデオについては、[ こちら ](formatting-and-ingesting-file-based-data.md) をクリックしてください。
+受信ファイルのデータ形式に関するビデオについては、[&#x200B; こちら &#x200B;](formatting-and-ingesting-file-based-data.md) をクリックしてください。
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=ja) を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=ja) を参照してください。

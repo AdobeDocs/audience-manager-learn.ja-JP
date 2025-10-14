@@ -27,9 +27,9 @@ ht-degree: 0%
 
 以下は、Real-time Customer Data Platform の学習に役立つ既存のビデオとチュートリアルです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
 
-* [Adobe Audience Manager コネクタを使用したデータの取り込み ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ja#sources)
-* [ ストリーミングデータ取り込みの概要 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=ja#data-ingestion)
-* [ バッチデータ取り込みの概要 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=ja#data-ingestion)
-* [ スキーマエディターを使用したスキーマの作成 ](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja#getting-started)
-* [ データセットの作成 ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=ja#permissions-required)
-* [ セグメントの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ja#segments)
+* [Adobe Audience Manager コネクタを使用したデータの取り込み &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ja#sources)
+* [&#x200B; ストリーミングデータ取り込みの概要 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=ja#data-ingestion)
+* [&#x200B; バッチデータ取り込みの概要 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=ja#data-ingestion)
+* [&#x200B; スキーマエディターを使用したスキーマの作成 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja#getting-started)
+* [&#x200B; データセットの作成 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=ja#permissions-required)
+* [&#x200B; セグメントの作成 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ja#segments)

@@ -26,4 +26,4 @@ Audience Managerでの日常業務では、特定のキーと値のペアから�
 
 シグナルが特性に作成されたかどうかを確認するために、BAAAM ファイルと [!UICONTROL Unused Signals] レポートをダウンロードする必要がなくなりました。 これで、AAMの [!DNL Data Explorer] （別名 [!UICONTROL Signals] アプリ）でそのキーと値のペアを検索するだけで、特性に含まれるキーと値のペアと含まれないキーと値のペアを同じリストで見つけることができます。 時間の節約に最適。
 
-[!UICONTROL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ja)）を参照してください。
+[!UICONTROL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ja)）を参照してください。

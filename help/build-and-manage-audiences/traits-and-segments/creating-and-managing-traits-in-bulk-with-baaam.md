@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/344714/?quality=12&learn=on&captions=jpn)
 
-BAAAM ワークシートのダウンロードなど、詳細については、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=ja#reference) を参照してください。
+BAAAM ワークシートのダウンロードなど、詳細については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=ja#reference) を参照してください。
 
 >[!IMPORTANT]
 >

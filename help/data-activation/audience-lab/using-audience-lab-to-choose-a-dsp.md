@@ -32,4 +32,4 @@ ht-degree: 0%
 1. テストの概要を確認し、テストをアクティブ化します
 1. テストが完了したら、[!UICONTROL Audience Lab] のメインのホーム画面で結果にアクセスします
 
-詳しくは、[ 機能ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=ja) を参照してください。
+詳しくは、[&#x200B; 機能ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html?lang=ja) を参照してください。

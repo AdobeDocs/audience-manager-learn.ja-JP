@@ -24,4 +24,4 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37271/?quality=12&captions=jpn)
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) を参照してください。

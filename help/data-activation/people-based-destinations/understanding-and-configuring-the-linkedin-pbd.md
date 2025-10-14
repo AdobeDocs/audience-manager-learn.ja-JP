@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/38431/?quality=12&captions=jpn)
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja) を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja) を参照してください。
 
-また、People-Based Destinations に関する追加のビデオを見つけることもできます [ こちら ](https://adobe.ly/aamlearnpbd)。
+また、People-Based Destinations に関する追加のビデオを見つけることもできます [&#x200B; こちら &#x200B;](https://adobe.ly/aamlearnpbd)。

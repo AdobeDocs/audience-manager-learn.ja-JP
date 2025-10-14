@@ -26,5 +26,5 @@ ht-degree: 1%
 
 以下は、Real-time Customer Data Platform の学習に役立つ既存のビデオとリソースです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
 
-* [Audience Manager ユーザー向け Real-time CDP における特性について ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=ja#other-integrations)
-* [Audience Manager ユーザー向け Real-time CDP におけるセグメントについて ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=ja#other-integrations)
+* [Audience Manager ユーザー向け Real-time CDP における特性について &#x200B;](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=ja#other-integrations)
+* [Audience Manager ユーザー向け Real-time CDP におけるセグメントについて &#x200B;](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=ja#other-integrations)

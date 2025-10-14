@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Experience Platform タグ（以前の Launch）での SPA およびAAMの操作に関する簡単な図{#simple-diagram-of-working-with-spas-and-aam-in-experience-platform-launch}
 
-![ タグでの aam 用 spa](assets/spa_for_aam_in_launch.png)
+![&#x200B; タグでの aam 用 spa](assets/spa_for_aam_in_launch.png)
 
 >[!NOTE]
 >前述のように、これは Platform タグを使用したAdobe Audience Manager実装（Adobe Analyticsなし）で SPA ページがどのように処理されるかを簡単に示した図です。 ご覧のように、これは非常に簡単です。大きな決定は、ビューの変更（またはアクション）を Platform タグにどのように伝えるかです。
@@ -38,14 +38,14 @@ ht-degree: 0%
 
 Platform タグでルールをトリガーする（したがってAudience Managerにデータを送信する）最も一般的な方法は、次の 2 つです。
 
-* JavaScript カスタムイベントの設定（Adobe Analyticsを使用した例 [ こちら ](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) を参照）
+* JavaScript カスタムイベントの設定（Adobe Analyticsを使用した例 [&#x200B; こちら &#x200B;](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) を参照）
 * [!UICONTROL Direct Call Rule] の使用
 
 このAudience Managerの例では、Platform タグで [!UICONTROL Direct Call rule] を使用して、Audience Managerに送信されるヒットをトリガーします。 次の節で説明するように、[!UICONTROL Data Layer] を新しい値に設定すると、Platform タグの [!UICONTROL Data Element] で取得できるので便利です。
 
 ## デモページ {#demo-page}
 
-次に、SPA ページの場合と同様に、データレイヤーの値を変更してAudience Managerに送信する方法を示す小さなページを示します。 この機能をモデル化して、より詳細な変更が必要になるようにすることができます。 このデモページは [ こちら ](https://aam.enablementadobe.com/SPA-Launch.html) にあります。
+次に、SPA ページの場合と同様に、データレイヤーの値を変更してAudience Managerに送信する方法を示す小さなページを示します。 この機能をモデル化して、より詳細な変更が必要になるようにすることができます。 このデモページは [&#x200B; こちら &#x200B;](https://aam.enablementadobe.com/SPA-Launch.html) にあります。
 
 ## データレイヤーの設定 {#setting-the-data-layer}
 
@@ -60,7 +60,7 @@ Platform タグでルールをトリガーする（したがってAudience Manag
 
 ## その他のリソース {#additional-resources}
 
-* [Adobe フォーラムでの SPA ディスカッション ](https://forums.adobe.com/thread/2451022)
-* [Platform タグでの SPA の実装方法を示すリファレンスアーキテクチャのサイト ](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
-* [Adobe Analyticsでの SPA トラッキング時のベストプラクティスの使用 ](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
-* [ この記事で使用するデモサイト ](https://aam.enablementadobe.com/SPA-Launch.html)
+* [Adobe フォーラムでの SPA ディスカッション &#x200B;](https://forums.adobe.com/thread/2451022)
+* [Platform タグでの SPA の実装方法を示すリファレンスアーキテクチャのサイト &#x200B;](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [Adobe Analyticsでの SPA トラッキング時のベストプラクティスの使用 &#x200B;](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
+* [&#x200B; この記事で使用するデモサイト &#x200B;](https://aam.enablementadobe.com/SPA-Launch.html)

@@ -26,4 +26,4 @@ ht-degree: 0%
 
 [!UICONTROL Trait Recommendations] は、ファーストパーティデータとサードパーティデータの両方を扱うので、追加の推奨 [!UICONTROL Traits] ータを含めて、ターゲットオーディエンスを増やすことができます。
 
-この機能について詳しくは、[ ドキュメント ](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/trait-recommendations.html) を参照してください。
+この機能について詳しくは、[&#x200B; ドキュメント &#x200B;](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/trait-recommendations.html) を参照してください。

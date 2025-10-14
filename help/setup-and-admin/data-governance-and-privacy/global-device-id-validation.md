@@ -75,10 +75,10 @@ ht-degree: 1%
 アプリで広告主 ID を設定するには、実際には 2 つの手順があります。最初に広告主 ID を取得し、次にExperience Cloudに送信します。 これらの手順を実行するためのリンクを以下に示します。
 
 1. ID の取得
-   1. [!DNL Apple] に関する [!DNL advertising ID] しい情報は、[ こちら ](https://developer.apple.com/documentation/adsupport/asidentifiermanager) をご覧ください。
-   1. [!DNL advertiser ID] 開発者向けの [!DNL Android] の設定に関する情報は、[ こちら ](http://android.cn-mirrors.com/google/play-services/id.html) を参照してください。
+   1. [!DNL Apple] に関する [!DNL advertising ID] しい情報は、[&#x200B; こちら &#x200B;](https://developer.apple.com/documentation/adsupport/asidentifiermanager) をご覧ください。
+   1. [!DNL advertiser ID] 開発者向けの [!DNL Android] の設定に関する情報は、[&#x200B; こちら &#x200B;](http://android.cn-mirrors.com/google/play-services/id.html) を参照してください。
 1. SDKの [!DNL setAdvertisingIdentifier] メソッドを使用して、Experience Cloudに送信します
-   1. `setAdvertisingIdentifier` の使用に関する情報は、[ と ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) の両方について [!DNL iOS] ドキュメント [!DNL Android] に記載されています。
+   1. `setAdvertisingIdentifier` の使用に関する情報は、[&#x200B; と &#x200B;](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) の両方について [!DNL iOS] ドキュメント [!DNL Android] に記載されています。
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
@@ -87,16 +87,16 @@ ht-degree: 1%
 
 誤ったグローバルデバイス ID （IDFA、GAID など）がリアルタイムでAudience Managerに送信されると、ヒットでエラーコードが返されます。 次に示すエラーの例は、ID が [!DNL Apple IDFA] として送信され、大文字のみを含める必要があるが、ID に小文字「x」が含まれているためです。
 
-![ エラー画像 ](assets/image_4_.png)
+![&#x200B; エラー画像 &#x200B;](assets/image_4_.png)
 
-エラーコードのリストについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=ja#api-and-sdk-code) を参照してください。
+エラーコードのリストについては、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=ja#api-and-sdk-code) を参照してください。
 
 ## オンボーディンググローバルデバイス ID {#onboarding-global-device-ids}
 
-グローバルデバイス ID をリアルタイムで送信する以外に、ID に対してデータを「アップロー [!DNL onboard]」（アップロード）することもできます。 このプロセスは、顧客 ID に対してデータをオンボーディングする場合と同じです（通常はキーと値のペアを使用）。ただし、適切な Data Source ID を使用するだけで、データがグローバルデバイス ID に割り当てられます。 オンボーディングプロセスに関するドキュメントは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=ja#implementation-integration-guides) を参照してください。 使用しているプラットフォームに応じて、グローバルデータソース ID を使用することを忘れないでください。
+グローバルデバイス ID をリアルタイムで送信する以外に、ID に対してデータを「アップロー [!DNL onboard]」（アップロード）することもできます。 このプロセスは、顧客 ID に対してデータをオンボーディングする場合と同じです（通常はキーと値のペアを使用）。ただし、適切な Data Source ID を使用するだけで、データがグローバルデバイス ID に割り当てられます。 オンボーディングプロセスに関するドキュメントは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=ja#implementation-integration-guides) を参照してください。 使用しているプラットフォームに応じて、グローバルデータソース ID を使用することを忘れないでください。
 
 オンボーディングプロセスを通じて間違ったグローバルデバイス ID が送信された場合、[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=ja#reporting) にエラーが表示されます。
 
 このレポートを通じて発生するエラーの例を次に示します。
 
-![ エラー画像 ](assets/image_5_.png)
+![&#x200B; エラー画像 &#x200B;](assets/image_5_.png)

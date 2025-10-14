@@ -24,6 +24,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/346206/?quality=12&learn=on&captions=jpn)
 
-ファイルの命名と読み込みに関するビデオを参照するには、[ こちら ](steps-for-ingesting-file-based-data.md) をクリックしてください。
+ファイルの命名と読み込みに関するビデオを参照するには、[&#x200B; こちら &#x200B;](steps-for-ingesting-file-based-data.md) をクリックしてください。
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=ja&) を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=ja&) を参照してください。
