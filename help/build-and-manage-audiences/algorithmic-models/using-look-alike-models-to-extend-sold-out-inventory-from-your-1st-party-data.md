@@ -62,6 +62,6 @@ ht-degree: 0%
 
 ## 広告主に [!UICONTROL Algorithmic Segment] を提供する {#offering-the-algorithmic-segment-to-advertisers}
 
-[!UICONTROL Algorithmic Trait][!UICONTROL Algorithmic Trait] ータを作成したら、新しいセグメントを作成して配置し、データをアクティブ化できます（特性をアクティブ化することはできませんが、特性を含んだ新しい単一特性セグメントを作成することで、セグメントをアクティブ化（使用）できます）。
+[!UICONTROL Algorithmic Trait]&#x200B;[!UICONTROL Algorithmic Trait] ータを作成したら、新しいセグメントを作成して配置し、データをアクティブ化できます（特性をアクティブ化することはできませんが、特性を含んだ新しい単一特性セグメントを作成することで、セグメントをアクティブ化（使用）できます）。
 
 類似モデルで高いスコアを付けたファーストパーティ訪問者（つまり、コンバーターのように見えても、まだコンバージョンに至っていない訪問者）のセグメントを作成したら、サイト上の実際のコンバーターの在庫をすべて売り切った後でも、このセグメントをサイトの広告主に提供できます。 これは、Audience Managerの類似 [!UICONTROL Models] を使用して、オーディエンスを拡張し、さらに売上高を増やす優れた方法です。
