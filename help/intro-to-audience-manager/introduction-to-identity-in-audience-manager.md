@@ -24,4 +24,4 @@ ht-degree: 86%
 
 このビデオでは、Adobe Audience Manager が内部プロファイルやプロファイル結合、パートナーとの ID 同期などの ID 管理の仕組みについて学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/38398/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/34172/?quality=12)
