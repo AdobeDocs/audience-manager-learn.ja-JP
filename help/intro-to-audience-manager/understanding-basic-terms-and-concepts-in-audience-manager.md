@@ -24,4 +24,4 @@ ht-degree: 85%
 
 このビデオでは、シグナル、特性、セグメントなど、Audience Manager を使い始めるための基本的な用語と概念をいくつか紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33887/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37112/?captions=jpn&quality=12)
