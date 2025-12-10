@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25150.jpg
 kt: 2142
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 82507055-0072-48fe-8031-225fb55351be
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 このビデオでは、[!UICONTROL Data Explorer] でAdobe Analytics データを検出して使用する方法を説明します。これには、使用中および未使用の [!UICONTROL signals] ータの検索、[!DNL Analytics] 特性の作成、データの理解が含まれます。
 
->[!VIDEO](https://video.tv.adobe.com/v/330353/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
 Audience Managerに取り込まれる主なデータソースの 1 つが分析ソリューションである可能性が高いですが、もちろん、それがAdobe Analyticsであることを願っています。
 
 様々なレポートスイートから何が入 [!UICONTROL Data Explorer] てくるかを確認できる状態になっています。まだ特性で使用されていない [!DNL Analytics] シグナルを見つけたら、[!DNL Trait Builder] に直接クリックして特性を作成し、この強力な行動データをセグメント化に活用します。
 
-[!DNL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ja) を参照してください。
+[!DNL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en) を参照してください。

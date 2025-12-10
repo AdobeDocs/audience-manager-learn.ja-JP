@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: a9d9f3eb-13bb-41b9-9ee7-6b28fb25e2d3
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、People-based Destinations で使用する [!UICONTROL Data Source] をAudience Managerで作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/32577/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

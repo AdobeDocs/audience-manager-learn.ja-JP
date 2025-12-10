@@ -7,10 +7,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1841
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: 8c1e6ed5-0f21-427b-a681-0ecb020a0e60
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '1074'
 ht-degree: 1%
@@ -23,9 +23,9 @@ ht-degree: 1%
 
 ## 概要 {#overview}
 
-Audience Manager [!DNL Data Integration Library] （DIL）コードを使用すると、web サイトにAAMを実装できます*。 以前のバージョンのDILを実装する場合、AdobeのExperience Cloud ID サービス（ECID）も実装する必要はありませんでした（ただし、非常に良いアイデアでした）。 DIL バージョン 8.0 以降、ECID バージョン 3.3 以降には強い依存関係があります。 ECID 3.3 を使用せずに、または以前のバージョンでDIL 8.0 以降を実装した場合、エラーが発生し、機能しません。 AAMを実装する方法は複数あるので、このページを作成して、いくつかの手順と推奨事項を説明しました。 以下に、これらの手順と推奨事項をプラットフォーム/実装方法別に示します。 DILについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=ja) を参照してください。
+Audience Manager [!DNL Data Integration Library] （DIL）コードを使用すると、web サイトにAAMを実装できます*。 以前のバージョンのDILを実装する場合、AdobeのExperience Cloud ID サービス（ECID）も実装する必要はありませんでした（ただし、非常に良いアイデアでした）。 DIL バージョン 8.0 以降、ECID バージョン 3.3 以降には強い依存関係があります。 ECID 3.3 を使用せずに、または以前のバージョンでDIL 8.0 以降を実装した場合、エラーが発生し、機能しません。 AAMを実装する方法は複数あるので、このページを作成して、いくつかの手順と推奨事項を説明しました。 以下に、これらの手順と推奨事項をプラットフォーム/実装方法別に示します。 DILについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=en) を参照してください。
 
-* このページの説明に記載されているように、ここでは、Adobe Analyticsを持たないAAMのお客様が使用する「クライアントサイド」のDIL実装についてのみ説明します。 Adobe Analyticsがある場合は、AAMを実装するサーバーサイド転送方式を使用する必要があります。 このメソッドについては、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ja) を参照してください。
+* このページの説明に記載されているように、ここでは、Adobe Analyticsを持たないAAMのお客様が使用する「クライアントサイド」のDIL実装についてのみ説明します。 Adobe Analyticsがある場合は、AAMを実装するサーバーサイド転送方式を使用する必要があります。 このメソッドについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ja) を参照してください。
 
 ## 重複する非推奨（廃止予定）の要素とメソッド {#duplicate-and-deprecated-elements-and-methods}
 
@@ -33,8 +33,8 @@ Audience Manager [!DNL Data Integration Library] （DIL）コードを使用す�
 
 例：
 
-* [!DNL DIL.create] を使用する場合、いくつかの要素は非推奨となっており、代わりに ECID 要素を使用する必要があります。 これらの要素は、[[!DNL DIL.create]  ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=ja) で呼び出されます。
-* [!DNL idSync] インスタンスレベルのメソッドも非推奨（廃止予定）となり、メソッドの [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html?lang=ja) で呼び出されています。
+* [!DNL DIL.create] を使用する場合、いくつかの要素は非推奨となっており、代わりに ECID 要素を使用する必要があります。 これらの要素は、[[!DNL DIL.create]  ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html) で呼び出されます。
+* [!DNL idSync] インスタンスレベルのメソッドも非推奨（廃止予定）となり、メソッドの [ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-instance-methods.html) で呼び出されています。
 
 ## 顧客 ID との ID 同期 {#id-syncing-with-a-customer-id}
 
@@ -43,11 +43,11 @@ AAMでは、マシン上の UUID （匿名の一意のユーザー ID）を顧�
 * [!DNL idSync] インスタンスレベルのメソッド
 * [!DNL declaredId] の [!DNL DIL.create] 要素
 
-これらの古い方法のいずれかを使用して顧客 ID と同期している場合は、ECID サービスの一部である [!DNL setCustomerIDs] メソッドを使用して、に更新することを強くお勧めします。 [!DNL setCustomerIDs] について詳しくは、メソッドの [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=ja) を参照してください。
+これらの古い方法のいずれかを使用して顧客 ID と同期している場合は、ECID サービスの一部である [!DNL setCustomerIDs] メソッドを使用して、に更新することを強くお勧めします。 [!DNL setCustomerIDs] について詳しくは、メソッドの [ ドキュメント ](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=ja) を参照してください。
 
 **クイックヒント：** 上記のいずれかの方法を以前に使用した際には、[!UICONTROL Data Source] ID （別名「DPID」）を持つAAM [!UICONTROL Data Source] を参照していました。 [!DNL setCustomerIDs] に更新する場合は、代わりにAAM [!UICONTROL Data Source] の「[!UICONTROL Integration Code]」を使用する必要があります。 同じ [!UICONTROL Data Source] を指していますが、単に別の識別子です。 これを以下のビデオで示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34029/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23873/?quality=12)
 
 次の節では、実装方法に基づいてDIL 8.0 にアップデートする際の手順と推奨事項を説明します。
 
@@ -67,7 +67,7 @@ DIL 8.0 への更新の基本手順
 
 1. 変更内容を公開します。
 
->[!VIDEO](https://video.tv.adobe.com/v/34036/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/23874/?quality=12)
 
 ## Adobe DTM のDIL 8.0 への更新 {#updating-to-dil-in-adobe-dtm}
 
@@ -84,7 +84,7 @@ DIL 8.0 への更新の基本手順
 Adobe以外のタグマネージャーについても同じことが言えます。 そのタグ管理ソリューションに古いバージョンがある場合は、次の手順に従って、そのバージョンを新しいコードに置き換えます。
 
 1. DIL ライブラリを最新バージョン（8.0 以降）に更新 – 現在、公開されている場所では利用できないので、最新のDIL コードをAdobe ConsultingまたはAdobe カスタマーケアから取得する必要があります。 その後、古いDIL ライブラリコードを新しいDIL ライブラリコードに置き換え、次の手順に進みます（今すぐ停止しないでください。そうしないと、問題が発生します）。
-1. [!DNL ECID Service] をインストールするか、既存のバージョンを 3.3.0 以降に更新します。 最新のExperience Cloud ID サービスリリースを [GitHub ページから &#x200B;](https://github.com/Adobe-Marketing-Cloud/id-service/releases) ダウンロードできます。 これに関するヘルプが必要な場合は、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja) を参照するか、Adobe コンサルタントにお問い合わせください。
+1. [!DNL ECID Service] をインストールするか、既存のバージョンを 3.3.0 以降に更新します。 最新のExperience Cloud ID サービスリリースを [GitHub ページから ](https://github.com/Adobe-Marketing-Cloud/id-service/releases) ダウンロードできます。 これに関するヘルプが必要な場合は、[ ドキュメント ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja) を参照するか、Adobe コンサルタントにお問い合わせください。
 
 1. DILのカスタムコードにある非推奨のメソッドや要素が、ECID メソッドに移動されることを確認します。
 
@@ -98,7 +98,7 @@ Adobe以外のタグマネージャーについても同じことが言えます
 
    1. （DIL） `iframeAkamaiHTTPS` -> （ECID） `idSyncSSLUseAkamai`
 
-      [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html?lang=ja)
+      [ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/class-level-dil-methods/dil-create.html)
 
    1. （DIL） `declaredId` -> （ECID） `setCustomerIDs`
 
