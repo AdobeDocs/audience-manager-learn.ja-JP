@@ -56,7 +56,7 @@ Platform タグでルールをトリガーする（したがってAudience Manag
 * データレイヤーが、Platform タグを呼び出す前の、ページの先頭にあります
 * シミュレートされた SPA リンクのJavaScriptが [!UICONTROL Data Layer] を変更してから、Platform タグを呼び出します（`_satellite.track()` 呼び出し）。 この [!UICONTROL Direct Call Rule] の代わりにJavaScript カスタムイベントを使用した場合、レッスンは同じです。 最初に [!DNL data layer] を変更し、次に Platform タグを呼び出します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38109/?captions=jpn&quality=12)
 
 ## その他のリソース {#additional-resources}
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 [!UICONTROL Signals Dashboard] の [!DNL Data Explorer] で組み込みテーブルとカスタムテーブルを使用すると、Audience Managerに取り込まれる最新のデータをすばやく確認したり、必要に応じてクリックスルーして特性を作成したりできます。 より効率的な新しいワークフローへようこそ。
 
->[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327523/?captions=jpn&quality=12)
 
 [!UICONTROL Data Explorer] アプリとも呼ばれる [!UICONTROL Signals] にクリックスルーすると、上位のシグナルと新しいシグナルのデフォルトのダッシュボードが表示されます。 これら 2 つのデフォルトに加え、検索を保存してダッシュボードに追加できるので、最も重要なデータを機能の前面ページですばやく表示できます。
 

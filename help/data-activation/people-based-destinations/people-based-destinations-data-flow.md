@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、人物ベースの宛先の概要と、プロセスを通じたデータフローを示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32586/?captions=jpn&quality=12)

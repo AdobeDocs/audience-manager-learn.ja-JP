@@ -22,4 +22,4 @@ ht-degree: 0%
 
 このビデオでは、People-based Destinations で使用する [!UICONTROL Data Source] をAudience Managerで作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32577/?captions=jpn&quality=12)

@@ -21,4 +21,4 @@ ht-degree: 0%
 
 このビデオでは、People ベースの宛先に使用するセグメントをAudience Managerで作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31653/?captions=jpn&quality=12)

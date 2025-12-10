@@ -31,7 +31,7 @@ ht-degree: 0%
 
 これらのクイックリファレンスですばやく見つからない場合、このビデオは短時間のコミットメントです。 :）
 
->[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40889/?captions=jpn&quality=12)
 
 >[!IMPORTANT]
 >

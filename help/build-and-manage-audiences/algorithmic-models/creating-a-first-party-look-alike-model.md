@@ -22,7 +22,7 @@ ht-degree: 0%
 
 このビデオでは、ファーストパーティの類似モデルを作成して、コンバーターのように見える独自の訪問者をより多く見つける方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328275/?captions=jpn&quality=12)
 
 このユースケースには、次が含まれます。
 

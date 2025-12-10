@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Audience Managerで特性にAdobe Analytics データを使用する予定がある場合に役立つヒントとテクニックについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326780/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330123/?captions=jpn&quality=12&learn=on)

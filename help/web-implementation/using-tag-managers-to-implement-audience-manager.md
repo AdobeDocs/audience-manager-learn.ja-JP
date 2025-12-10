@@ -28,4 +28,4 @@ ht-degree: 0%
 * Adobe Analyticsを使用する場合は、Adobe以外のタグマネージャーを介してを実装する
 * Adobe Analyticsを使用していない場合に、Adobe以外のタグマネージャーを使用してを実装する
 
->[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35086/?captions=jpn&quality=12)

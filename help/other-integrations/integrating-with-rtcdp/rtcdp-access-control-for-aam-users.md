@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Audience Managerから Real-time Customer Data Platform に移行する際には、ユーザー権限とグループ権限が設定されている場所を知る必要があります。 このビデオでは、Adobe Admin Consoleでアクセス制御がどのように使用できるようになるかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410906/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

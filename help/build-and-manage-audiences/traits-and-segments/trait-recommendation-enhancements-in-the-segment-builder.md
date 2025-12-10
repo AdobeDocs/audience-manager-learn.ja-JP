@@ -21,6 +21,6 @@ ht-degree: 0%
 
 このビデオでは、更新された特性レコメンデーション（[!UICONTROL Segments] のレコメンデーション）の使用方法を [!UICONTROL Audience Marketplace] で説明します。 これにより、サードパーティデータにinsightが追加され、セグメントのリーチを拡大できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34100/?captions=jpn&quality=12)
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=ja) を参照してください。

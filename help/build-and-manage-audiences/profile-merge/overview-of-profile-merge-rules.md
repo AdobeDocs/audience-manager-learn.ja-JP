@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rules] の概要、仕組み、マーケターへの価値を理解します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32571/?captions=jpn&quality=12)

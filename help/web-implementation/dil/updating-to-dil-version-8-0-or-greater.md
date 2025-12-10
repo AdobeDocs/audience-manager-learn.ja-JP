@@ -47,7 +47,7 @@ AAMでは、マシン上の UUID （匿名の一意のユーザー ID）を顧�
 
 **クイックヒント：** 上記のいずれかの方法を以前に使用した際には、[!UICONTROL Data Source] ID （別名「DPID」）を持つAAM [!UICONTROL Data Source] を参照していました。 [!DNL setCustomerIDs] に更新する場合は、代わりにAAM [!UICONTROL Data Source] の「[!UICONTROL Integration Code]」を使用する必要があります。 同じ [!UICONTROL Data Source] を指していますが、単に別の識別子です。 これを以下のビデオで示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23873/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34029/?captions=jpn&quality=12)
 
 次の節では、実装方法に基づいてDIL 8.0 にアップデートする際の手順と推奨事項を説明します。
 
@@ -67,7 +67,7 @@ DIL 8.0 への更新の基本手順
 
 1. 変更内容を公開します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23874/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34036/?captions=jpn&quality=12)
 
 ## Adobe DTM のDIL 8.0 への更新 {#updating-to-dil-in-adobe-dtm}
 
