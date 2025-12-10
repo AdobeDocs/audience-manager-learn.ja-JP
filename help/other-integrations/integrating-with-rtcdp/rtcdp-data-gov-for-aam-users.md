@@ -26,7 +26,7 @@ ht-degree: 1%
 
 以下は、Real-time Customer Data Platform の学習に役立つ既存のビデオとチュートリアルです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
 
-* [ データガバナンスの概要 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
-* [ ガバナンスラベルを使用したデータの分類 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
-* [ データ使用ポリシーの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
-* [Real-time Customer Data Platform でのデータ使用ポリシーの適用 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)
+* [&#x200B; データガバナンスの概要 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/understanding-data-governance.html?lang=en#data-governance)
+* [&#x200B; ガバナンスラベルを使用したデータの分類 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-governance-labels.html?lang=en#data-governance)
+* [&#x200B; データ使用ポリシーの作成 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/create-data-usage-policies.html?lang=en#data-governance)
+* [Real-time Customer Data Platform でのデータ使用ポリシーの適用 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/enforce-data-usage-policies-in-real-time-cdp.html?lang=en#data-governance)

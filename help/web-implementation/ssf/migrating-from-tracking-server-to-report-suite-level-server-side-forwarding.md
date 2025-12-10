@@ -40,7 +40,7 @@ Adobe Audience ManagerとAdobe Analyticsがある場合は、[!DNL Analytics] �
 
 ## [!UICONTROL Report-suite] レベルのサーバーサイド転送 {#report-suite-level-server-side-forwarding}
 
-[!UICONTROL report suite] 転送から [!UICONTROL tracking server] 転送に移行する最大の利点の 1 つは、「Audience Analytics」を使用できるようになることです。これは、Audience Manager [!UICONTROL segments] をAdobe Analyticsに転送し、詳細なセグメント分析を行う機能です。 この優れた機能は、まだ [!UICONTROL tracking server] 転送中で [!UICONTROL report suite] 転送でない場合はサポートされません。 Audience Analyticsについて詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja) を参照してください。
+[!UICONTROL report suite] 転送から [!UICONTROL tracking server] 転送に移行する最大の利点の 1 つは、「Audience Analytics」を使用できるようになることです。これは、Audience Manager [!UICONTROL segments] をAdobe Analyticsに転送し、詳細なセグメント分析を行う機能です。 この優れた機能は、まだ [!UICONTROL tracking server] 転送中で [!UICONTROL report suite] 転送でない場合はサポートされません。 Audience Analyticsについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja) を参照してください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

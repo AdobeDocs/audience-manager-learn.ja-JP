@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**注意：** 上記のビデオでは、以下に示す例は、Adobe Analyticsを持っていることを前提としています。 明らかに、これは当てはまらない可能性があります。 Google Analytics（GA）がある場合、AAMにデータを送信するために使用できるモジュールがあります（[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html) を参照）。サイト上のコンバージョンアクティビティが GA によってAAMに送信される場合は、そこからコンバージョン特性を作成できます。 別の分析ソリューションがある（または分析ソリューションがない）場合でも、DIL コードや `submit` 関数などを介してAAMにデータを送信できます。 （[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)）を参照してください。 次に、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいて、コンバージョン特性を作成します。
+**注意：** 上記のビデオでは、以下に示す例は、Adobe Analyticsを持っていることを前提としています。 明らかに、これは当てはまらない可能性があります。 Google Analytics（GA）がある場合、AAMにデータを送信するために使用できるモジュールがあります（[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html) を参照）。サイト上のコンバージョンアクティビティが GA によってAAMに送信される場合は、そこからコンバージョン特性を作成できます。 別の分析ソリューションがある（または分析ソリューションがない）場合でも、DIL コードや `submit` 関数などを介してAAMにデータを送信できます。 （[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)）を参照してください。 次に、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいて、コンバージョン特性を作成します。
 
 ## ファーストパーティデータからの類似モデルの作成 {#creating-a-look-alike-model-from-first-party-data}
 
@@ -62,6 +62,6 @@ ht-degree: 0%
 
 ## 広告主に [!UICONTROL Algorithmic Segment] を提供する {#offering-the-algorithmic-segment-to-advertisers}
 
-[!UICONTROL Algorithmic Trait][!UICONTROL Algorithmic Trait] ータを作成したら、新しいセグメントを作成して配置し、データをアクティブ化できます（特性をアクティブ化することはできませんが、特性を含んだ新しい単一特性セグメントを作成することで、セグメントをアクティブ化（使用）できます）。
+[!UICONTROL Algorithmic Trait]&#x200B;[!UICONTROL Algorithmic Trait] ータを作成したら、新しいセグメントを作成して配置し、データをアクティブ化できます（特性をアクティブ化することはできませんが、特性を含んだ新しい単一特性セグメントを作成することで、セグメントをアクティブ化（使用）できます）。
 
 類似モデルで高いスコアを付けたファーストパーティ訪問者（つまり、コンバーターのように見えても、まだコンバージョンに至っていない訪問者）のセグメントを作成したら、サイト上の実際のコンバーターの在庫をすべて売り切った後でも、このセグメントをサイトの広告主に提供できます。 これは、Audience Managerの類似 [!UICONTROL Models] を使用して、オーディエンスを拡張し、さらに売上高を増やす優れた方法です。

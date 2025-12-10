@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Audience Manager チュートリアル
 
-Audience Manager チュートリアルサイトへようこそ。 これらのチュートリアルを [ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) と併用すると、Adobeのクラス最高の [!DNL data management platform] を使用して、Adobe Audience Managerを使用して任意のチャネルやデバイスでオーディエンスを作成し、アクティブ化する方法をより深く理解できます。
+Audience Manager チュートリアルサイトへようこそ。 これらのチュートリアルを [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja) と併用すると、Adobeのクラス最高の [!DNL data management platform] を使用して、Adobe Audience Managerを使用して任意のチャネルやデバイスでオーディエンスを作成し、アクティブ化する方法をより深く理解できます。
 
 * お気に入りのコンテンツの一部を紹介する **スタッフのおすすめ**
 * **左側のナビゲーション** でトピックおよびサブトピック別にコンテンツを探索
