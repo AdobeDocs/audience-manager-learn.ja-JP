@@ -38,11 +38,11 @@ Audience Manager チュートリアルサイトへようこそ。 これらの�
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ja">
       <img alt="「Web SDKを使用してAdobe Experience Cloudを実装する」チュートリアルのサムネール画像" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ja">
     <strong>Web SDKを使用したAdobe Experience Cloudの実装のチュートリアル </strong>
     </a>
     </div>
@@ -51,11 +51,11 @@ Audience Manager チュートリアルサイトへようこそ。 これらの�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=ja">
       <img alt="「リアルタイム CDP におけるセグメントについて」チュートリアルのサムネール画像" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=ja">
     <strong>Audience Manager ユーザー向け Real-time CDP におけるセグメントについて </strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ Audience Manager チュートリアルサイトへようこそ。 これらの�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=ja">
       <img alt="「Audience Managerでの Predictive Audiences の設定とレポート」チュートリアルのサムネール画像" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=ja">
     <strong>Audience Managerでの Predictive Audiences の設定とレポート </strong>
     </a>
     </div>

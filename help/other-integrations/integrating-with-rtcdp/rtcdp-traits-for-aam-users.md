@@ -26,6 +26,6 @@ Audience Managerから Real-time Customer Data Platform に移行する際には
 
 以下は、Real-time Customer Data Platform の学習に役立つ既存のビデオとチュートリアルです。 Platform の詳細については、これらに関する他のビデオやチュートリアルをご覧ください。
 
-* [&#x200B; スキーマエディターを使用したスキーマの作成 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [&#x200B; データセットの作成とデータの取り込 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=en#data-ingestion)
-* [&#x200B; セグメントの作成 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [&#x200B; スキーマエディターを使用したスキーマの作成 &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja#getting-started)
+* [&#x200B; データセットの作成とデータの取り込 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=ja#data-ingestion)
+* [&#x200B; セグメントの作成 &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ja#segments)

@@ -23,4 +23,4 @@ Audience Managerの UI にはセルフサービス機能が備わっており、
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-この機能について詳しくは、[&#x200B; ドキュメント &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html) を参照してください。
+この機能について詳しくは、[&#x200B; ドキュメント &#x200B;](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/ip-obfuscation.html) を参照してください。

@@ -25,6 +25,6 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
 このバルクアップロードツールを使用すると、データ使用のレポートを簡素化して時間を節約できるだけでなく、セカンドパーティまたはサードパーティのデータを購入するお客様 [!UICONTROL Audience Marketplace]、コスト属性ポリシーを改善できるというメリットがあります。 この新しいポリシーは、ルールベースのセグメントにおける特性の一意のユーザー数に基づいて、データプロバイダーに対するコストを関連付け、その結果、より透明性が高く、公平な使用料の請求につながります。
-請求アルゴリズムについて詳しくは、製品ドキュメントの [CPM データフィードのコスト属性 &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) を参照してください。
+請求アルゴリズムについて詳しくは、製品ドキュメントの [CPM データフィードのコスト属性 &#x200B;](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/marketplace_cpm_billing.html) を参照してください。
 
-CPMの使用状況のレポートについて詳しくは、製品ドキュメント [CPMの使用状況をレポートする方法 &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) を参照してください。
+CPMの使用状況のレポートについて詳しくは、製品ドキュメント [CPMの使用状況をレポートする方法 &#x200B;](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/t_marketplace_report_cpm_usage.html) を参照してください。

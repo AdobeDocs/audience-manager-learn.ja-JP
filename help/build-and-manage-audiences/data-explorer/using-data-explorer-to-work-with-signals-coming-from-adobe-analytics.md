@@ -28,4 +28,4 @@ Audience Managerに取り込まれる主なデータソースの 1 つが分析�
 
 様々なレポートスイートから何が入 [!UICONTROL Data Explorer] てくるかを確認できる状態になっています。まだ特性で使用されていない [!DNL Analytics] シグナルを見つけたら、[!DNL Trait Builder] に直接クリックして特性を作成し、この強力な行動データをセグメント化に活用します。
 
-[!DNL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en) を参照してください。
+[!DNL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ja) を参照してください。
