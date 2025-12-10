@@ -19,4 +19,4 @@ ht-degree: 0%
 
 オーディエンス ID レポートを使用すると、顧客は、ID の個人/世帯の定義ごとに、特性やセグメントの総母集団についてレポートできます。 このビデオでは、Audience Manager レポートでどのように表示されるかについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34081/?captions=jpn&quality=12)
