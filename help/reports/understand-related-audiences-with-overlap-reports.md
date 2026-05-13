@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting)を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=ja#reporting)を参照してください。

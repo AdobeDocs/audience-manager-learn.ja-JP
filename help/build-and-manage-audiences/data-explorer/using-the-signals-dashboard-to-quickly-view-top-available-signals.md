@@ -36,4 +36,4 @@ ht-degree: 0%
 
 [!UICONTROL Signals] アプリである[!UICONTROL Data Explorer]をクリックすると、上位シグナルのデフォルトダッシュボードと新しいシグナルが表示されます。 これら2つのデフォルトに加えて、検索を保存してダッシュボードに追加することができるため、機能のフロントページで最も重要なデータをすばやく確認できます。
 
-[!UICONTROL Data Explorer]について詳しくは、[Data Explorer – 概要、利点、ユースケース &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)）を参照してください。
+[!UICONTROL Data Explorer]について詳しくは、[Data Explorer – 概要、利点、ユースケース &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ja)）を参照してください。

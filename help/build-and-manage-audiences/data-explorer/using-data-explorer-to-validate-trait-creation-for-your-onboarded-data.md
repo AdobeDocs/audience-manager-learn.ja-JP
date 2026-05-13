@@ -36,4 +36,4 @@ Audience Manager の最も強力な機能の 1 つは、オフラインデータ
 
 多くの場合、データをオンボーディングする前に、オンボーディングデータの特性を作成します。 しかし、その過程で新しいキーや値が追加され、この優れたデータを活用するために必要な特性がすべて作成されなくなる可能性があります。 [!UICONTROL Data Explorer]を使用すると、すべてのオンボーディングデータを簡単に検索して、特定の[!UICONTROL Data Source]でフィルタリングしたり、キーや値に絞り込んだりできます。 この検索により、データを効率的に検証できます。
 
-[!DNL Data Explorer]の詳細については、[https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。
+[!DNL Data Explorer]の詳細については、[https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=ja](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/data-explorer.html)を参照してください。

@@ -42,4 +42,4 @@ ht-degree: 0%
 
 インバウンドファイルのデータ書式設定に関するビデオについては、[ここ](formatting-and-ingesting-file-based-data.md)をクリックしてください。
 
-詳細については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html)を参照してください。
+詳細については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=ja)を参照してください。

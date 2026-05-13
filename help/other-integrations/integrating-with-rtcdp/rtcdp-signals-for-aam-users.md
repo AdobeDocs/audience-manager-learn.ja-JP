@@ -36,5 +36,5 @@ ht-degree: 1%
 
 ここでは、Adobe Real-Time CDPについて学ぶのに役立つ既存の動画とリソースを紹介します。 Adobe Experience Platformについて詳しくは、他の動画やチュートリアルをご覧ください。
 
-* [Audience Manager ユーザー向けのReal-Time CDPの特性について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations)
-* [Audience Manager ユーザー向けのReal-Time CDPのセグメントについて](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations)
+* [Audience Manager ユーザー向けのReal-Time CDPの特性について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=ja#other-integrations)
+* [Audience Manager ユーザー向けのReal-Time CDPのセグメントについて](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=ja#other-integrations)

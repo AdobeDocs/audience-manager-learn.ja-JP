@@ -38,4 +38,4 @@ ht-degree: 0%
 
 今までは、特性を作成する際には、前進する場合にのみデータを収集していました。 つまり、トラフィックやデータを受信する可能性が高い特性を多く作成する必要がありました。 これで、どのキーと値のペアがデータを受け取るかを待ってから、特性を作成し、その特性にデータをバックフィルすることができます。 これにより、時間と労力を節約できます。また、データを持たない複数の特性を持つ代わりに、特性の分類を厳密に管理することもできます。
 
-[!DNL Data Explorer]について詳しくは、[Data Explorer – 概要、利点、およびユースケース &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。
+[!DNL Data Explorer]について詳しくは、[Data Explorer – 概要、利点、およびユースケース &#x200B;](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/data-explorer.html)を参照してください。

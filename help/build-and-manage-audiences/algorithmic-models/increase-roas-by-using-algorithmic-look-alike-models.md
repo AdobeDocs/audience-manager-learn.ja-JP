@@ -55,7 +55,7 @@ Audience Managerの類似[!UICONTROL Modeling]機能の真の力は、2nd パー
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**メモ：**&#x200B;上記のビデオでは、Adobe Analyticsを使用していることを前提としています。 明らかに、そんなことはありません。 Google Analytics（GA）をお持ちの場合は、AAMにデータを送信するために使用できるモジュールがあります（[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)を参照）。サイト上のコンバージョンアクティビティがGAまでにAAMに送信される場合は、そのモジュールからコンバージョン特性を作成できます。 別の分析ソリューションがある場合（または分析ソリューションがない場合）でも、DIL コードや`submit`関数などを介してAAMにデータを送信できます（[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)を参照）。 そして、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいて、コンバージョン特性を作成します。
+**メモ：**&#x200B;上記のビデオでは、Adobe Analyticsを使用していることを前提としています。 明らかに、そんなことはありません。 Google Analytics（GA）をお持ちの場合は、AAMにデータを送信するために使用できるモジュールがあります（[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=ja)を参照）。サイト上のコンバージョンアクティビティがGAまでにAAMに送信される場合は、そのモジュールからコンバージョン特性を作成できます。 別の分析ソリューションがある場合（または分析ソリューションがない場合）でも、DIL コードや`submit`関数などを介してAAMにデータを送信できます（[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=ja)を参照）。 そして、サイトでコンバージョンアクティビティが実行されたときに送信されたデータに基づいて、コンバージョン特性を作成します。
 
 ## 2nd パーティデータまたはサードパーティデータから類似モデルを作成する {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 

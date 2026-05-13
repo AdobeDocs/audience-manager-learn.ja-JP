@@ -35,6 +35,6 @@ ht-degree: 9%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-使用可能なサーバー間の宛先パートナーの一覧については、[Audience Manager デバイスベースの宛先ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html)を参照してください。
+使用可能なサーバー間の宛先パートナーの一覧については、[Audience Manager デバイスベースの宛先ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=ja)を参照してください。
 
 宛先に関する詳細については、製品ドキュメントの[宛先](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=ja)を参照してください。

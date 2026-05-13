@@ -33,6 +33,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja)を参照してください。
 
 ピープルベースの宛先[ここ](https://adobe.ly/aamlearnpbd)に関する追加のビデオも見つけることができます。

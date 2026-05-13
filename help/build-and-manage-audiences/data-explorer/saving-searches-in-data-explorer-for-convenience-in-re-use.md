@@ -35,4 +35,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-[!UICONTROL Data Explorer]について詳しくは、[Data Explorer – 概要、利点、およびユースケース &#x200B;](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。
+[!UICONTROL Data Explorer]について詳しくは、[Data Explorer – 概要、利点、およびユースケース &#x200B;](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/data-explorer.html)を参照してください。

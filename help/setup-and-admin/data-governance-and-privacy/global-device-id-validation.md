@@ -105,13 +105,13 @@ ht-degree: 1%
 
 ![&#x200B; エラー画像](assets/image_4_.png)
 
-エラーコードの一覧については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)を参照してください。
+エラーコードの一覧については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=ja#api-and-sdk-code)を参照してください。
 
 ## グローバルデバイス IDのオンボーディング {#onboarding-global-device-ids}
 
-グローバルデバイス IDのリアルタイム送信に加えて、IDに対して「[!DNL onboard]」（アップロード）データを送信することもできます。 このプロセスは、お客様ID （通常はキーと値のペアを介して）に対してデータをオンボーディングする場合と同じですが、適切なData Source IDを使用するだけで、データがグローバルデバイス IDに割り当てられます。 オンボーディングプロセスに関するドキュメントについては、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)を参照してください。 使用しているプラットフォームに応じて、グローバルデータソース IDを使用することを忘れないでください。
+グローバルデバイス IDのリアルタイム送信に加えて、IDに対して「[!DNL onboard]」（アップロード）データを送信することもできます。 このプロセスは、お客様ID （通常はキーと値のペアを介して）に対してデータをオンボーディングする場合と同じですが、適切なData Source IDを使用するだけで、データがグローバルデバイス IDに割り当てられます。 オンボーディングプロセスに関するドキュメントについては、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=ja#implementation-integration-guides)を参照してください。 使用しているプラットフォームに応じて、グローバルデータソース IDを使用することを忘れないでください。
 
-オンボーディングプロセスを通じて誤ったグローバルデバイス IDが送信された場合、エラーは[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)に表示されます。
+オンボーディングプロセスを通じて誤ったグローバルデバイス IDが送信された場合、エラーは[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=ja#reporting)に表示されます。
 
 次に、そのレポートに表示されるエラーの例を示します。
 

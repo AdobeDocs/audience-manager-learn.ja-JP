@@ -42,4 +42,4 @@ ht-degree: 0%
 * [ピープルベースの宛先の作成と設定](create-and-configure-people-based-destinations.md)
 * [LinkedIn People ベースの宛先の理解と設定](understanding-and-configuring-the-linkedin-pbd.md)
 
-これらのビデオは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)と組み合わせて使用できます。
+これらのビデオは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja)と組み合わせて使用できます。

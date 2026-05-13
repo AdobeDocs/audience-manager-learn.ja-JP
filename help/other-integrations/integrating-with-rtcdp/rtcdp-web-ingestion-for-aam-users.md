@@ -36,6 +36,6 @@ ht-degree: 0%
 
 ここでは、Adobe Real-Time CDPについて学ぶのに役立つ、既存の動画とチュートリアルをいくつか紹介します。 Adobe Experience Platformについて詳しくは、他の動画やチュートリアルをご覧ください。
 
-* [Adobe Audience Manager データコネクタを使用したデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
-* [Adobe Experience Platform Web SDK チュートリアル](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
-* [スキーマエディターを使用したスキーマの作成](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Adobe Audience Manager データコネクタを使用したデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ja#sources)
+* [Adobe Experience Platform Web SDK チュートリアル](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=ja)
+* [スキーマエディターを使用したスキーマの作成](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja#getting-started)

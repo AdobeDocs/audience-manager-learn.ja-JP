@@ -40,4 +40,4 @@ Varun Kalraは、シドニーに拠点を置くAdobe Solution Partner - Accordan
 * ターゲティングユースケースについて詳しく見る
 * 様々なPMR設定のユースケース
 
-[Experience League コミュニティでのVarunのヒントを読む。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Experience League コミュニティでのVarunのヒントを読む。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=ja)

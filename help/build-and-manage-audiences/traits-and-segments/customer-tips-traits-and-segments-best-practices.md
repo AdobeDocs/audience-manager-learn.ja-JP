@@ -35,4 +35,4 @@ Matt Vittoriosoは、Ally Financialのデジタルマーケティングチーム
 * すぐに利用できる機能
 * 特性とセグメントの定期的な確認
 
-[Experience Leagueに関するMatt氏のアドバイス。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Experience Leagueに関するMatt氏のアドバイス。](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729?profile.language=ja)

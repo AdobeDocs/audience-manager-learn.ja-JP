@@ -36,6 +36,6 @@ Audience ManagerからAdobe Real-Time CDPに移行する際には、概念の違
 
 ここでは、Adobe Real-Time CDPについて学ぶのに役立つ、既存の動画とチュートリアルをいくつか紹介します。 Adobe Experience Platformについて詳しくは、他の動画やチュートリアルをご覧ください。
 
-* [スキーマエディターを使用したスキーマの作成](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [データセットの作成とデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=en#data-ingestion)
-* [セグメントの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [スキーマエディターを使用したスキーマの作成](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=ja#getting-started)
+* [データセットの作成とデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=ja#data-ingestion)
+* [セグメントの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ja#segments)
