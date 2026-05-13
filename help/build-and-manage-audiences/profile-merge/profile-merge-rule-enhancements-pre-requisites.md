@@ -34,4 +34,4 @@ ht-degree: 0%
 
 [!UICONTROL Profile Merge Rule]の機能強化のリリースに向けて最適に準備する方法の概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32583/?captions=jpn&quality=12)

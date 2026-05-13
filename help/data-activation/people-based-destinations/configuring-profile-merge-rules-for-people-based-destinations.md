@@ -34,4 +34,4 @@ ht-degree: 0%
 
 このビデオでは、まったく新しいクロスデバイスオプションを使用するタイミングなど、ピープルベースの宛先に使用する[!UICONTROL Profile Merge Rule]を設定する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31654/?captions=jpn&quality=12)

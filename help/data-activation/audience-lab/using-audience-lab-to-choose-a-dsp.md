@@ -30,7 +30,7 @@ ht-degree: 0%
 
 このビデオでは、[!UICONTROL Audience Lab] テストを作成する方法を説明します。これにより、DSPまたはその他のAAMの宛先をA/B テストして、どの宛先が広告費に対するリターンが最も高いかを確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/24923/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328258/?captions=jpn&quality=12)
 
 [!UICONTROL Audience Lab] テストの作成は簡単で、上記のビデオに示すように、数分で実行できます。 インターフェイスの手順を説明すると、次の設定が行われます。
 

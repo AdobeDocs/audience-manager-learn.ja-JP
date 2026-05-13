@@ -32,7 +32,7 @@ ht-degree: 0%
 
 Audience Managerの日常業務では、特定のキーと値のペアから特性が作成されたかどうかをすばやく確認する必要がある場合があります。 このビデオでは、[!UICONTROL Data Explorer]を使って調べる方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330354/?captions=jpn&quality=12)
 
 シグナルが特性に作成されたかどうかを確認するために、BAAAM ファイルと[!UICONTROL Unused Signals] レポートをダウンロードする必要がなくなりました。 これで、AAMの[!UICONTROL Signals] アプリである[!DNL Data Explorer]でキーと値のペアを検索し、特性と特性にないキーと値のペアをすべて同じリストで検索できます。 時間の節約になります。
 

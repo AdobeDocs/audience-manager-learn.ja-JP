@@ -31,4 +31,4 @@ ht-degree: 0%
 
 マーケティング施策、特にリーチ拡張機能/オーディエンス拡張機能の施策を構築する場合、既存の顧客を除外して、別の方法でマーケティングをおこなえるようにすることができます。 既に顧客ステータスにコンバージョンしたオーディエンスを除外するための、セグメント作成方法を解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41313/?captions=jpn&quality=12&learn=on)

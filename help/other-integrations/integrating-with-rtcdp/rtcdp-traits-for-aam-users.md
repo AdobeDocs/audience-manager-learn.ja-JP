@@ -30,7 +30,7 @@ ht-degree: 1%
 
 Audience ManagerからAdobe Real-Time CDPに移行する際には、概念の違いを理解しておくことが役立ちます。 このビデオでは、Audience Managerの特性と、Real-time CDPでの同等の機能について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331900/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347026/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

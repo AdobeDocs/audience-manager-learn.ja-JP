@@ -38,7 +38,7 @@ ht-degree: 0%
 
 このビデオでは、オフラインデータをAudience Managerにオンボーディングする際に実行する手順（データファイルのファイル名要件など）について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346199/?captions=jpn&quality=12&learn=on)
 
 インバウンドファイルのデータ書式設定に関するビデオについては、[ここ](formatting-and-ingesting-file-based-data.md)をクリックしてください。
 

@@ -29,4 +29,4 @@ ht-degree: 0%
 
 このビデオでは、Audience Marketplaceでデータをプライベートデータフィードまたはパブリックデータフィードとして設定し、セカンドパーティデータまたはサードパーティデータのデータプロバイダーにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410862/?captions=jpn&quality=12&learn=on)

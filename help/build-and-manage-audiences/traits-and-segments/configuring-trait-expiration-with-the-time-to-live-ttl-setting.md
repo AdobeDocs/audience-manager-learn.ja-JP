@@ -29,4 +29,4 @@ ht-degree: 0%
 
 特性を作成する際の設定の1つは、[!UICONTROL Time to Live] （TTL）設定です。これは、指定した期間内に再選定されない場合の特性のメンバーシップの有効期限です。 このビデオでは、この機能を確認して設定する方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341338/?captions=jpn&quality=12&learn=on)

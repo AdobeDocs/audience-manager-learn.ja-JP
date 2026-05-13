@@ -32,6 +32,6 @@ ht-degree: 0%
 
 重複レポートにより、特性とセグメントのオーディエンスが互いに（複数の特性またはセグメントにおける同じ訪問者）どのように重複しているかを確認できるため、データを使用して行動できる場所を把握し、コンバージョンを高めたり、リーチの拡大に集中したりすることができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345084/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=ja#reporting)を参照してください。

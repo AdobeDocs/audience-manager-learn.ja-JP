@@ -33,4 +33,4 @@ ht-degree: 0%
 
 [!UICONTROL Data Export Labels]では、プライバシー要件を満たすために、様々なデータタイプ/ソースのフローを制御するAudience Managerのメカニズムを利用できます。 [!UICONTROL Data Export Controls]と[!UICONTROL Data Export Labels]を設定する方法と場所について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345096/?captions=jpn&quality=12&learn=on)

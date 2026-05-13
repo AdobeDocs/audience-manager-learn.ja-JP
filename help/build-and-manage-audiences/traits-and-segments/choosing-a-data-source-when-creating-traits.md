@@ -29,4 +29,4 @@ ht-degree: 0%
 
 特性を作成する際に入力する重要なフィールドの1つが[!UICONTROL Data Source] フィールドです。 ルールベースのオンボーディング特性に適したデータソースを選択するためのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330131/?captions=jpn&quality=12&learn=on)

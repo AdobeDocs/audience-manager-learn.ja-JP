@@ -32,7 +32,7 @@ ht-degree: 0%
 
 このビデオでは、Audience Manager ユーザーがReal-time Customer Data Platformのデータガバナンス機能を順を追って説明し、Audience Managerで利用可能なものと比較します。 ここでは、データ使用およびラベル付けの実施（DULE）フレームワークと、Platformのどこで適用できるかを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410874/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

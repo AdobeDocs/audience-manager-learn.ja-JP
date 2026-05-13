@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Audience Managerの様々な宛先タイプと、各宛先タイプにセグメントをマッピングする詳細について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/39158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327389/?captions=jpn&quality=12&learn=on)

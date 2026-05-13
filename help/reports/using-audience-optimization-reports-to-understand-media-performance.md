@@ -32,6 +32,6 @@ ht-degree: 0%
 
 Audience Optimizationのレポートを活用してマーケティング施策を改善し、マーケティング予算を投資する場所と投資を停止する場所を把握する方法を説明します。 また、最適な配信頻度の上限を決定する方法と、レポート内の他の宝石を見つける方法についても説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345090/?captions=jpn&quality=12&learn=on)
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html?lang=ja#reporting)を参照してください。

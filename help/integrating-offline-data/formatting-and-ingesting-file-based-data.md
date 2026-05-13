@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1st パーティ製品をAudience Managerに取り込んで顧客をより詳細に把握し、ターゲティングする場合、データには特定のフォーマット要件が適用されます。 このビデオでは、主なオプションの一部を説明し、詳細情報を入手する場所を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346206/?captions=jpn&quality=12&learn=on)
 
 ファイルの命名と読み込みに関するビデオについては、[ここ](steps-for-ingesting-file-based-data.md)をクリックしてください。
 

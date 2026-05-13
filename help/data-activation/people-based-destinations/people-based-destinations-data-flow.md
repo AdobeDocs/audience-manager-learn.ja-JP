@@ -34,4 +34,4 @@ ht-degree: 0%
 
 このビデオでは、ピープルベースの宛先の概要と、プロセス内のデータフローを示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32586/?captions=jpn&quality=12)

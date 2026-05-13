@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Audience ManagerからReal-time CDP （Real-time CDP）に移行する際には、オーディエンスセグメントを宛先パートナーにアクティベートする方法を理解できるように、宛先について知ることが不可欠です。 このビデオでは、様々な宛先タイプと、Real-time CDP内の様々な宛先タイプの位置について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410886/?captions=jpn&quality=12&learn=on)

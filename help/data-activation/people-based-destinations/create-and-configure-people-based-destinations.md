@@ -34,4 +34,4 @@ ht-degree: 0%
 
 このビデオでは、最初にPeople ベースの宛先を作成するための前提条件に関する情報を提供し、次に統合アカウントの設定方法（[!DNL Facebook]などのパートナーへのリンク）も示します。 そして、宛先自体の製品内セットアップを順を追って説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34078/?captions=jpn&quality=12)

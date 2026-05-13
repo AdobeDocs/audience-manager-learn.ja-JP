@@ -31,6 +31,6 @@ ht-degree: 6%
 
 このビデオでは、Experience Cloud ID サービス `setCustomerIDs()` メソッドを使用してメールアドレスを取り込んでハッシュ化し、それを宣言されたIDとして使用する理由と方法を説明します。 これにより、CRM IDと電子メールアドレスが関連付けられるだけでなく、匿名デバイス IDなどのAdobe Audience Manager UUIDにも同期されます。 これらのハッシュ化されたメールアドレスは、ピープルベースの宛先に送信できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30098/?captions=jpn&quality=12)
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=ja)を参照してください。

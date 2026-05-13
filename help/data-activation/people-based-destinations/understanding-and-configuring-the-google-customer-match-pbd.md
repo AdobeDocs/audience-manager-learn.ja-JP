@@ -31,4 +31,4 @@ ht-degree: 0%
 
 このビデオでは、Google Customer Match People Based Destinationの詳細とユースケースについて説明し、セグメントを作成して宛先にマッピングする手順を説明します。 また、Google Ad Consoleにオーディエンスがランディングする様子も表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326463/?captions=jpn&quality=12&learn=on)

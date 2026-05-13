@@ -27,4 +27,4 @@ ht-degree: 68%
 
 このビデオでは、Adobe Analyticsなどの分析ソリューションからライブで取得するデータに使用できる[!UICONTROL Data Source]をAudience Managerで作成するためのヒントとコツを含む手順を説明します。 これは、分析データの特性を作成する前に実行する必要があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34504/?captions=jpn&quality=12)

@@ -32,7 +32,7 @@ ht-degree: 0%
 
 このビデオでは、1st パーティの類似モデルを作成して、コンバーターのように見える独自の訪問者をより多く見つける方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328275/?captions=jpn&quality=12)
 
 これには、次のようなユースケースがあります。
 

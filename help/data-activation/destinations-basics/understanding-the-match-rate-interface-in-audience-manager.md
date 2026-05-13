@@ -31,6 +31,6 @@ ht-degree: 0%
 
 このビデオでは、[!UICONTROL Destination] インターフェイスについて説明し、一致率と到達可能なオーディエンスに関連する数値を表示および説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342852/?captions=jpn&quality=12)
 
 詳しくは、製品ドキュメントの[&#x200B; アドレス可能なオーディエンス &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=ja)を参照してください。

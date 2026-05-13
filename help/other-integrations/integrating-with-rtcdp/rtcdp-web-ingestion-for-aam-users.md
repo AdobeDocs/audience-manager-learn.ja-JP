@@ -30,7 +30,7 @@ ht-degree: 0%
 
 このビデオでは、Audience Manager ユーザーがWeb サイトのデータをReal-time CDPに取り込む際の概念を説明します。また、Audience Manager Data Connectorが適合する場所と、データがWeb サイトからWeb SDKを介して直接Real-time CDPに移動する方法について詳しく説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346980/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

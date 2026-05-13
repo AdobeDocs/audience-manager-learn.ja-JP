@@ -32,7 +32,7 @@ ht-degree: 0%
 
 Audience ManagerからAdobe Real-Time CDPに移行する際には、概念の違いを理解しておくことが役立ちます。 このビデオでは、Audience ManagerとReal-Time CDPのセグメントとセグメント作成の違いについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347032/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

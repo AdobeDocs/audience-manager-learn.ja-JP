@@ -35,6 +35,6 @@ ht-degree: 0%
 
 クロスチャネルパーソナライゼーションに関する主な課題と、Adobe Audience Managerがカスタマージャーニーをどのように強化するのかを解説します。 また、Audience Managerでオンボーディングできるデータタイプを確認し、Audience Managerと統合されたアドテックエコシステムパートナーを特定します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37109/?captions=jpn&quality=12)
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=ja)を参照してください。

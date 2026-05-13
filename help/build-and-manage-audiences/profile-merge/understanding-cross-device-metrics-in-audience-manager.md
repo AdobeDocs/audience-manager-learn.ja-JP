@@ -31,4 +31,4 @@ ht-degree: 0%
 
 このビデオでは、デバイスプロファイルとクロスデバイスプロファイルの違い、およびインターフェイス内の数値がこれらの異なるプロファイルタイプと一致する場所について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36810/?captions=jpn&quality=12)

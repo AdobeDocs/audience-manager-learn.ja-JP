@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Audience Managerでセグメントを作成する場合は、フォルダーベースの構造または「分類」に保存します。 セグメント分類法の作成と管理に関するいくつかのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326860/?captions=jpn&quality=12&learn=on)

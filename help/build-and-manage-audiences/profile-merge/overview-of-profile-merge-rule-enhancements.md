@@ -32,4 +32,4 @@ ht-degree: 0%
 
 このビデオでは、2019年10月にリリースされた[!UICONTROL Profile Merge Rules]の機能強化について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32568/?captions=jpn&quality=12)

@@ -32,4 +32,4 @@ ht-degree: 0%
 
 このビデオでは、アプリケーションへのデータフローを説明することで、Adobe Audience Managerを理解するのに役立ちます。
 
->[!VIDEO](https://video.tv.adobe.com/v/33888/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/37111/?captions=jpn&quality=12)

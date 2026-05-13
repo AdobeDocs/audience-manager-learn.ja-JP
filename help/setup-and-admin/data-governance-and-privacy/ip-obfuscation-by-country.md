@@ -35,6 +35,6 @@ ht-degree: 0%
 
 Audience Managerは、UIにセルフサービス機能を提供し、お客様がグローバルまたは国別にIP難読化を有効にできるようにします。 このビデオでは、設定について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/35075/?captions=jpn&quality=9)
 
 この機能について詳しくは、[&#x200B; ドキュメント &#x200B;](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/ip-obfuscation.html)を参照してください。

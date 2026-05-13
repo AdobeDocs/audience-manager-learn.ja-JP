@@ -27,7 +27,7 @@ ht-degree: 0%
 
 特性を作成、編集、または削除する場合、UIを使用して特性を一つずつ作成すると、非効率的で時間がかかります。 このビデオでは、Audience Managerの一括管理ツールであるBAAAMを使用して、シンプルなMicrosoft スプレッドシートをREST APIとのインターフェイスとして使用して、一括で特性を作成、編集、削除する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344714/?captions=jpn&quality=12&learn=on)
 
 BAAAM ワークシートのダウンロードなど、詳細については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=ja#reference)を参照してください。
 

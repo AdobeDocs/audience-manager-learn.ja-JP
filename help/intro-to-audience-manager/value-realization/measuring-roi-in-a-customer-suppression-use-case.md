@@ -29,4 +29,4 @@ ht-degree: 0%
 
 小銭を貯めれば小銭を稼ぐことになりますよね？ 既存顧客への広告を抑制することで、キャンペーンのコスト削減を決定するためのいくつかの式を使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41299/?captions=jpn&quality=12&learn=on)

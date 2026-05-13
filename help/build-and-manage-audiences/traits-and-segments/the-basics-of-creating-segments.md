@@ -31,6 +31,6 @@ ht-degree: 0%
 
 UIのフィールドを確認して、Audience Managerでセグメントを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326726/?captions=jpn&quality=12&learn=on)
 
 セグメントについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=ja)を参照してください。

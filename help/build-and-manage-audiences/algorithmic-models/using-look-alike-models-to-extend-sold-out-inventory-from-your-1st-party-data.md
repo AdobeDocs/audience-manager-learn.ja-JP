@@ -52,7 +52,7 @@ ht-degree: 0%
 
 また、イベントを使用して特性を作成する場合は、特性に追加するユーザーを収集しないようにする必要がある大きな注意点があります。 次のビデオで大きな明らかをご覧ください。 :)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328259/?captions=jpn&quality=12)
 
 **メモ：**&#x200B;上記のビデオでは、Adobe Analyticsを使用していることを前提としています。 明らかに、そんなことはありません。 Google Analytics（GA）をお持ちの場合は、AAMにデータを送信するために使用できるモジュールがあります（[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=ja)を参照）。サイト上のコンバージョンアクティビティがGAまでにAAMに送信される場合は、そのモジュールからコンバージョン特性を作成できます。 別の分析ソリューションがある場合（または分析ソリューションがない場合）でも、DIL コードや`submit`関数などを介してAAMにデータを送信できます（[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=ja)を参照）。 次に、コンバージョンアクティビティがサイトで実行されたときに送信されたデータに基づいて、コンバージョン特性を作成します。
 
@@ -62,13 +62,13 @@ ht-degree: 0%
 
 このユースケースでは、これは重要です。なぜなら、アドビのサイトで、コンバーターのように見えても、まだコンバージョンに至っていないユーザーのセグメントを作成し、この類似セグメントを興味を持った広告主に販売しようとしているからです。
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/328275/?captions=jpn&quality-12)
 
 ## アルゴリズム特性の作成 {#creating-an-algorithmic-trait}
 
 次に、[!UICONTROL Algorithmic Trait]を作成して、モデルの結果を使用できるようにする必要があります。 特性を作成しなければ、モデルは役に立ちません。 モデルの実行後、特性ダイアログに移動して[!UICONTROL Algorithmic Trait]を作成してください。 次のビデオでは、いくつかのヒントを紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30020/?captions=jpn&quality=12)
 
 ## 広告主に[!UICONTROL Algorithmic Segment]を提供する {#offering-the-algorithmic-segment-to-advertisers}
 

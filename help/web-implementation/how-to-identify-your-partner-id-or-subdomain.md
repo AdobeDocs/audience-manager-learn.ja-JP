@@ -44,7 +44,7 @@ Experience Cloudの一部の機能を実装する場合は、Audience Manager `S
 
 これらのクイックリファレンスですぐに見つけることができない場合、ビデオは短時間のコミットメントです。 :)
 
->[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40889/?captions=jpn&quality=12)
 
 >[!IMPORTANT]
 >

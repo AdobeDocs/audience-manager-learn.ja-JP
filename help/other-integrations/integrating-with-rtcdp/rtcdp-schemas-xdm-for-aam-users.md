@@ -30,7 +30,7 @@ ht-degree: 1%
 
 Adobe Audience ManagerからAdobe Real-Time CDPに移行する際には、いくつかの新しい概念と実践方法に遭遇できるでしょう。 スキーマとXDMはそのカテゴリーに入ります。 このビデオでは、これらの概念について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410356/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

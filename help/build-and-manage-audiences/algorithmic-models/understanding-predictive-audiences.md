@@ -29,6 +29,6 @@ ht-degree: 0%
 
 このビデオでは、Audience Manager [!UICONTROL Predictive Audiences]について、その仕組みや一般的な使用例について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36664/?captions=jpn&quality=12)
 
 詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=ja)を参照してください。

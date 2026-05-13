@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Adobe Audience Managerと[!DNL Adobe Advertising]の連携の仕組みについて説明します。 マッチ率とサードパーティのCookie同期に関する回答も得られます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35775/?captions=jpn&quality=12)

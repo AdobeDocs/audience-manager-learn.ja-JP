@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Adobe AnalyticsからAudience Managerにリアルタイムデータを転送するだけでなく、AnalyticsからExperience Cloud経由でAudience Managerに後処理データを含むセグメントを読み込むこともできます。 これは、他のDMPでは味わえない強力な機能です。
 
->[!VIDEO](https://video.tv.adobe.com/v/330804/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344725/?captions=jpn&quality=12&learn=on)

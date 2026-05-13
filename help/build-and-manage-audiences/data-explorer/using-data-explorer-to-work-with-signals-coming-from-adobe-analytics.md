@@ -34,7 +34,7 @@ ht-degree: 0%
 
 このビデオでは、使用済みおよび未使用の[!UICONTROL signals]の検索、[!DNL Analytics]特性の作成、データの理解など、[!UICONTROL Data Explorer]でAdobe Analytics データを検索して使用する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330353/?captions=jpn&quality=12)
 
 Adobe Audience Managerに流入するデータの主なソースのひとつは、分析ソリューションである可能性が高く、それがAdobe Analyticsであることを期待しています。
 

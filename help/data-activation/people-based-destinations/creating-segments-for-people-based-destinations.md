@@ -33,4 +33,4 @@ ht-degree: 0%
 
 このビデオでは、ピープルベースの宛先に使用するAudience Managerのセグメントの作成について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31653/?captions=jpn&quality=12)

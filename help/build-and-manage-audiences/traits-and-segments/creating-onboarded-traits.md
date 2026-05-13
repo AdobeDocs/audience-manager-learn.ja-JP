@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Audience Managerでオンボーディング特性を作成するためのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328520/?captions=jpn&quality=12&learn=on)

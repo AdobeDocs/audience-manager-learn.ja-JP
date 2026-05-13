@@ -33,7 +33,7 @@ ht-degree: 0%
 このビデオでは、Adobe Audience Managerを使用しているユーザー向けに、1st パーティオフラインデータのReal-Time CDPへの取り込みについて説明します。 データ収集に関する2つの製品の主な違いのいくつかを見て、プロセスがReal-time CDPに移行されるまで、Audience Manager Data Connectorをストップギャップとして使用する方法を示します。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/331276/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346992/?captions=jpn&quality=12&learn=on)
 
 ## その他のリソース
 

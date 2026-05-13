@@ -31,4 +31,4 @@ ht-degree: 0%
 
 このビデオでは、セグメントを定義し、セグメントを作成するために必要な特性/シグナルによってセグメントを分類するプロセスについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326718/?captions=jpn&quality=12&learn=on)
