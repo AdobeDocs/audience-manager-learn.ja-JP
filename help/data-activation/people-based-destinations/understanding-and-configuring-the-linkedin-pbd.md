@@ -1,6 +1,6 @@
 ---
-title: LinkedIn 人物ベースの宛先について
-description: このビデオでは、LinkedIn への人物ベースの宛先を作成するための概念と手順について説明します。 People-based Destinations に関する追加のビデオとドキュメントに基づいて構築されています。
+title: LinkedIn People-Based Destinationの概要と設定
+description: このビデオでは、LinkedInにピープルベースの宛先を作成するための概念と手順について説明します。 People-based Destinationsに関する追加のビデオとドキュメントに基づいて構築されます。
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -11,19 +11,24 @@ kt: 5028
 role: User
 level: Beginner
 exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+TQID: https://experienceleague.adobe.com/F7e0Mzfw23X3VnD3kIKg--VfNhiWN2mqhmvAF7oiD8w
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: c814092e-2730-45e8-a12d-e084529f52cb
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: 101
 ht-degree: 0%
 
 ---
 
-# [!DNL LinkedIn] [!UICONTROL People-Based Destination] の概要と設定
+# [!DNL LinkedIn] [!UICONTROL People-Based Destination]の理解と設定
 
-このビデオでは、[!UICONTROL People-Based Destination] に [!DNL LinkedIn] ールを作成するための概念と手順について説明します。 People-based Destinations に関する追加のビデオとドキュメントに基づいて構築されています。
+このビデオでは、[!UICONTROL People-Based Destination] ～ [!DNL LinkedIn]を作成するための概念と手順について説明します。 People-based Destinationsに関する追加のビデオとドキュメントに基づいて構築されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/38431/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ja) を参照してください。
+詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)を参照してください。
 
-また、People-Based Destinations に関する追加のビデオを見つけることもできます [&#x200B; こちら &#x200B;](https://adobe.ly/aamlearnpbd)。
+ピープルベースの宛先[ここ](https://adobe.ly/aamlearnpbd)に関する追加のビデオも見つけることができます。

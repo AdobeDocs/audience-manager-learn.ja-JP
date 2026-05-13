@@ -1,6 +1,6 @@
 ---
 title: 特性の作成時にデータソースを選択
-description: 特性を作成する際に入力する重要なフィールドの 1 つに、Data Source フィールドがあります。 ルールベース特性とオンボード特性に適したデータソースの選択に関するヒントを説明します。
+description: 特性を作成する際に入力する重要なフィールドの1つが、Data Source フィールドです。 ルールベースのオンボーディング特性に適したデータソースを選択するためのヒントを説明します。
 feature: Traits
 topics: null
 activity: use
@@ -11,15 +11,19 @@ kt: 6442
 role: User
 level: Beginner
 exl-id: 357385b1-8900-4b7c-aa75-de25cf008a33
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+TQID: https://experienceleague.adobe.com/ZOQgf9jeYifdBXv-KIQprulu6ium91tl2I4vIMgnReQ
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: 72
 ht-degree: 0%
 
 ---
 
 # 特性の作成時にデータソースを選択
 
-特性を作成する際に入力する重要なフィールドの 1 つに、[!UICONTROL Data Source] フィールドがあります。 ルールベース特性とオンボード特性に適したデータソースの選択に関するヒントを説明します。
+特性を作成する際に入力する重要なフィールドの1つが[!UICONTROL Data Source] フィールドです。 ルールベースのオンボーディング特性に適したデータソースを選択するためのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/330131/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

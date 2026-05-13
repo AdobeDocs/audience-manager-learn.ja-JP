@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL Time-to-Live] （TTL）を使用した特性の有効期限の設定'
-description: Audience Managerで [!UICONTROL Time to Live] （TTL）を検索および設定する方法を説明します。 特性を作成するときにこの設定を使用します。これにより、指定された期間内にユーザーが再認定されない場合に、特性のメンバーシップの有効期限が設定されます。
+title: '[!UICONTROL Time-to-Live] （TTL）での特性の有効期限の設定'
+description: Audience Managerで[!UICONTROL Time to Live] （TTL）を検索して設定する方法について説明します。 この設定は、特性を作成する際に使用します。指定した期間内にユーザーが再選定されない場合に、特性のメンバーシップの有効期限を設定します。
 feature: Traits
 topics: null
 activity: use
@@ -11,15 +11,19 @@ kt: 6782
 role: User
 level: Beginner
 exl-id: 7190963c-9731-4ee2-b312-949d3f42f0b3
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+TQID: https://experienceleague.adobe.com/Ir719-wVlbBpEHCKGeMvJ3g5bVPaohDpu6eNCY32ro4
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: 89
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Time-to-Live] （TTL）を使用した特性の有効期限の設定
+# [!UICONTROL Time-to-Live] （TTL）での特性の有効期限の設定
 
-特性を作成する際の設定の 1 つに、[!UICONTROL Time to Live] （TTL）設定があります。これは、指定された期間内に再適合しない場合の、特性のメンバーシップの有効期限です。 このビデオでは、この機能を確認および設定する方法を説明します。
+特性を作成する際の設定の1つは、[!UICONTROL Time to Live] （TTL）設定です。これは、指定した期間内に再選定されない場合の特性のメンバーシップの有効期限です。 このビデオでは、この機能を確認して設定する方法を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/341338/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)

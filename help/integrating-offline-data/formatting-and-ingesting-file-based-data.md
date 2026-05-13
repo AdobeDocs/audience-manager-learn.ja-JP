@@ -1,6 +1,6 @@
 ---
 title: ファイルベースのデータのフォーマットと取り込み
-description: ファーストパーティをAudience Managerに取り込む際に、より多くの情報を取得して、お客様をより深く理解し、ターゲットを設定するための主なオプションをいくつか説明します。 データの特定の書式設定要件について説明します。
+description: 1st パーティデータをAudience Managerに取り込む際に、顧客をより詳細に把握し、ターゲティングするための主な方法を解説します。 データの特定の書式要件について説明します。
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -11,19 +11,25 @@ kt: 7026
 role: User
 level: Beginner
 exl-id: a9515255-8e3e-4fb8-b467-be68a56c412b
-source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
+TQID: https://experienceleague.adobe.com/4x95q4-kgq3qDmV8ADerUcis65014I-vSA-GF7KI-0c
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: 124
 ht-degree: 0%
 
 ---
 
 # ファイルベースのデータのフォーマットと取り込み
 
-ファーストパーティをAudience Managerに取り込んで顧客の理解とターゲティングを深める場合、データには特定のフォーマット要件があります。 このビデオでは、主なオプションの一部を紹介し、詳細情報の取得場所を示します。
+1st パーティ製品をAudience Managerに取り込んで顧客をより詳細に把握し、ターゲティングする場合、データには特定のフォーマット要件が適用されます。 このビデオでは、主なオプションの一部を説明し、詳細情報を入手する場所を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/346206/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
 
-ファイルの命名と読み込みに関するビデオを参照するには、[&#x200B; こちら &#x200B;](steps-for-ingesting-file-based-data.md) をクリックしてください。
+ファイルの命名と読み込みに関するビデオについては、[ここ](steps-for-ingesting-file-based-data.md)をクリックしてください。
 
-詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=ja&) を参照してください。
+詳細については、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?)を参照してください。

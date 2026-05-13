@@ -1,6 +1,6 @@
 ---
-title: Data Explorerを使用した遡及特性とセグメントの作成
-description: 特性が作成される前に特性へのデータのバックフィルを行う特性など、遡及的特性を作成する方法について説明します。 これは、特性の作成における大きなブレークスルーです。
+title: Data Explorerを使用して、遡及的な特性とセグメント化を作成する
+description: データを作成する前に特性にバックフィルする特性など、遡及特性の作成方法について説明します。 これは、特性作成における大きなブレークスルーです。
 feature: Data Explorer
 topics: null
 activity: use
@@ -11,19 +11,24 @@ kt: 1762
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/NcSOMhF2aQme5nGjE-aexmESbEgg4A-RTK5Z2az8-PY
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 172
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Data Explorer] を使用した遡及特性とセグメントの作成 {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# [!UICONTROL Data Explorer]を使用して遡及的な特性とセグメントを作成 {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-このビデオでは、作成前に特性にデータをバックフィルする特性など、遡及特性を作成する方法を説明します。 これは、特性の作成における大きなブレークスルーです。
+このビデオでは、データを作成する前に特性にバックフィルする特性など、遡及的な特性を作成する方法を説明します。 これは、特性作成における大きなブレークスルーです。
 
->[!VIDEO](https://video.tv.adobe.com/v/327528/?captions=jpn&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-これまで、特性を作成した際には、前進する際にのみデータを収集していました。 つまり、トラフィックやデータを受信した場合に備えて、多くの特性を作成する必要がありました。 これで、どのキーと値のペアがデータを受け取るかを待ってから、特性を作成し、その特性にデータをバックフィルできます。 これにより、時間とエネルギーを節約でき、データのない複数の特性を持たずに、特性分類を厳しく保つのに役立ちます。
+今までは、特性を作成する際には、前進する場合にのみデータを収集していました。 つまり、トラフィックやデータを受信する可能性が高い特性を多く作成する必要がありました。 これで、どのキーと値のペアがデータを受け取るかを待ってから、特性を作成し、その特性にデータをバックフィルすることができます。 これにより、時間と労力を節約できます。また、データを持たない複数の特性を持つ代わりに、特性の分類を厳密に管理することもできます。
 
-[!DNL Data Explorer] について詳しくは、[Data Explorer – 概要、メリット、ユースケース &#x200B;](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/data-explorer.html) を参照してください。
+[!DNL Data Explorer]について詳しくは、[Data Explorer – 概要、利点、およびユースケース ](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)を参照してください。

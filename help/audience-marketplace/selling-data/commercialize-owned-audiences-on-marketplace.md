@@ -1,6 +1,6 @@
 ---
-title: 所有オーディエンスを Marketplace で商業化
-description: このビデオでは、Audience Marketplace上でデータを非公開または公開データフィードとして設定し、セカンドパーティまたはサードパーティのデータのデータプロバイダーにする方法について説明します。
+title: Marketplaceでのオウンドオーディエンスの商業化
+description: このビデオでは、Audience Marketplaceでデータをプライベートデータフィードまたはパブリックデータフィードとして設定し、セカンドパーティデータまたはサードパーティデータのデータプロバイダーにする方法について説明します。
 feature: Audience Marketplace
 topics: null
 activity: use
@@ -11,15 +11,19 @@ kt: 6802
 role: User
 level: Experienced
 exl-id: 15a01564-fa14-4ab4-944d-af1c9041d788
-source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
+TQID: https://experienceleague.adobe.com/8mNfa3a6-ryXKcjY8XKf3yG-3-MdKEsCpReir6TyiMs
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: d8f86c1e-15ad-457f-9d6f-5e756573fad4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: 76
 ht-degree: 0%
 
 ---
 
-# 所有オーディエンスを Marketplace で商業化
+# Marketplaceでのオウンドオーディエンスの商業化
 
-このビデオでは、Audience Marketplace上でデータを非公開または公開データフィードとして設定し、セカンドデータまたはサードパーティのデータのデータプロバイダーにする方法について説明します。
+このビデオでは、Audience Marketplaceでデータをプライベートデータフィードまたはパブリックデータフィードとして設定し、セカンドパーティデータまたはサードパーティデータのデータプロバイダーにする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410862/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)
