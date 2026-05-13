@@ -1,6 +1,6 @@
 ---
 title: セグメント作成の基本
-description: UI のフィールドを確認し、Audience Managerでセグメントを作成します。
+description: UIのフィールドを確認して、Audience Managerでセグメントを作成します。
 feature: Segments
 topics: null
 activity: use
@@ -11,17 +11,26 @@ kt: 5820
 role: User
 level: Beginner
 exl-id: 594b1caf-2752-4710-8272-2df669eb8dbe
-source-git-commit: d87f5c6468600cc35ff059bcff98cc81552f4a10
+TQID: https://experienceleague.adobe.com/8eEgwXMixAwvHHsJ2kQbc6zYL1BjLQQBOwfY-N5iD6M
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: 58
 ht-degree: 0%
 
 ---
 
 # セグメント作成の基本
 
-UI のフィールドを確認し、Audience Managerでセグメントを作成します。
+UIのフィールドを確認して、Audience Managerでセグメントを作成します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326726/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/326726/?captions=jpn&quality=12&learn=on)
 
-セグメントについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=ja) を参照してください。
+セグメントについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=ja)を参照してください。

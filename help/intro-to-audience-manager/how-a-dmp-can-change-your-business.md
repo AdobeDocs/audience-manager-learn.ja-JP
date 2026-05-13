@@ -1,6 +1,6 @@
 ---
-title: DMPでビジネスがどう変わるか
-description: データ管理プラットフォームは現在、テクノロジー業界で話題になっていますが、マーケターが目標を達成する上で、どのようなプラットフォームがよりいっそう重要となるのでしょうか。 このセッションでは、DMPとは何かを説明し、より効率的なメディアの購入から大幅なコンバージョンの増加まで、お客様が投資に対する素晴らしいリターンを見た実際のケーススタディをいくつか紹介します。
+title: DMPでビジネスを変える方法
+description: データ管理プラットフォームは今、テクノロジーの話題になっていますが、何よりも重要なのは、マーケターが目標を達成するうえで、どのように役立つのかです。 このセッションでは、DMPの概要と、効率的な広告取引やコンバージョンの大幅な増加など、顧客が投資対効果を実感している実際のケーススタディを紹介します。
 feature: Overview
 topics: null
 activity: understand
@@ -10,17 +10,29 @@ kt: 4025
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 7645804c-b0ff-4741-833f-7a3d7f2bb950
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/l5a0QpxtEH-GECAzfkK7uD2E2wmgQvQtRDavsxSiClo
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: 139
 ht-degree: 0%
 
 ---
 
-# DMPでビジネスがどう変わるか
+# DMPでビジネスを変える方法
 
-現在、テクノロジーに関する話題は [!DNL Data Management Platforms] のくらいですが、その内容と、さらに重要なことに、マーケターが目標を達成する際にどう役立つのでしょうか。
+[!DNL Data Management Platforms]は今、テクノロジー業界の話題になっていますが、マーケターが目標を達成する上で、どのように役立つのか、その重要性は何でしょうか？
 
-このセッションでは、DMPとは何かを説明し、より効率的なメディアの購入から大幅なコンバージョンの増加まで、お客様が投資に対する素晴らしいリターンを見た実際のケーススタディをいくつか紹介します。
+このセッションでは、DMPの概要と、効率的な広告取引やコンバージョンの大幅な増加など、顧客が投資対効果を実感している実際のケーススタディを紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)

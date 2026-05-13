@@ -1,6 +1,6 @@
 ---
 title: セグメント分類の作成
-description: Audience Managerでセグメントを作成すると、それらをフォルダーベースの構造（「分類」）に格納できます。 セグメント分類を作成および管理するためのいくつかのヒントを説明します。
+description: Audience Managerでセグメントを作成する場合は、フォルダーベースの構造または「分類」に保存します。 セグメント分類法の作成と管理に関するいくつかのヒントを説明します。
 feature: Segments
 topics: null
 activity: use
@@ -11,15 +11,24 @@ kt: 5933
 role: User
 level: Beginner
 exl-id: aa00b640-0b52-4c11-9165-9d73c78e77bf
-source-git-commit: 7c0d2c510851c3bae949b62dfa361d85f27e682e
+TQID: https://experienceleague.adobe.com/wVfKYC1sB-R9oSFTv-r0xOGmdtwhG2fTI7xnFyplHdM
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: 68
 ht-degree: 0%
 
 ---
 
 # セグメント分類の作成
 
-Audience Managerでセグメントを作成すると、それらをフォルダーベースの構造（「分類」）に格納できます。 セグメント分類を作成および管理するためのいくつかのヒントを説明します。
+Audience Managerでセグメントを作成する場合は、フォルダーベースの構造または「分類」に保存します。 セグメント分類法の作成と管理に関するいくつかのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/326860/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/326860/?captions=jpn&quality=12&learn=on)

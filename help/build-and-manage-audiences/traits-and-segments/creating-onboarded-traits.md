@@ -1,6 +1,6 @@
 ---
-title: オンボード特性の作成
-description: Audience Managerでオンボード特性を作成するためのヒントを説明します。
+title: オンボーディング特性の作成
+description: Audience Managerでオンボーディング特性を作成するためのヒントを説明します。
 feature: Traits
 topics: null
 activity: use
@@ -11,15 +11,22 @@ kt: 6215
 role: User
 level: Beginner
 exl-id: b240e1c6-1cc6-44c0-aee5-35ca972ab919
-source-git-commit: ea8ff5de0157659fa91341c4a4aa49de6f397192
+TQID: https://experienceleague.adobe.com/9ZVqYEXFH34hxB7AF-7GXDtCJdsvl-Apan6jMWfi54c
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '24'
+source-wordcount: 24
 ht-degree: 0%
 
 ---
 
-# オンボード特性の作成
+# オンボーディング特性の作成
 
-Audience Managerでオンボード特性を作成するためのヒントを説明します。
+Audience Managerでオンボーディング特性を作成するためのヒントを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/328520/?quality=12&learn=on&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/328520/?captions=jpn&quality=12&learn=on)

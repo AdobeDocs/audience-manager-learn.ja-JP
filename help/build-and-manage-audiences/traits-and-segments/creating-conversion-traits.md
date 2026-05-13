@@ -1,6 +1,6 @@
 ---
 title: コンバージョン特性の作成
-description: 一部の特性は、サイトでのコンバージョンに基づいています。 このビデオでは、それらを指定する方法を説明し、非常に重要なヒントを説明します。
+description: 特徴の中には、サイトでのコンバージョンにもとづいているものもあります。 このビデオでは、それらをそのように指定する方法を学び、非常に重要なヒント/注意点を学びます。
 feature: Traits
 topics: null
 activity: use
@@ -11,21 +11,28 @@ kt: 1804
 role: User
 level: Beginner
 exl-id: b5156c96-555e-4608-8920-9b7221b1d383,52b489bf-6c11-4c5c-8f29-4513a167f7b8
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+TQID: https://experienceleague.adobe.com/3ubwVnpVkcFiPfVSChUQa6MCdTAzeo9iqBivgiH3rNg
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 181
 ht-degree: 0%
 
 ---
 
 # Audience Managerでのコンバージョン特性の作成 {#creating-conversion-traits-in-audience-manager}
 
-一部の特性は、サイトでのコンバージョンに基づいています。 このビデオでは、それらを指定する方法を説明し、非常に重要なヒントを説明します。
+特徴の中には、サイトでのコンバージョンにもとづいているものもあります。 このビデオでは、それらをそのように指定する方法を学び、非常に重要なヒント/注意点を学びます。
 
->[!VIDEO](https://video.tv.adobe.com/v/328259/?quality=12&captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/328259/?captions=jpn&quality=12)
 
-サイトでユーザーに何を実行させるつもりですか？ コンバージョンイベントとは何ですか？ もちろん、この質問に対する回答は、サイトのタイプ/業種や組織の目標に応じて様々です。 いずれにせよ、AAMでは、これらの条件を満たした訪問者の特性を作成するのが一般的です。
+サイトでのオーディエンスの行動を促進していますか？ コンバージョンイベントとは？ もちろん、サイトの種類や業種、組織の目標に応じて、この質問に対する答えはたくさんあります。 いずれにせよ、AAMでは、これらの条件を満たした訪問者の特性を作成するのが一般的です。
 
-AAMには、特に [!UICONTROL Audience Lab] で使用するために、特性をコンバージョン特性としてマークできるフィールドがあります。
+AAMには、特に[!UICONTROL Audience Lab]で使用する場合に、特性をコンバージョン特性としてマークできるフィールドがあります。
 
-また、特性を作成するためにイベントを使用する場合、必要以上のユーザーを特性に収集しないように、注意する必要がある重要な問題があります。 詳しくは、このビデオをご覧ください。
+また、イベントを使用して特性を作成する場合は、特性に追加するユーザーを収集しないようにする必要がある大きな注意点があります。 このビデオを見て、大きな発見を得ましょう。

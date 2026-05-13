@@ -1,6 +1,6 @@
 ---
-title: Analytics データからの特性作成の計画
-description: Audience Managerで特性にAdobe Analytics データを使用する予定がある場合に役立つヒントとテクニックについて説明します。
+title: Analytics データから特性の作成を計画する
+description: Audience Managerの特性にAdobe Analytics データを使用する場合に役立つヒントとテクニックについて説明します。
 feature: Traits
 topics: null
 activity: implement
@@ -11,15 +11,24 @@ kt: 6491
 role: Developer
 level: Beginner
 exl-id: 37a0958d-794f-4783-8f0b-523293ae875a
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/PdMrlhNeRxp6BkkNWf3XsrTIaFDfLNpQA4gBKv0WzRY
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: 56
 ht-degree: 0%
 
 ---
 
-# Analytics データからの特性作成の計画
+# Analytics データから特性の作成を計画する
 
-Audience Managerで特性にAdobe Analytics データを使用する予定がある場合に役立つヒントとテクニックについて説明します。
+Audience Managerの特性にAdobe Analytics データを使用する場合に役立つヒントとテクニックについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330123/?captions=jpn&quality=12&learn=on)
