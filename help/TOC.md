@@ -3,7 +3,8 @@ user-guide-title: Adobe Audience Manager チュートリアル
 user-guide-description: Adobe Analytics 向けのビデオとチュートリアルのコレクションです。
 breadcrumb-title: Audience Manager チュートリアル
 solution: Audience Manager
-product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
 usetq: true
 type: Tutorial
 source-git-commit: af2ccf1847942e9aa1ed1e0f534ead635cd1f055
