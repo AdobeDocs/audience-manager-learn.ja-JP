@@ -39,7 +39,7 @@ ht-degree: 0%
 
 セカンドパーティデータとサードパーティデータの使用状況を[!UICONTROL Audience Marketplace]で報告する際には、手作業で行いたくないという十分なエントリがある可能性があります。 このビデオでは、データ使用レポートのバルクアップロードツールの使用方法について説明します。 このツールを使用すると、更新する項目が多い場合でも、データの使用状況を簡単に報告できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34027/?captions=jpn&quality=12)
 
 この一括アップロードツールを使用して、データ使用状況のレポートを簡素化し、時間を節約できるだけでなく、[!UICONTROL Audience Marketplace]から2nd パーティまたはサードパーティのデータを購入する顧客には、コスト属性ポリシーの改善が役立ちます。 この新しいポリシーは、ルールベースのセグメントにおける特性の一意のユーザー数に基づいてコストをデータプロバイダーに割り当て、より透明性が高く、公平な利用料金の請求を実現します。
 請求アルゴリズムの詳細については、製品ドキュメントの「[CPM データフィードのコスト属性](https://experiencecloud.adobe.com/resources/help/ja_JP/aam/marketplace_cpm_billing.html)」を参照してください。
