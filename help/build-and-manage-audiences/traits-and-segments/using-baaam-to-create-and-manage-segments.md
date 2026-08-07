@@ -1,6 +1,6 @@
 ---
-title: BAAAM を使用したセグメントの作成と管理
-description: Audience Managerの BAAAM ツールを使用すると、セグメントの作成や管理を一括で行ったり、セグメントをフォルダーに格納したり、セグメントルールに特性を追加したり、セグメントを宛先にマッピングしたりできます。
+title: BAAAMを使用したセグメントの作成と管理
+description: Audience ManagerのBAAAM ツールを使用して、セグメントを一括で作成および管理し、フォルダーに配置したり、セグメントルールに特性を追加したり、宛先にマッピングしたりできます。
 feature: BAAAM
 topics: null
 audience: marketer
@@ -11,18 +11,18 @@ thumbnail: 39148.jpg
 kt: 6057
 source-git-commit: b85100e7ad39468ba6bea2da77068ed37685c84d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 
-# BAAAM を使用したセグメントの作成と管理
+# BAAAMを使用したセグメントの作成と管理
 
-Audience Managerの BAAAM ツールを使用すると、セグメントの作成や管理を一括で行ったり、セグメントをフォルダーに格納したり、セグメントルールに特性を追加したり、セグメントを宛先にマッピングしたりできます。
+Audience ManagerのBAAAM ツールを使用して、セグメントを一括で作成および管理し、フォルダーに配置したり、セグメントルールに特性を追加したり、宛先にマッピングしたりできます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >
->BAAAM を使用するには、64 ビット Microsoft Windows で動作するMicrosoft Excel が必要です。 最新バージョンのMicrosoft Excel を使用することをお勧めします。 一括管理ツールは、macOSではサポートされなくなりました。
+>BAAAMでは、64 ビット版のMicrosoft Windowsで動作するMicrosoft Excelが必要です。 最新バージョンのMicrosoft Excelを使用することをお勧めします。 一括管理ツールは、macOSではサポートされなくなりました。
