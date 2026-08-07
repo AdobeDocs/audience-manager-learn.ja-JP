@@ -1,6 +1,6 @@
 ---
-title: セグメントの一括管理のための BAAAM の設定
-description: Audience Managerの特性およびセグメントの一括管理ツールである BAAAM について、使用に備えた設定方法などを説明します。
+title: セグメントの一括管理用にBAAAMを設定する
+description: Audience Managerの特性とセグメントの一括管理ツールであるBAAAMについて学び、すぐに使用できるように設定する方法を含めます。
 audience: marketer
 activity: use
 doc-type: feature video
@@ -15,8 +15,8 @@ ht-degree: 0%
 ---
 
 
-# セグメントの一括管理のための BAAAM の設定
+# セグメントの一括管理用にBAAAMを設定する
 
-Audience Managerの特性およびセグメントの一括管理ツールである BAAAM について、使用に備えた設定方法などを説明します。
+Audience Managerの特性とセグメントの一括管理ツールであるBAAAMについて学び、すぐに使用できるように設定する方法を含めます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39141/?quality=12&learn=on)
