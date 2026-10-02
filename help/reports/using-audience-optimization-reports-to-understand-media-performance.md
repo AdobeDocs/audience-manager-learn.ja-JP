@@ -43,4 +43,4 @@ Audience Optimizationのレポートを活用してマーケティング施策�
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
-詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting)を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html?lang=ja#reporting)を参照してください。

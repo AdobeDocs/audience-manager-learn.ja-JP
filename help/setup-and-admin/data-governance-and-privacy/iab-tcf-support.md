@@ -45,7 +45,7 @@ Adobeでは、オプトイン機能およびAudience Manager プラグインを�
 
 ## 最初のステップ：Experience Cloud ID オプトインについて {#first-step-understand-ecid-s-opt-in}
 
-IAB TCFの操作方法を理解するには、まずExperience Cloud ID Service （ECID） ライブラリの一部である[!DNL Opt-in]機能について理解する必要があります。 オプトインの仕組みをご存知でない場合は、最初に[この記事](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html)を参照してください。 また、オプトイン [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=ja)を確認する必要があります。 これらのリソースを完了したら、このページに戻って続行します。
+IAB TCFの操作方法を理解するには、まずExperience Cloud ID Service （ECID） ライブラリの一部である[!DNL Opt-in]機能について理解する必要があります。 オプトインの仕組みをご存知でない場合は、最初に[この記事](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=ja)を参照してください。 また、オプトイン [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=ja)を確認する必要があります。 これらのリソースを完了したら、このページに戻って続行します。
 
 ## IAB TCF用Audience Manager プラグイン {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -94,7 +94,7 @@ IAB TCFを使用する利点の1つは、上記の標準的な目的により、
 
 Audience Managerを承認するため（例：オプトインのIAB目的を翻訳してAAMに「はい」票を付与するには、上記の目的1および目的10は、エンドユーザーの同意を得る必要があります。 これらのいずれかが承認されていない場合、またはベンダーが承認されていない場合、AAMはピクセルファイヤーを実行したり、Cookieを設定したりしません。 また、多くのお客様は、Audience Manager（およびその他のExperience Cloud ソリューション）の使用を許可または禁止する「オールオアナッシング」 UIをエンドユーザーに提供することを選択しています。
 
-[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en)には、Audience Manager Plug-In for IAB TCF フローがパブリッシャーと広告主の両方のユースケースにどのように適用されるかについて、素晴らしい情報がいくつかあります。
+[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=ja)には、Audience Manager Plug-In for IAB TCF フローがパブリッシャーと広告主の両方のユースケースにどのように適用されるかについて、素晴らしい情報がいくつかあります。
 
 ## IAB：同意をダウンストリームに送信する {#iab-sending-consent-downstream}
 
@@ -111,4 +111,4 @@ IAB TCF用のAudience Manager プラグインを使用すると、ユーザー�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-実装およびテスト方法、ユースケース、ワークフローなど、IAB TCF 2.2用のAudience Manager プラグインについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html)を参照してください。
+実装およびテスト方法、ユースケース、ワークフローなど、IAB TCF 2.2用のAudience Manager プラグインについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=ja)を参照してください。
