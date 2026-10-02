@@ -57,7 +57,7 @@ IAB TCF用のAudience Manager プラグインは、オプトイン機能を拡�
 
 以下の短いビデオに示すように、Adobe Experience Platform Launchを使用している場合は、Audience Manager プラグインをIAB TCF用に有効にするのは簡単です。これは簡単なチェックボックスです。
 
->[!VIDEO](https://video.tv.adobe.com/v/26433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38261/?captions=jpn&quality=12)
 
 または、Launchを使用していない場合は、`isIabContext=true`を使用して、Experience Cloud訪問者をインスタンス化するときに有効にすることができます。 これにより、IAB TCF フローが開始されます。つまり、IAB TCFを使用してIAB TC文字列のクエリを実行し、オプトインに返すことで、同意収集に別のステップを追加し、その後はExperience Cloud ソリューションと通信します。
 
@@ -109,6 +109,6 @@ IAB TCF用のAudience Manager プラグインを使用すると、ユーザー�
 
 以下のビデオでは、ECIDとソリューションのCookieとビーコンが、IAB ユーザー選択の影響を受ける方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38245/?captions=jpn&quality=12)
 
 実装およびテスト方法、ユースケース、ワークフローなど、IAB TCF 2.2用のAudience Manager プラグインについて詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=ja)を参照してください。
