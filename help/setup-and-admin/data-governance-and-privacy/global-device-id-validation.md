@@ -109,7 +109,7 @@ ht-degree: 1%
    1. [!DNL advertising ID]に関する[!DNL Apple]情報が[ここ](https://developer.apple.com/documentation/adsupport/asidentifiermanager)にあります。
    1. [!DNL Android]開発者の[!DNL advertiser ID]の設定に関する情報の一部は、[ここ](http://android.cn-mirrors.com/google/play-services/id.html)にあります。
 1. SDKの[!DNL setAdvertisingIdentifier] メソッドを使用してExperience Cloudに送信します
-   1. `setAdvertisingIdentifier`を使用するための情報は、[!DNL iOS]と[!DNL Android]の両方の[ ドキュメント ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)に記載されています。
+   1. `setAdvertisingIdentifier`を使用するための情報は、[!DNL iOS]と[!DNL Android]の両方の[&#x200B; ドキュメント &#x200B;](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier)に記載されています。
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
@@ -118,16 +118,16 @@ ht-degree: 1%
 
 誤ったグローバルデバイス ID （IDFA、GAIDなど）がリアルタイムでAudience Managerに送信されると、ヒット時にエラーコードが返されます。 次に、IDが[!DNL Apple IDFA]として送信され、大文字のみを含める必要がありますが、IDに小文字の「x」が含まれているため、返されるエラーの例を示します。
 
-![ エラー画像](assets/image_4_.png)
+![&#x200B; エラー画像](assets/image_4_.png)
 
-エラーコードの一覧については、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)を参照してください。
+エラーコードの一覧については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code)を参照してください。
 
 ## グローバルデバイス IDのオンボーディング {#onboarding-global-device-ids}
 
-グローバルデバイス IDのリアルタイム送信に加えて、IDに対して「[!DNL onboard]」（アップロード）データを送信することもできます。 このプロセスは、お客様ID （通常はキーと値のペアを介して）に対してデータをオンボーディングする場合と同じですが、適切なData Source IDを使用するだけで、データがグローバルデバイス IDに割り当てられます。 オンボーディングプロセスに関するドキュメントについては、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)を参照してください。 使用しているプラットフォームに応じて、グローバルデータソース IDを使用することを忘れないでください。
+グローバルデバイス IDのリアルタイム送信に加えて、IDに対して「[!DNL onboard]」（アップロード）データを送信することもできます。 このプロセスは、お客様ID （通常はキーと値のペアを介して）に対してデータをオンボーディングする場合と同じですが、適切なData Source IDを使用するだけで、データがグローバルデバイス IDに割り当てられます。 オンボーディングプロセスに関するドキュメントについては、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides)を参照してください。 使用しているプラットフォームに応じて、グローバルデータソース IDを使用することを忘れないでください。
 
 オンボーディングプロセスを通じて誤ったグローバルデバイス IDが送信された場合、エラーは[[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting)に表示されます。
 
 次に、そのレポートに表示されるエラーの例を示します。
 
-![ エラー画像](assets/image_5_.png)
+![&#x200B; エラー画像](assets/image_5_.png)

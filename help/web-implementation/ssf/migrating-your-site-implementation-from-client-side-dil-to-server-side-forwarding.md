@@ -57,7 +57,7 @@ ht-degree: 0%
 
 Adobe Analytics データをAAMに取り込む2つの方法を比較して比較する場合、まず次の画像の違いを視覚化すると便利です。
 
-![ クライアントサイドからサーバーサイドへ](assets/client-side_vs_server-side_aam_implementation.png)
+![&#x200B; クライアントサイドからサーバーサイドへ](assets/client-side_vs_server-side_aam_implementation.png)
 
 ### クライアントサイドのDIL実装 {#client-side-dil-implementation}
 
@@ -105,7 +105,7 @@ AAMを実装するサーバーサイド転送方式に移行することをお�
 
 サーバーサイド転送に移行する主な前提条件は、Experience Cloud ID サービスを実装することです。 これは、Experience Platform Launchを使用している場合に最も簡単に実行できます。この場合、ECID拡張機能をインストールするだけで、残りの作業を行うことができます。
 
-Adobe以外のTMSを使用している場合、またはTMSをまったく使用していない場合は、ECIDを実装して&#x200B;**before**&#x200B;他のAdobe ソリューションを実行してください。 詳しくは、[ECID ドキュメント ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja)を参照してください。 他の前提条件はコードバージョンだけなので、次の手順でコードの最新バージョンを適用するだけで問題ありません。
+Adobe以外のTMSを使用している場合、またはTMSをまったく使用していない場合は、ECIDを実装して&#x200B;**before**&#x200B;他のAdobe ソリューションを実行してください。 詳しくは、[ECID ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja)を参照してください。 他の前提条件はコードバージョンだけなので、次の手順でコードの最新バージョンを適用するだけで問題ありません。
 
 >[!NOTE]
 >
@@ -123,7 +123,7 @@ Adobe以外のTMSを使用している場合、またはTMSをまったく使用
 
 ### 手順2：コードの更新 {#step-updating-the-code}
 
-[実装オプション ](#implementation-options) （上記）では、サーバーサイド転送を実装する方法と場所に関して、複数のオプションが指定されています。 このセクションを効果的に使用するには、これらのセクションに分割する必要があります（そのうちの2つを組み合わせて）。 この節の方法で、ニーズに最もよく当てはまるものを選択してください。
+[実装オプション &#x200B;](#implementation-options) （上記）では、サーバーサイド転送を実装する方法と場所に関して、複数のオプションが指定されています。 このセクションを効果的に使用するには、これらのセクションに分割する必要があります（そのうちの2つを組み合わせて）。 この節の方法で、ニーズに最もよく当てはまるものを選択してください。
 
 #### Adobe Experience Platform tags {#launch-by-adobe}
 
@@ -187,7 +187,7 @@ Adobe Experience Platform Launchで、クライアントサイドのDILコード
 
    1. できるだけ早く、クライアントサイドのDILからシングルサイド転送にコードを更新します（これはPlatform タグまたはページ上で行うことができます。前述の別の節で説明します）。
 
-      1. [!DNL Analytics] ビーコンに対して適切なJSON応答が返されます（詳細については、以下の[検証とトラブルシューティング ](#validation-and-troubleshooting)の節を参照）。
+      1. [!DNL Analytics] ビーコンに対して適切なJSON応答が返されます（詳細については、以下の[検証とトラブルシューティング &#x200B;](#validation-and-troubleshooting)の節を参照）。
 
 >[!NOTE]
 >
@@ -233,4 +233,4 @@ Adobe Experience Platform Launchで、クライアントサイドのDILコード
 
 ![false success](assets/falsesuccess.png)
 
-サーバーサイド転送について詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ja)を参照してください。
+サーバーサイド転送について詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=ja)を参照してください。

@@ -38,4 +38,4 @@ ht-degree: 6%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-詳しくは、[ ドキュメント ](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=ja)を参照してください。
+詳しくは、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=ja)を参照してください。

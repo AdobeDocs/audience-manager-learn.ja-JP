@@ -43,4 +43,4 @@ ht-degree: 0%
 
 ファイルの命名と読み込みに関するビデオについては、[ここ](steps-for-ingesting-file-based-data.md)をクリックしてください。
 
-詳細については、[ ドキュメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?)を参照してください。
+詳細については、[&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?)を参照してください。
