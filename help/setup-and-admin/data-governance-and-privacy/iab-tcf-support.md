@@ -7,32 +7,45 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+TQID: 'https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
+subfeature_v2:
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 1148
+source-wordcount: '1148'
 ht-degree: 1%
-
 ---
-
 # AUDIENCE MANAGERでのIAB TCF 2.2のサポート {#iab-tcf-support-in-audience-manager}
 
 Adobeでは、オプトイン機能およびAudience Manager プラグインを通じて、IAB Transparency and Consent Framework 2.2 （TCF 2.2）のサポートを通じて、ユーザーのプライバシーに関する選択肢を管理および伝えることができます。 この記事では、IAB TCFに対するAudience Manager プラグインの概要と、Adobeのオプトインオブジェクトおよび同意管理プロバイダー（CMP）との連携について説明するドキュメントと連携します。 IABについて詳しくは、同社のWeb サイト（[https://www.iabeurope.eu/](https://www.iabeurope.eu/)）を参照してください。
 
-## 最初の手順：Experience Cloud ID オプトインについて {#first-step-understand-ecid-s-opt-in}
+## 最初のステップ：Experience Cloud ID オプトインについて {#first-step-understand-ecid-s-opt-in}
 
-IAB TCFの操作方法を理解するには、まず、Experience Cloud ID サービス （ECID） ライブラリの一部である[!DNL Opt-in]機能について理解する必要があります。 オプトインの仕組みをご存知でない場合は、最初に[この記事](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=ja)を参照してください。 また、オプトイン [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=ja)を確認する必要があります。 これらのリソースを完了したら、このページに戻って続行します。
+IAB TCFの操作方法を理解するには、まずExperience Cloud ID Service （ECID） ライブラリの一部である[!DNL Opt-in]機能について理解する必要があります。 オプトインの仕組みをご存知でない場合は、最初に[この記事](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=ja)を参照してください。 また、オプトイン [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=ja)を確認する必要があります。 これらのリソースを完了したら、このページに戻って続行します。
 
 ## IAB TCF用Audience Manager プラグイン {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -46,7 +59,7 @@ IAB TCF用のAudience Manager プラグインは、オプトイン機能を拡�
 
 >[!VIDEO](https://video.tv.adobe.com/v/38261/?captions=jpn&quality=12)
 
-または、Launchを使用していない場合は、`isIabContext=true`を使用してExperience Cloud Visitorのインスタンス化を有効にすることもできます。 これにより、IAB TCF フローが開始されます。つまり、IAB TCFを使用してIAB TC文字列をクエリし、オプトインに戻すことで、同意収集に別のステップを追加し、その後、Experience Cloud ソリューションと通信します。
+または、Launchを使用していない場合は、`isIabContext=true`を使用して、Experience Cloud訪問者をインスタンス化するときに有効にすることができます。 これにより、IAB TCF フローが開始されます。つまり、IAB TCFを使用してIAB TC文字列のクエリを実行し、オプトインに返すことで、同意収集に別のステップを追加し、その後はExperience Cloud ソリューションと通信します。
 
 ## IAB TC文字列 {#iab-tcf-consent-string}
 
@@ -79,7 +92,7 @@ IAB TC文字列のもう1つの部分は、数百のベンダーの長いリス�
 
 IAB TCFを使用する利点の1つは、上記の標準的な目的により、Adobe ソリューションのリストよりも、エンドユーザーが承認済みの内容をより深く理解できることです。 エンドユーザーは、Audience Managerまたは[!DNL Target]を「承認」することの意味を理解していないかもしれませんが、「デバイス上の情報を保存および/またはアクセスする」または「製品を開発および改良する」ことは、おそらく理解しやすく、同意しやすいでしょう。
 
-Audience Managerを承認するため（例：オプトインのIAB目的を翻訳してAAMに「はい」票を付与するには、上記の目的1および目的10は、エンドユーザーの同意を得る必要があります。 これらのいずれかが承認されていない場合、またはベンダーが承認されていない場合、AAMはピクセルファイヤーを実行したり、Cookieを設定したりしません。 また、多くのお客様が「オールオアナッシング」 UIをエンドユーザーに提供することを選択していることを知っておくのも良いことです。このUIは、Audience Manager（およびその他のExperience Cloud ソリューション）の使用を許可または禁止します。
+Audience Managerを承認するため（例：オプトインのIAB目的を翻訳してAAMに「はい」票を付与するには、上記の目的1および目的10は、エンドユーザーの同意を得る必要があります。 これらのいずれかが承認されていない場合、またはベンダーが承認されていない場合、AAMはピクセルファイヤーを実行したり、Cookieを設定したりしません。 また、多くのお客様は、Audience Manager（およびその他のExperience Cloud ソリューション）の使用を許可または禁止する「オールオアナッシング」 UIをエンドユーザーに提供することを選択しています。
 
 [&#x200B; ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=ja)には、Audience Manager Plug-In for IAB TCF フローがパブリッシャーと広告主の両方のユースケースにどのように適用されるかについて、素晴らしい情報がいくつかあります。
 

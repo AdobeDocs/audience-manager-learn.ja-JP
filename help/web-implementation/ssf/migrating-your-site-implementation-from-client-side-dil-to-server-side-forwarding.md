@@ -3,7 +3,7 @@ title: クライアントサイドのDILからサーバーサイドの転送に�
 description: クライアントサイド DILからサーバーサイド転送にサイトのAudience Manager（AAM）実装を移行する方法について説明します。 このチュートリアルは、AAMとAdobe Analyticsの両方を使用しており、DIL（Data Integration Library）コードを使用してページからAAMにヒットを送り、ページからAdobe Analyticsにもヒットを送る場合に適用されます。
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
@@ -11,34 +11,47 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+TQID: 'https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
 subfeature_v2:
   - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+    internal-label: DIL implementation
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Personalization
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 2419
+source-wordcount: '2419'
 ht-degree: 0%
-
 ---
-
 # クライアントサイドのDILからサーバーサイドの転送にサイトのAudience Manager実装を移行する {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-このチュートリアルは、Adobe Audience Manager（AAM）とAdobe Analyticsの両方を使用しており、現在DIL（[!DNL Data Integration Library]）コードを使用してページからAAMにヒットを送り、ページからAdobe Analyticsにヒットを送っている場合に適用されます。 これらのソリューションは両方ともAdobe Experience Cloudに含まれているため、サーバーサイド転送を有効にするベストプラクティスに従って、[!DNL Analytics] データ収集サーバーがクライアント側のコードでページからAAMにヒットを送信するのではなく、サイト分析データをリアルタイムでAudience Managerに転送できるようにします。 このチュートリアルでは、従来のクライアントサイド DILの実装から新しいサーバーサイド転送方式への切り替えを行う手順について説明します。
+このチュートリアルは、Adobe Audience Manager（AAM）とAdobe Analyticsの両方を使用しており、現在DIL（[!DNL Data Integration Library]）コードを使用してページからAAMにヒットを送り、ページからAdobe Analyticsにヒットを送っている場合に適用されます。 これらのソリューションは両方ともAdobe Experience Cloudに含まれているため、サーバーサイド転送を有効にするベストプラクティスに従って、[!DNL Analytics] データ収集サーバーがクライアント側のコードを使用してページからAAMにヒットを送信するのではなく、Audience Managerにサイト分析データをリアルタイムで転送できるようにします。 このチュートリアルでは、従来のクライアントサイド DILの実装から新しいサーバーサイド転送方式への切り替えを行う手順について説明します。
 
 ## クライアントサイド（DIL）とサーバーサイド {#client-side-dil-vs-server-side}
 
@@ -90,7 +103,7 @@ AAMを実装するサーバーサイド転送方式に移行することをお�
 
 ### 手順0：前提条件：Experience Cloud ID サービス（ECID） {#step-prerequisite-experience-cloud-id-service-ecid}
 
-サーバーサイド転送に移行するための主な前提条件は、Experience Cloud ID サービスを実装することです。 これは、Experience Platform Launchを使用している場合に最も簡単に実行できます。この場合、ECID拡張機能をインストールするだけで、残りの作業を行うことができます。
+サーバーサイド転送に移行する主な前提条件は、Experience Cloud ID サービスを実装することです。 これは、Experience Platform Launchを使用している場合に最も簡単に実行できます。この場合、ECID拡張機能をインストールするだけで、残りの作業を行うことができます。
 
 Adobe以外のTMSを使用している場合、またはTMSをまったく使用していない場合は、ECIDを実装して&#x200B;**before**&#x200B;他のAdobe ソリューションを実行してください。 詳しくは、[ECID ドキュメント &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja)を参照してください。 他の前提条件はコードバージョンだけなので、次の手順でコードの最新バージョンを適用するだけで問題ありません。
 

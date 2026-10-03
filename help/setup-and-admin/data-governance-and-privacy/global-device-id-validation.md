@@ -10,29 +10,44 @@ kt: 2977
 role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-TQID: https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs
+TQID: 'https://experienceleague.adobe.com/SMG7-LEhxtM1qAis17upYFx-mNUYITf5B-zCYIkHYYs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
   - id: baaa0dd2-d27e-4921-aae3-7888623a5fa5
+    internal-label: APIs and SDKs
+  - id: b89b323a-1e91-40b1-8d20-96b5b726d55a
+    internal-label: Audience management
 subfeature_v2:
   - id: d8f681b8-67cc-42dc-85c5-a0977528a942
+    internal-label: Data Collection Server
   - id: e8a4c7eb-7254-4984-ac46-e651a57c7e39
+    internal-label: SDKs
+  - id: a1d8adf7-4300-4ca2-870f-1612c6774544
+    internal-label: Data governance and privacy
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Privacy
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 788
+source-wordcount: '788'
 ht-degree: 1%
-
 ---
-
 # グローバルデバイス IDの検証 {#global-device-id-validation}
 
 デバイス Advertising ID （iDFA、GAID、Roku ID）には、デジタル広告エコシステムで使用するために満たす必要があるフォーマット標準があります。 現在、お客様やパートナーは、IDが適切にフォーマットされているかどうかの通知を受けることなく、任意のフォーマットでIDをアドビのグローバルデータソースにアップロードできます。 この機能を使用すると、グローバル データ ソースに送信されるデバイス IDの検証が適切な形式で行われ、IDが誤って形式に設定されている場合にエラーメッセージが表示されます。 起動時に[!DNL iDFA]、[!DNL Google Advertising]および[!DNL Roku IDs]の検証をサポートします。
@@ -88,7 +103,7 @@ ht-degree: 1%
 
 ## アプリでのAdvertising IDの設定 {#setting-an-advertising-identifier-in-the-app}
 
-アプリで広告主IDを設定するには、まず広告主IDを取得し、次にExperience Cloudに送信する2つの手順を実行します。 これらの手順を実行するためのリンクを以下に示します。
+アプリで広告主IDを設定するには、まず広告主IDを取得し、それをExperience Cloudに送信する2つの手順を踏みます。 これらの手順を実行するためのリンクを以下に示します。
 
 1. IDの取得
    1. [!DNL advertising ID]に関する[!DNL Apple]情報が[ここ](https://developer.apple.com/documentation/adsupport/asidentifiermanager)にあります。
